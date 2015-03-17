@@ -34,6 +34,7 @@ my $r;
 	my $more = 0;
 	my $wait = 0;
 	my $cn = 0;
+	my $time;
 	do {
 		if ($more == 0) {
 			$r = $nt->search({q => $searchterm, count => "100" , lang => "de" });
@@ -55,10 +56,15 @@ my $r;
 				
 		}
 		$wait++;
-		if($wait >= 175){
+		if($wait >= 175 && $more == 1){
+			$time = localtime;
+			print "$time - Reached 175 Calls, sleeping for 15 minutes!\n";
+			sleep 5;
 			sleep 900;
 			$wait = 0;
 		}
     } while ($more == 1);
+	my $end = localtime;
+	print "$end - finished running script. $cn tweets! - Calls since last wait: $wait";
   };
   warn "Error: $@\n" if $@;

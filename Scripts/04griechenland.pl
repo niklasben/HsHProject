@@ -59,6 +59,7 @@ my $r;
 		if($wait >= 175 && $more == 1){
 			$time = localtime;
 			print "$time - Reached 175 Calls, sleeping for 15 minutes!\n";
+			sleep 5;
 			sleep 900;
 			$wait = 0;
 		}
