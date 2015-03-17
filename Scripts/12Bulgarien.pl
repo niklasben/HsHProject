@@ -12,8 +12,8 @@ binmode(STDOUT, ":utf8");
 
 my $date = localtime->strftime('%Y%m%d');
 my $filename = "TweetFile_Bulgarien_".$date.".txt";
-my $dir = dir("Z:/Projekt Sem 6");
-my $file = file($filename);
+my $dir = dir("../Output");
+my $file = $dir->file($filename);
 my $file_handle = $file->openw();
 
   my $searchterm = "bulgarien OR bulgarisch OR bulgare OR bulgaren OR bulgarin OR bulgarinnen OR sofia OR Bălgarija OR Bulgaria";

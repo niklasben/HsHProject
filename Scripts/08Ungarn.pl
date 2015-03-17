@@ -10,12 +10,13 @@ use autodie;
 use open ':encoding(utf8)';
 binmode(STDOUT, ":utf8");
 
-my $date = localtime->strftime('%Y.%m.%d');
-my $dir = dir("Z:/Projekt Sem 6");
-my $file = file("TweetFile_Frankreich_" + $date + ".txt");
+my $date = localtime->strftime('%Y%m%d');
+my $filename = "TweetFile_Ungarn_".$date.".txt";
+my $dir = dir("../Output");
+my $file = $dir->file($filename);
 my $file_handle = $file->openw();
 
-  my $searchterm = "frankreich OR france OR französisch OR franzose OR französin OR franzosen OR französinnen OR paris";
+  my $searchterm = "ungarn OR hungary OR magyarorszag OR ungarisch OR ungar OR ungarin OR ungarinnen OR budapest";
 
   my $nt = Net::Twitter::Lite::WithAPIv1_1->new(
       traits   => [qw/API::Search/],
@@ -56,7 +57,7 @@ my $r;
 		$wait++;
 		if($wait >= 175 && $more == 1){
 			$time = localtime;
-			print "$time - Reached 175 Calls, sleeping for 15 minutes!";
+			print "$time - Reached 175 Calls, sleeping for 15 minutes!\n";
 			sleep 900;
 			$wait = 0;
 		}

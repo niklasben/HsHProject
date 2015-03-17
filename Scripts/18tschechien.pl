@@ -11,12 +11,12 @@ use open ':encoding(utf8)';
 binmode(STDOUT, ":utf8");
 
 my $date = localtime->strftime('%Y%m%d');
-my $filename = "TweetFile_Italien_".$date.".txt";
-my $dir = dir("Z:/Projekt Sem 6");
-my $file = file($filename);
+my $filename = "TweetFile_Tschechien_".$date.".txt";
+my $dir = dir("../Output");
+my $file = $dir->file($filename);
 my $file_handle = $file->openw();
 
-  my $searchterm = "italien OR italy OR italia OR italiener OR italienerin OR italienerinnen OR rom OR italienisch";
+  my $searchterm = "tschechien OR tschechisch OR tscheche OR tschechin OR czech OR czechia OR ceska OR prag";
 
   my $nt = Net::Twitter::Lite::WithAPIv1_1->new(
       traits   => [qw/API::Search/],

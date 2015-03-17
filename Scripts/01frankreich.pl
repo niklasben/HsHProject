@@ -11,12 +11,12 @@ use open ':encoding(utf8)';
 binmode(STDOUT, ":utf8");
 
 my $date = localtime->strftime('%Y%m%d');
-my $filename = "TweetFile_Ukraine_".$date.".txt";
-my $dir = dir("Z:/Projekt Sem 6");
-my $file = file($filename);
+my $filename = "TweetFile_Frankreich_".$date.".txt";
+my $dir = dir("../Output");
+my $file = $dir->file($filename);
 my $file_handle = $file->openw();
 
-  my $searchterm = "ukraine OR ukrajina OR ukrainisch OR ukrainer OR ukrainerin OR ukrainerinnen OR kiev";
+  my $searchterm = "frankreich OR france OR französisch OR franzose OR französin OR franzosen OR französinnen OR paris";
 
   my $nt = Net::Twitter::Lite::WithAPIv1_1->new(
       traits   => [qw/API::Search/],
@@ -57,7 +57,7 @@ my $r;
 		$wait++;
 		if($wait >= 175 && $more == 1){
 			$time = localtime;
-			print "$time - Reached 175 Calls, sleeping for 15 minutes!\n";
+			print "$time - Reached 175 Calls, sleeping for 15 minutes!";
 			sleep 900;
 			$wait = 0;
 		}
