@@ -34,6 +34,8 @@ my $r;
 	my $wait = 0;
 	my $cn = 0;
 	my $time;
+	print "please provide current wait status (calls since last wait):\n";
+	$wait = <>;
 	do {
 		if ($more == 0) {
 			$r = $nt->search({q => $searchterm, count => "100" , lang => "de" });
