@@ -16,7 +16,7 @@ my $dir = dir("../Output");
 my $file = $dir->file($filename);
 my $file_handle = $file->openw();
 
-  my $searchterm = "uk OR united%20kingdom OR unitedkingdom OR united_kingdom OR london";
+  my $searchterm = "uk OR unitedkingdom OR united_kingdom OR london";
 
   my $nt = Net::Twitter::Lite::WithAPIv1_1->new(
       traits   => [qw/API::Search/],

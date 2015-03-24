@@ -16,7 +16,7 @@ my $dir = dir("../Output");
 my $file = $dir->file($filename);
 my $file_handle = $file->openw();
 
-  my $searchterm = "großbritannien OR great britain OR greatbritain OR great_britain OR britisch OR british
+  my $searchterm = "großbritannien OR greatbritain OR britisch OR british
   					OR brite OR britin OR briten OR britinnen";
 
   my $nt = Net::Twitter::Lite::WithAPIv1_1->new(

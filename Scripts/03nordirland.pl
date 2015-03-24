@@ -16,7 +16,7 @@ my $dir = dir("../Output");
 my $file = $dir->file($filename);
 my $file_handle = $file->openw();
 
-  my $searchterm = "nordirland OR northern ireland OR tuaisceart eireann OR norlin airlann OR nordire OR nordirin OR
+  my $searchterm = "nordirland OR northern_ireland OR nordire OR nordirin OR
   					nordiren OR nordirinnen OR nordirisch OR belfast";
 
   my $nt = Net::Twitter::Lite::WithAPIv1_1->new(
