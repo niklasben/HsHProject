@@ -1,5 +1,5 @@
 # HsHProject
-Files for a Student Project at the University of Applied Sciences and Arts Hannover
+Files for a Students Project at the University of Applied Sciences and Arts Hannover
 
 ## Lemmatizer
 
