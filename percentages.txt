@@ -1,4 +1,4 @@
-Frankreich: 77%
+﻿Frankreich: 77%
 Spanien: 72%
 England: 72%
 Großbritannien: 0,236%
@@ -23,3 +23,5 @@ Polen: 18,5%
 Tschechien: 6,7%
 Italien: 49,0%
 Portugal: 5,6%
+
+mean: 26%

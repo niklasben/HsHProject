@@ -44,25 +44,27 @@ my $r;
 			$r = $nt->search({q => $searchterm, count => "100" , lang => "de" , max_id => $lastid });
 		}
 		$more = 0;
-		
+		my $no = 0;
 		for my $status ( @{$r->{statuses}} ) {
-				$more = 1;
-				$cn++;
-				$lastid = $status->{id}; 
-				 
-				# print "$lastid\t";
-				#binmode(STDOUT, ":utf8");
-				$file_handle->print($cn."\t".$status->{id}."\t".$status->{created_at}."\t".$status->{text}."\n")
-				#'\t' {text} . "\n");
-
-				
+			$more = 1;
+			$cn++;
+			$no++;
+			$lastid = $status->{id};
+			 
+			# print "$lastid\t$no";
+			#binmode(STDOUT, ":utf8");
+			$file_handle->print($cn."\t".$status->{id}."\t".$status->{created_at}."\t".$status->{text}."\n")
+			#'\t' {text} . "\n");	
+		}
+		if($no <= 1){
+			$more = 0;
 		}
 		$wait++;
 		if($wait >= 175 && $more == 1){
 			$time = localtime;
 			print "$time - Reached 175 Calls, sleeping for 15 minutes!\n";
 			sleep 5;
-			sleep 895;
+			sleep 900;
 			$wait = 0;
 		}
     } while ($more == 1);
