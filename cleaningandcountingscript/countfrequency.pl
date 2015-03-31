@@ -1,5 +1,5 @@
-my $dir ='C:/Strawberry/perl/bin/cleanedoutput';
-my $dir_fc = 'C:/Strawberry/perl/bin/freq/'; 
+my $dir ='C:/users/Daniel/HshProject/cleaningandcountingscript/LemmaInput';
+my $dir_fc = 'C:/users/Daniel/HshProject/LemmaMerged'; 
 
 $counter = 0;
 
