@@ -23,6 +23,9 @@ sub labelByTopic(file,new_file) {
 				if ($line =~ /$key/gi) {
 					print (new_file $topiclist{$key}."\t".$line);
 				}
+				else {
+					print (new_file "-\t".$line);
+				}
 			}
 		}
 }
