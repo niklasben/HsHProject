@@ -1,0 +1,2 @@
+Urlaub	Urlaub	Reise	Hotel	Flug
+Medizin	Medikament	Patient	Arzt	Medizin
