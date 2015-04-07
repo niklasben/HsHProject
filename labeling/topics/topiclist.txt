@@ -1,2 +1,3 @@
-Urlaub	Urlaub	Reise	Hotel	Flug
+Urlaub/Reisen/Sehenswürdigkeiten	Reise	Hotel	Urlaub	Spa	Strand	Meer	Fluege	Flug	airline	hotel	Pool	Villa	Hostel	Zug	Foto	Flughafen	Stadt	Urlaub	Tour	Photo	Bild	Club	Villa	Fliegen	Reiseangebot	Region	Buchen	Zug	Ferienhaus	Fotografie	Ferienhaeuser
 Medizin	Medikament	Patient	Arzt	Medizin
+Bildung/Karriere/Beruf	Lernen	Schulen	Uebersetzung	Job	Mathe	Schreiben	schule	jobs	nachhilfe	arbeit	uebersetzer	wissen	sprache	lesen	buch	latein	klausur	klassenfahrt	praktikum	lehrer	lehrerin	pruefung	physik	hausaufgaben	unterricht
