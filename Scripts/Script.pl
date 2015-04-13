@@ -14,7 +14,7 @@ my @countries = (
 	'Frankreich',
 	'Spanien',
 	'England',
-	'Großbrittanien',
+	'Grossbrittanien',
 	'Nordirland',
 	'Schottland',
 	'UK',
@@ -41,7 +41,7 @@ my @terms = (
 	"frankreich OR france OR französisch OR franzose OR französin OR franzosen OR französinnen OR paris",
 	"spanien OR spain OR espana OR spanisch OR spanier OR spanierin OR spanierinnen OR barcelona OR madrid",
 	"england OR englaender OR englaenderin OR englaenderinnen OR englisch OR london",
-	"großbritannien OR greatbritain OR britisch OR british OR brite OR britin OR briten OR britinnen",
+	"grossbritannien OR greatbritain OR britisch OR british OR brite OR britin OR briten OR britinnen",
 	"nordirland OR northern_ireland OR nordire OR nordirin OR nordiren OR nordirinnen OR nordirisch OR belfast",
 	"schottland OR scotland OR alba OR caledonia OR schottisch OR schotte OR schottin OR schotten OR schottinnen OR edinburgh",
 	"uk OR unitedkingdom OR united_kingdom",
@@ -66,10 +66,10 @@ my @terms = (
 );
 my $country = ""; 
 my $date = localtime->strftime('%Y%m%d');
-my $filename = "TweetFile_".$country."_".$date.".txt";
+my $filename;
 my $dir = dir("../Output");
-my $file = $dir->file($filename);
-my $file_handle = $file->openw();
+my $file;
+my $file_handle;
 my $searchterm;
 
   my $nt = Net::Twitter::Lite::WithAPIv1_1->new(
@@ -102,9 +102,10 @@ eval {
 		if($selected >= 1 && $selected <= 25){
 			$selected--;
 			$searchterm = $terms[$selected];
-			print $searchterm;
 			$country = $countries[$selected];
-			print $country;
+			$filename = "TweetFile_".$country."_".$date.".txt";
+			$file = $dir->file($filename);
+			$file_handle = $file->openw();
 			$resume = 1;
 			print "please provide current wait status (calls since last wait):\n";
 			$wait = <>;
@@ -141,6 +142,7 @@ eval {
 			} while ($more == 1);
 			my $end = localtime;
 			print "$end - finished running script for $country. $cn tweets! - Calls since last wait: $wait\n";
+			$cn = 0;
 		} elsif($selected == 0){
 			$resume = 0;
 			print "\n Ending Script!";
