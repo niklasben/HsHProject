@@ -1,3 +1,17 @@
 Urlaub/Reisen/Sehenswürdigkeiten	Reise	Hotel	Urlaub	Spa	Strand	Meer	Fluege	Flug	airline	hotel	Pool	Villa	Hostel	Zug	Foto	Flughafen	Stadt	Urlaub	Tour	Photo	Bild	Club	Villa	Fliegen	Reiseangebot	Region	Buchen	Zug	Ferienhaus	Fotografie	Ferienhaeuser
-Medizin	Medikament	Patient	Arzt	Medizin
 Bildung/Karriere/Beruf	Lernen	Schulen	Uebersetzung	Job	Mathe	Schreiben	schule	jobs	nachhilfe	arbeit	uebersetzer	wissen	sprache	lesen	buch	latein	klausur	klassenfahrt	praktikum	lehrer	lehrerin	pruefung	physik	hausaufgaben	unterricht
+Wirtschaft/Finanzen/Unternehmen	Geld	Sconto	Euro	Kaufen	Verkaufen	Wirtschaft	Appl	Juncker	Manage	Facebook	Bank	Twitter	ebay		google	business	haendler	aktiencheck	bootsboerse	youtube	immobilien	telekom
+Terrorismus/Unglücke/Unfälle	Angezuendet	Lawine	Gesucht	Waffen	Verdaechtige	Droht	Festgenommen	Polizei	Mordfall	Mord	Terror	Isis	tatort
+Einwanderung/Flüchtlinge	Fluechtlinge	Pegida	Diskriminierung	Exil
+Regierung/Politik/Recht	Politik	Steinmeier	Merkel	Obama	Putin	erdogan	berlusconi	tsipras	varoufakis	poroschenko	Verfassungsgericht	Verfassungswidrig	Urteil	Gerichtsurteil	Minister	Aussenminister	Donezk	Waffenlieferungen	Altkanzler	Milliardenhilfen	weltkrieg	weltkriegsgedenkfeier	eu	europa	nato	krimannexion	krieg	aussenminister	euarmee	ausland	ukrainekrise	botschafter	minister	krim	cdu	assange	militaerparade	demokratie	sanktionen	regierung	krise	diktatur	propaganda	troika	armee	russlandsanktionen	konflikt	bruessel	recht	iran	separatisten	soldaten	praesident	panzer	ukrainekrieg	osze	frieden	ostukraine	oszebeobachter	annexion	legal	gericht	baltikum	griechenlandkrise	saudiarabien	drohnen
+Kultur/Musik	Historisch	Geschichte	Playlist	Museum	Kunst	Kultur	nemtsov	Sehenswuerdigkeit	Eurovision		Konzert
+Netzpolitik/Datenschutz	Vorratsdatenspeicherung	Online	netzpolitik	facebook	Apple	twitter		ebay	google	youtube	telekom
+Sport/Spiele	Fußballvereine	Schalke	Real	Bayern	chelsea	lazio	wolfsburg	mailand	leverkusen	arsenal	koeln	istanbul	manchester	atltico	milan	Fussball	League	Hamilton	zlatan	Sport	weltmeister	fcb		Champions	Spiel	Team	Cup	Neuer	Ibrahimovic	Manager	Fans	rueckspiel	tennis	Klose	Finale	viertelfinale	Uefa	messi	Minecraft	Tore	Ronaldo	bvb	bundesliga	algarvecup	match	championsleague	liga	basketball	euroleague	biathlonwm	daviscup
+Religion	Gott	Islam	Kirche	Papstfranziskus	Papstaudienz	papstpalast		papst
+Kulinarisches	restaurant	nudeln	kartoffeln
+Technik	Sputnik	Android	Iphone	app
+Medizin	zellweger	patient	arzt	doktor	medizin	medikament
+Medien/Rundfunk/Film	News	Nachrichten	tagesschau	Dienachrichten	Bild	Spiegel	zdf	Jauch	Focus	Medien	Dpa	Interview	Wahrheit	Radio	journalisten	Film	Sputnik	Musik	Schlagzeilen	Reuters	Artikel	Stern	Handelsblatt	ukraineberichterstattung	Album	Zellweger	fernsehen	Tatort	Wikileaksgruender	Livestream	Nemzowmord	Kardashian	Newsfunk
+Vergnügen	Dating	Party	sex
+Mode	Fashion	Kleid	jeans	mode	fashionweek
+Familie	Kinder	Kind	Eltern	Familie	Mama	papa
