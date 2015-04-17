@@ -1,0 +1,1766 @@
+[
+	{
+		"Bildung":[
+			{
+				"Frankreich":
+					{
+						"positive": 70,
+						"neutral": 400,
+						"negative": 24
+					}
+			},
+			{
+				"Spanien":
+					{
+						"positive": 25,
+						"neutral": 350,
+						"negative": 40
+					}
+			},
+			{
+				"England":
+					{
+						"positive": 60,
+						"neutral": 375,
+						"negative": 34
+					}
+			},
+			{
+				"UK":
+					{
+						"positive": 35,
+						"neutral": 240,
+						"negative": 20
+					}
+			},
+			{
+				"Russland":
+					{
+						"positive": 35,
+						"neutral": 325,
+						"negative": 70
+					}
+			},
+			{
+				"Ukraine":
+					{
+						"positive": 40,
+						"neutral": 325,
+						"negative": 45
+					}
+			},
+			{
+				"Holland":
+					{
+						"positive": 10,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Schweden":
+					{
+						"positive": 10,
+						"neutral": 90,
+						"negative": 6
+					}
+			},
+			{
+				"Polen":
+					{
+						"positive": 30,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Italien":
+					{
+						"positive": 10,
+						"neutral": 100,
+						"negative": 6
+					}
+			},
+		]
+	},
+	{
+		"Beruf/Karriere":[
+			{
+				"Frankreich":
+					{
+						"positive": 70,
+						"neutral": 400,
+						"negative": 24
+					}
+			},
+			{
+				"Spanien":
+					{
+						"positive": 25,
+						"neutral": 350,
+						"negative": 40
+					}
+			},
+			{
+				"England":
+					{
+						"positive": 60,
+						"neutral": 375,
+						"negative": 34
+					}
+			},
+			{
+				"UK":
+					{
+						"positive": 35,
+						"neutral": 240,
+						"negative": 20
+					}
+			},
+			{
+				"Russland":
+					{
+						"positive": 35,
+						"neutral": 325,
+						"negative": 70
+					}
+			},
+			{
+				"Ukraine":
+					{
+						"positive": 40,
+						"neutral": 325,
+						"negative": 45
+					}
+			},
+			{
+				"Holland":
+					{
+						"positive": 10,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Schweden":
+					{
+						"positive": 10,
+						"neutral": 90,
+						"negative": 6
+					}
+			},
+			{
+				"Polen":
+					{
+						"positive": 30,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Italien":
+					{
+						"positive": 10,
+						"neutral": 100,
+						"negative": 6
+					}
+			},
+		]
+	},
+	{
+		"Wirtschaft/Finanzen":[
+			{
+				"Frankreich":
+					{
+						"positive": 70,
+						"neutral": 400,
+						"negative": 24
+					}
+			},
+			{
+				"Spanien":
+					{
+						"positive": 25,
+						"neutral": 350,
+						"negative": 40
+					}
+			},
+			{
+				"England":
+					{
+						"positive": 60,
+						"neutral": 375,
+						"negative": 34
+					}
+			},
+			{
+				"UK":
+					{
+						"positive": 35,
+						"neutral": 240,
+						"negative": 20
+					}
+			},
+			{
+				"Russland":
+					{
+						"positive": 35,
+						"neutral": 325,
+						"negative": 70
+					}
+			},
+			{
+				"Ukraine":
+					{
+						"positive": 40,
+						"neutral": 325,
+						"negative": 45
+					}
+			},
+			{
+				"Holland":
+					{
+						"positive": 10,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Schweden":
+					{
+						"positive": 10,
+						"neutral": 90,
+						"negative": 6
+					}
+			},
+			{
+				"Polen":
+					{
+						"positive": 30,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Italien":
+					{
+						"positive": 10,
+						"neutral": 100,
+						"negative": 6
+					}
+			},
+		]
+	},
+	{
+		"Unternehmen":[
+			{
+				"Frankreich":
+					{
+						"positive": 70,
+						"neutral": 400,
+						"negative": 24
+					}
+			},
+			{
+				"Spanien":
+					{
+						"positive": 25,
+						"neutral": 350,
+						"negative": 40
+					}
+			},
+			{
+				"England":
+					{
+						"positive": 60,
+						"neutral": 375,
+						"negative": 34
+					}
+			},
+			{
+				"UK":
+					{
+						"positive": 35,
+						"neutral": 240,
+						"negative": 20
+					}
+			},
+			{
+				"Russland":
+					{
+						"positive": 35,
+						"neutral": 325,
+						"negative": 70
+					}
+			},
+			{
+				"Ukraine":
+					{
+						"positive": 40,
+						"neutral": 325,
+						"negative": 45
+					}
+			},
+			{
+				"Holland":
+					{
+						"positive": 10,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Schweden":
+					{
+						"positive": 10,
+						"neutral": 90,
+						"negative": 6
+					}
+			},
+			{
+				"Polen":
+					{
+						"positive": 30,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Italien":
+					{
+						"positive": 10,
+						"neutral": 100,
+						"negative": 6
+					}
+			},
+		]
+	},
+	{
+		"Urlaub":[
+			{
+				"Frankreich":
+					{
+						"positive": 70,
+						"neutral": 400,
+						"negative": 24
+					}
+			},
+			{
+				"Spanien":
+					{
+						"positive": 25,
+						"neutral": 350,
+						"negative": 40
+					}
+			},
+			{
+				"England":
+					{
+						"positive": 60,
+						"neutral": 375,
+						"negative": 34
+					}
+			},
+			{
+				"UK":
+					{
+						"positive": 35,
+						"neutral": 240,
+						"negative": 20
+					}
+			},
+			{
+				"Russland":
+					{
+						"positive": 35,
+						"neutral": 325,
+						"negative": 70
+					}
+			},
+			{
+				"Ukraine":
+					{
+						"positive": 40,
+						"neutral": 325,
+						"negative": 45
+					}
+			},
+			{
+				"Holland":
+					{
+						"positive": 10,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Schweden":
+					{
+						"positive": 10,
+						"neutral": 90,
+						"negative": 6
+					}
+			},
+			{
+				"Polen":
+					{
+						"positive": 30,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Italien":
+					{
+						"positive": 10,
+						"neutral": 100,
+						"negative": 6
+					}
+			},
+		]
+	},
+	{
+		"Umwelt":[
+			{
+				"Frankreich":
+					{
+						"positive": 70,
+						"neutral": 400,
+						"negative": 24
+					}
+			},
+			{
+				"Spanien":
+					{
+						"positive": 25,
+						"neutral": 350,
+						"negative": 40
+					}
+			},
+			{
+				"England":
+					{
+						"positive": 60,
+						"neutral": 375,
+						"negative": 34
+					}
+			},
+			{
+				"UK":
+					{
+						"positive": 35,
+						"neutral": 240,
+						"negative": 20
+					}
+			},
+			{
+				"Russland":
+					{
+						"positive": 35,
+						"neutral": 325,
+						"negative": 70
+					}
+			},
+			{
+				"Ukraine":
+					{
+						"positive": 40,
+						"neutral": 325,
+						"negative": 45
+					}
+			},
+			{
+				"Holland":
+					{
+						"positive": 10,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Schweden":
+					{
+						"positive": 10,
+						"neutral": 90,
+						"negative": 6
+					}
+			},
+			{
+				"Polen":
+					{
+						"positive": 30,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Italien":
+					{
+						"positive": 10,
+						"neutral": 100,
+						"negative": 6
+					}
+			},
+		]
+	},
+	{
+		"Terrorismus":[
+			{
+				"Frankreich":
+					{
+						"positive": 70,
+						"neutral": 400,
+						"negative": 24
+					}
+			},
+			{
+				"Spanien":
+					{
+						"positive": 25,
+						"neutral": 350,
+						"negative": 40
+					}
+			},
+			{
+				"England":
+					{
+						"positive": 60,
+						"neutral": 375,
+						"negative": 34
+					}
+			},
+			{
+				"UK":
+					{
+						"positive": 35,
+						"neutral": 240,
+						"negative": 20
+					}
+			},
+			{
+				"Russland":
+					{
+						"positive": 35,
+						"neutral": 325,
+						"negative": 70
+					}
+			},
+			{
+				"Ukraine":
+					{
+						"positive": 40,
+						"neutral": 325,
+						"negative": 45
+					}
+			},
+			{
+				"Holland":
+					{
+						"positive": 10,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Schweden":
+					{
+						"positive": 10,
+						"neutral": 90,
+						"negative": 6
+					}
+			},
+			{
+				"Polen":
+					{
+						"positive": 30,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Italien":
+					{
+						"positive": 10,
+						"neutral": 100,
+						"negative": 6
+					}
+			},
+		]
+	},
+	{
+		"Unglücke":[
+			{
+				"Frankreich":
+					{
+						"positive": 70,
+						"neutral": 400,
+						"negative": 24
+					}
+			},
+			{
+				"Spanien":
+					{
+						"positive": 25,
+						"neutral": 350,
+						"negative": 40
+					}
+			},
+			{
+				"England":
+					{
+						"positive": 60,
+						"neutral": 375,
+						"negative": 34
+					}
+			},
+			{
+				"UK":
+					{
+						"positive": 35,
+						"neutral": 240,
+						"negative": 20
+					}
+			},
+			{
+				"Russland":
+					{
+						"positive": 35,
+						"neutral": 325,
+						"negative": 70
+					}
+			},
+			{
+				"Ukraine":
+					{
+						"positive": 40,
+						"neutral": 325,
+						"negative": 45
+					}
+			},
+			{
+				"Holland":
+					{
+						"positive": 10,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Schweden":
+					{
+						"positive": 10,
+						"neutral": 90,
+						"negative": 6
+					}
+			},
+			{
+				"Polen":
+					{
+						"positive": 30,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Italien":
+					{
+						"positive": 10,
+						"neutral": 100,
+						"negative": 6
+					}
+			},
+		]
+	},
+	{
+		"Einwanderung/Flüchtlinge":[
+			{
+				"Frankreich":
+					{
+						"positive": 70,
+						"neutral": 400,
+						"negative": 24
+					}
+			},
+			{
+				"Spanien":
+					{
+						"positive": 25,
+						"neutral": 350,
+						"negative": 40
+					}
+			},
+			{
+				"England":
+					{
+						"positive": 60,
+						"neutral": 375,
+						"negative": 34
+					}
+			},
+			{
+				"UK":
+					{
+						"positive": 35,
+						"neutral": 240,
+						"negative": 20
+					}
+			},
+			{
+				"Russland":
+					{
+						"positive": 35,
+						"neutral": 325,
+						"negative": 70
+					}
+			},
+			{
+				"Ukraine":
+					{
+						"positive": 40,
+						"neutral": 325,
+						"negative": 45
+					}
+			},
+			{
+				"Holland":
+					{
+						"positive": 10,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Schweden":
+					{
+						"positive": 10,
+						"neutral": 90,
+						"negative": 6
+					}
+			},
+			{
+				"Polen":
+					{
+						"positive": 30,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Italien":
+					{
+						"positive": 10,
+						"neutral": 100,
+						"negative": 6
+					}
+			},
+		]
+	},
+	{
+		"Politik":[
+			{
+				"Frankreich":
+					{
+						"positive": 70,
+						"neutral": 400,
+						"negative": 24
+					}
+			},
+			{
+				"Spanien":
+					{
+						"positive": 25,
+						"neutral": 350,
+						"negative": 40
+					}
+			},
+			{
+				"England":
+					{
+						"positive": 60,
+						"neutral": 375,
+						"negative": 34
+					}
+			},
+			{
+				"UK":
+					{
+						"positive": 35,
+						"neutral": 240,
+						"negative": 20
+					}
+			},
+			{
+				"Russland":
+					{
+						"positive": 35,
+						"neutral": 325,
+						"negative": 70
+					}
+			},
+			{
+				"Ukraine":
+					{
+						"positive": 40,
+						"neutral": 325,
+						"negative": 45
+					}
+			},
+			{
+				"Holland":
+					{
+						"positive": 10,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Schweden":
+					{
+						"positive": 10,
+						"neutral": 90,
+						"negative": 6
+					}
+			},
+			{
+				"Polen":
+					{
+						"positive": 30,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Italien":
+					{
+						"positive": 10,
+						"neutral": 100,
+						"negative": 6
+					}
+			},
+		]
+	},
+	{
+		"Recht":[
+			{
+				"Frankreich":
+					{
+						"positive": 70,
+						"neutral": 400,
+						"negative": 24
+					}
+			},
+			{
+				"Spanien":
+					{
+						"positive": 25,
+						"neutral": 350,
+						"negative": 40
+					}
+			},
+			{
+				"England":
+					{
+						"positive": 60,
+						"neutral": 375,
+						"negative": 34
+					}
+			},
+			{
+				"UK":
+					{
+						"positive": 35,
+						"neutral": 240,
+						"negative": 20
+					}
+			},
+			{
+				"Russland":
+					{
+						"positive": 35,
+						"neutral": 325,
+						"negative": 70
+					}
+			},
+			{
+				"Ukraine":
+					{
+						"positive": 40,
+						"neutral": 325,
+						"negative": 45
+					}
+			},
+			{
+				"Holland":
+					{
+						"positive": 10,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Schweden":
+					{
+						"positive": 10,
+						"neutral": 90,
+						"negative": 6
+					}
+			},
+			{
+				"Polen":
+					{
+						"positive": 30,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Italien":
+					{
+						"positive": 10,
+						"neutral": 100,
+						"negative": 6
+					}
+			},
+		]
+	},
+	{
+		"Kultur":[
+			{
+				"Frankreich":
+					{
+						"positive": 70,
+						"neutral": 400,
+						"negative": 24
+					}
+			},
+			{
+				"Spanien":
+					{
+						"positive": 25,
+						"neutral": 350,
+						"negative": 40
+					}
+			},
+			{
+				"England":
+					{
+						"positive": 60,
+						"neutral": 375,
+						"negative": 34
+					}
+			},
+			{
+				"UK":
+					{
+						"positive": 35,
+						"neutral": 240,
+						"negative": 20
+					}
+			},
+			{
+				"Russland":
+					{
+						"positive": 35,
+						"neutral": 325,
+						"negative": 70
+					}
+			},
+			{
+				"Ukraine":
+					{
+						"positive": 40,
+						"neutral": 325,
+						"negative": 45
+					}
+			},
+			{
+				"Holland":
+					{
+						"positive": 10,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Schweden":
+					{
+						"positive": 10,
+						"neutral": 90,
+						"negative": 6
+					}
+			},
+			{
+				"Polen":
+					{
+						"positive": 30,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Italien":
+					{
+						"positive": 10,
+						"neutral": 100,
+						"negative": 6
+					}
+			},
+		]
+	},
+	{
+		"Musik":[
+			{
+				"Frankreich":
+					{
+						"positive": 70,
+						"neutral": 400,
+						"negative": 24
+					}
+			},
+			{
+				"Spanien":
+					{
+						"positive": 25,
+						"neutral": 350,
+						"negative": 40
+					}
+			},
+			{
+				"England":
+					{
+						"positive": 60,
+						"neutral": 375,
+						"negative": 34
+					}
+			},
+			{
+				"UK":
+					{
+						"positive": 35,
+						"neutral": 240,
+						"negative": 20
+					}
+			},
+			{
+				"Russland":
+					{
+						"positive": 35,
+						"neutral": 325,
+						"negative": 70
+					}
+			},
+			{
+				"Ukraine":
+					{
+						"positive": 40,
+						"neutral": 325,
+						"negative": 45
+					}
+			},
+			{
+				"Holland":
+					{
+						"positive": 10,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Schweden":
+					{
+						"positive": 10,
+						"neutral": 90,
+						"negative": 6
+					}
+			},
+			{
+				"Polen":
+					{
+						"positive": 30,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Italien":
+					{
+						"positive": 10,
+						"neutral": 100,
+						"negative": 6
+					}
+			},
+		]
+	},
+	{
+		"Netzpolitik/Datenschutz":[
+			{
+				"Frankreich":
+					{
+						"positive": 70,
+						"neutral": 400,
+						"negative": 24
+					}
+			},
+			{
+				"Spanien":
+					{
+						"positive": 25,
+						"neutral": 350,
+						"negative": 40
+					}
+			},
+			{
+				"England":
+					{
+						"positive": 60,
+						"neutral": 375,
+						"negative": 34
+					}
+			},
+			{
+				"UK":
+					{
+						"positive": 35,
+						"neutral": 240,
+						"negative": 20
+					}
+			},
+			{
+				"Russland":
+					{
+						"positive": 35,
+						"neutral": 325,
+						"negative": 70
+					}
+			},
+			{
+				"Ukraine":
+					{
+						"positive": 40,
+						"neutral": 325,
+						"negative": 45
+					}
+			},
+			{
+				"Holland":
+					{
+						"positive": 10,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Schweden":
+					{
+						"positive": 10,
+						"neutral": 90,
+						"negative": 6
+					}
+			},
+			{
+				"Polen":
+					{
+						"positive": 30,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Italien":
+					{
+						"positive": 10,
+						"neutral": 100,
+						"negative": 6
+					}
+			},
+		]
+	},
+	{
+		"Sport":[
+			{
+				"Frankreich":
+					{
+						"positive": 70,
+						"neutral": 400,
+						"negative": 24
+					}
+			},
+			{
+				"Spanien":
+					{
+						"positive": 25,
+						"neutral": 350,
+						"negative": 40
+					}
+			},
+			{
+				"England":
+					{
+						"positive": 60,
+						"neutral": 375,
+						"negative": 34
+					}
+			},
+			{
+				"UK":
+					{
+						"positive": 35,
+						"neutral": 240,
+						"negative": 20
+					}
+			},
+			{
+				"Russland":
+					{
+						"positive": 35,
+						"neutral": 325,
+						"negative": 70
+					}
+			},
+			{
+				"Ukraine":
+					{
+						"positive": 40,
+						"neutral": 325,
+						"negative": 45
+					}
+			},
+			{
+				"Holland":
+					{
+						"positive": 10,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Schweden":
+					{
+						"positive": 10,
+						"neutral": 90,
+						"negative": 6
+					}
+			},
+			{
+				"Polen":
+					{
+						"positive": 30,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Italien":
+					{
+						"positive": 10,
+						"neutral": 100,
+						"negative": 6
+					}
+			},
+		]
+	},
+	{
+		"Religion":[
+			{
+				"Frankreich":
+					{
+						"positive": 70,
+						"neutral": 400,
+						"negative": 24
+					}
+			},
+			{
+				"Spanien":
+					{
+						"positive": 25,
+						"neutral": 350,
+						"negative": 40
+					}
+			},
+			{
+				"England":
+					{
+						"positive": 60,
+						"neutral": 375,
+						"negative": 34
+					}
+			},
+			{
+				"UK":
+					{
+						"positive": 35,
+						"neutral": 240,
+						"negative": 20
+					}
+			},
+			{
+				"Russland":
+					{
+						"positive": 35,
+						"neutral": 325,
+						"negative": 70
+					}
+			},
+			{
+				"Ukraine":
+					{
+						"positive": 40,
+						"neutral": 325,
+						"negative": 45
+					}
+			},
+			{
+				"Holland":
+					{
+						"positive": 10,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Schweden":
+					{
+						"positive": 10,
+						"neutral": 90,
+						"negative": 6
+					}
+			},
+			{
+				"Polen":
+					{
+						"positive": 30,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Italien":
+					{
+						"positive": 10,
+						"neutral": 100,
+						"negative": 6
+					}
+			},
+		]
+	},
+	{
+		"Kullinarisches":[
+			{
+				"Frankreich":
+					{
+						"positive": 70,
+						"neutral": 400,
+						"negative": 24
+					}
+			},
+			{
+				"Spanien":
+					{
+						"positive": 25,
+						"neutral": 350,
+						"negative": 40
+					}
+			},
+			{
+				"England":
+					{
+						"positive": 60,
+						"neutral": 375,
+						"negative": 34
+					}
+			},
+			{
+				"UK":
+					{
+						"positive": 35,
+						"neutral": 240,
+						"negative": 20
+					}
+			},
+			{
+				"Russland":
+					{
+						"positive": 35,
+						"neutral": 325,
+						"negative": 70
+					}
+			},
+			{
+				"Ukraine":
+					{
+						"positive": 40,
+						"neutral": 325,
+						"negative": 45
+					}
+			},
+			{
+				"Holland":
+					{
+						"positive": 10,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Schweden":
+					{
+						"positive": 10,
+						"neutral": 90,
+						"negative": 6
+					}
+			},
+			{
+				"Polen":
+					{
+						"positive": 30,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Italien":
+					{
+						"positive": 10,
+						"neutral": 100,
+						"negative": 6
+					}
+			},
+		]
+	},
+	{
+		"Technik":[
+			{
+				"Frankreich":
+					{
+						"positive": 70,
+						"neutral": 400,
+						"negative": 24
+					}
+			},
+			{
+				"Spanien":
+					{
+						"positive": 25,
+						"neutral": 350,
+						"negative": 40
+					}
+			},
+			{
+				"England":
+					{
+						"positive": 60,
+						"neutral": 375,
+						"negative": 34
+					}
+			},
+			{
+				"UK":
+					{
+						"positive": 35,
+						"neutral": 240,
+						"negative": 20
+					}
+			},
+			{
+				"Russland":
+					{
+						"positive": 35,
+						"neutral": 325,
+						"negative": 70
+					}
+			},
+			{
+				"Ukraine":
+					{
+						"positive": 40,
+						"neutral": 325,
+						"negative": 45
+					}
+			},
+			{
+				"Holland":
+					{
+						"positive": 10,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Schweden":
+					{
+						"positive": 10,
+						"neutral": 90,
+						"negative": 6
+					}
+			},
+			{
+				"Polen":
+					{
+						"positive": 30,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Italien":
+					{
+						"positive": 10,
+						"neutral": 100,
+						"negative": 6
+					}
+			},
+		]
+	},
+	{
+		"Medien":[
+			{
+				"Frankreich":
+					{
+						"positive": 70,
+						"neutral": 400,
+						"negative": 24
+					}
+			},
+			{
+				"Spanien":
+					{
+						"positive": 25,
+						"neutral": 350,
+						"negative": 40
+					}
+			},
+			{
+				"England":
+					{
+						"positive": 60,
+						"neutral": 375,
+						"negative": 34
+					}
+			},
+			{
+				"UK":
+					{
+						"positive": 35,
+						"neutral": 240,
+						"negative": 20
+					}
+			},
+			{
+				"Russland":
+					{
+						"positive": 35,
+						"neutral": 325,
+						"negative": 70
+					}
+			},
+			{
+				"Ukraine":
+					{
+						"positive": 40,
+						"neutral": 325,
+						"negative": 45
+					}
+			},
+			{
+				"Holland":
+					{
+						"positive": 10,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Schweden":
+					{
+						"positive": 10,
+						"neutral": 90,
+						"negative": 6
+					}
+			},
+			{
+				"Polen":
+					{
+						"positive": 30,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Italien":
+					{
+						"positive": 10,
+						"neutral": 100,
+						"negative": 6
+					}
+			},
+		]
+	},
+	{
+		"Mode":[
+			{
+				"Frankreich":
+					{
+						"positive": 70,
+						"neutral": 400,
+						"negative": 24
+					}
+			},
+			{
+				"Spanien":
+					{
+						"positive": 25,
+						"neutral": 350,
+						"negative": 40
+					}
+			},
+			{
+				"England":
+					{
+						"positive": 60,
+						"neutral": 375,
+						"negative": 34
+					}
+			},
+			{
+				"UK":
+					{
+						"positive": 35,
+						"neutral": 240,
+						"negative": 20
+					}
+			},
+			{
+				"Russland":
+					{
+						"positive": 35,
+						"neutral": 325,
+						"negative": 70
+					}
+			},
+			{
+				"Ukraine":
+					{
+						"positive": 40,
+						"neutral": 325,
+						"negative": 45
+					}
+			},
+			{
+				"Holland":
+					{
+						"positive": 10,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Schweden":
+					{
+						"positive": 10,
+						"neutral": 90,
+						"negative": 6
+					}
+			},
+			{
+				"Polen":
+					{
+						"positive": 30,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Italien":
+					{
+						"positive": 10,
+						"neutral": 100,
+						"negative": 6
+					}
+			},
+		]
+	},
+	{
+		"Familie":[
+			{
+				"Frankreich":
+					{
+						"positive": 70,
+						"neutral": 400,
+						"negative": 24
+					}
+			},
+			{
+				"Spanien":
+					{
+						"positive": 25,
+						"neutral": 350,
+						"negative": 40
+					}
+			},
+			{
+				"England":
+					{
+						"positive": 60,
+						"neutral": 375,
+						"negative": 34
+					}
+			},
+			{
+				"UK":
+					{
+						"positive": 35,
+						"neutral": 240,
+						"negative": 20
+					}
+			},
+			{
+				"Russland":
+					{
+						"positive": 35,
+						"neutral": 325,
+						"negative": 70
+					}
+			},
+			{
+				"Ukraine":
+					{
+						"positive": 40,
+						"neutral": 325,
+						"negative": 45
+					}
+			},
+			{
+				"Holland":
+					{
+						"positive": 10,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Schweden":
+					{
+						"positive": 10,
+						"neutral": 90,
+						"negative": 6
+					}
+			},
+			{
+				"Polen":
+					{
+						"positive": 30,
+						"neutral": 50,
+						"negative": 6
+					}
+			},
+			{
+				"Italien":
+					{
+						"positive": 10,
+						"neutral": 100,
+						"negative": 6
+					}
+			}
+		]
+	}
+]
