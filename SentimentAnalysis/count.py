@@ -29,8 +29,8 @@ writefile = open("output.txt", "w")                                             
 #count_positive = 0
 #count_negative = 0
 
-#for line in readfile:
-#    writefile.write(str(line.replace('\n', '')) + "\t\t\tneutral: " + "\tpositiv: " + "\tnegativ: \n")
+for line in readfile:
+    writefile.write(str(line.replace('\n', '')) + "\t\t\tneutral: " + "\tpositiv: " + "\tnegativ: \n")
 
 
 
