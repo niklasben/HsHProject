@@ -12,135 +12,71 @@ import sys
 import glob
 import string
 import os
+import math
 from itertools import repeat
 
 
-readfile = open("tweetfile.txt", "r")                                            #substitute tweetfile.txt with filename
-read = open("tweetfile.txt", "r")       
+# Neutrals                                                                      #Operations for neutral opinions
+read_neutral = open("germanneutral.tsv", "r")
+
+neu = {}
+
+for n in read_neutral:
+    n = n.strip().split('\t')
+    neu[n[0]] = n[len(n)-1]
+
+
+# Positives                                                                     #Operations for positive opinions
+read_positive = open("germanpositive.tsv", "r")
+
+pos = {}
+
+for p in read_positive:
+    p = p.strip().split('\t')
+    pos[p[0]] = p[len(p)-1]
+
+
+# Negatives                                                                     #Operations for negative opinions
+read_negative = open("germannegative.tsv", "r")
+
+neg = {}
+
+for ne in read_negative:
+    ne = ne.strip().split('\t')
+    neg[ne[0]] = ne[len(ne)-1]
+    
+
+# Tweetfile                                                                     #It's getting serious
+readfile = open("tweetfile.txt", "r")                                           #substitute tweetfile.txt with filename
 #writefile = open("output.txt", "w")                                             #substitute output.txt with filename
 
-
-## Tweetfile
-
-#for line in readfile:
-#    tweetfile_split = line.split()
-#    tweetfile_split = len(tweetfile_split)
-#    print "Zeile: " + str(tweetfile_split)
-
-#line_nr_tweetfile = len(readfile.readlines())
-#print "Tweetfile: " + str(line_nr_tweetfile)
-
-#
-## Neutrals
-#read_neutral = open("germanneutral.tsv", "r")
-##    for line in csv.reader(germanneutral.tsv, dialect="excel-tab")
-#
-#count_neutral = 0
-#
-#line_nr_neutral = len(read_neutral.readlines())
-#print "Neutral: " + str(line_nr_neutral)
-#
-#for line in read_neutral:
-#    token_neutral = line.strip().split('\t')
-#    t_neutral = token_neutral[0]
-#    #print t_neutral
-#
-#read_neutral.close()                                                            #closes opened file
-
-
-# Positives
-read_positive = open("germanpositive.tsv", "r")
-read_pos = open("germanpositive.tsv", "r")
-#    for line in csv.reader(germanpositive.tsv, dialect="excel-tab")
-
-#count_positive = 0
-
-line_nr_positive = len(read_positive.readlines())
-#print "Positive: " + str(line_nr_positive)
-
-
 for line in readfile:
-    
-    for line in readfile:
-        tweetfile_split = line.split()
-        tweetfile_split = len(tweetfile_split)
-        
-        for i in range(0, tweetfile_split):
-            token_tweet = line.strip().split('\t')
-            t_tweet = token_tweet[i]
-            t_tweet = t_tweet.lower()
-            
-            for line in read_pos:
-                token_positive = line.strip().split('\t')
-                t_positive = token_positive[0]
-                t_positive = t_positive.lower()
-                
-                if t_tweet == t_positive:
-                    print 'true'
-                else:
-                    print 'false'
-                
-                #print t_positive            
-            
-            #print token_tweet[i]
+    token_tweet = line.strip().split('\t')
+    tweetfile_split = line.split()
+    tweetfile_split = len(tweetfile_split)
+    count_neutral = 0
+    count_positive = 0
+    count_negative = 0
+    for i in range(0,len(token_tweet)):                                         # looping throw each words of a line        
+        #t_tweet = token_tweet[i]
+        if token_tweet[i] in neu.keys():
+            opinion_neu = neu[token_tweet[i]]                                   # this way you can get the opinion of word 'i' token
+            count_neutral = count_neutral + 1
+            #print "neutral " + str(count_neutral)                              #For Testing
+        elif token_tweet[i] in pos.keys():
+            opinion_pos = pos[token_tweet[i]]                                   # this way you can get the opinion of word 'i' token
+            count_positive = count_positive + 1
+            #print "positive " + str(count_positive)                            #For Testing
+        elif token_tweet[i] in neg.keys():
+            opinion_neg = neg[token_tweet[i]]                                   # this way you can get the opinion of word 'i' token
+            count_negative = count_negative + 1
+            #print "negative " + str(count_negative)                            #For Testing
+            print line + " - neutrals: " + str(count_neutral) + " | positives: " + str(count_positive) + " | negatives: " + str(count_negative)
 
 
-
-#for line in read_pos:
-#    token_positive = line.strip().split('\t')
-#    t_positive = token_positive[0]
-#    t_positive = t_positive.lower()
-#    #print t_positive
-#    
-#    for j in range(0, len(tweetfile_split)):
-#        for line in read:
-#            token_tweet = line.strip().split('\t')
-#            t_tweet = token_tweet[j]
-#            t_tweet = t_tweet.lower()
-#            
-#            c = 1
-#            for i in range(0, line_nr_positive):
-#                print str(c)
-#                c = c+1
-#                #if t_positive == word
-
+### END OF LINE
+read_neutral.close()                                                            #closes opened file
 read_positive.close()                                                           #closes opened file
-read_pos.close()                                                                #closes opened file
-
-
-## Negatives
-#read_negative = open("germannegative.tsv", "r")
-##    for line in csv.reader(germannegative.tsv, dialect="excel-tab")
-#
-#count_negative = 0
-#
-#line_nr_negative = len(read_negative.readlines())
-#print "Negative: " + str(line_nr_negative)
-#
-#for line in read_negative:
-#    token_negative = line.strip().split('\t')
-#    t_negative = token_negative[0]
-#    #print t_negative
-#
-#read_negative.close()                                                           #closes opened file
-
-# Writing into Tweetfile
-#for line in readfile:
-#    writefile.write(str(line.replace('\n', '')) + "\t\t\tneutral: " + str(count_neutral) + "\tpositiv: " 
-#    + str(count_positive) + "\tnegativ: " + str(count_negative) + "\n")
-
-
-#for line in readfile:
-#    print line ## From this print you can see if 'line' variable has each line from the file. 
-               #And also the structure of each line. This print is just for test, put it in comment.
-               #The words in the line have separated by \t.
-#    token = line.strip().split('\t')  ## To split the words by tab and access them one by one
-#    print token[0] ## This print shows you the first word from the line.
-    ### The token variable has all the words separately from the line. You can access them by their index.
-    
-#    writefile.write(str(line.replace('\n', '')) + "\t\t\tneutral: " + "\tpositiv: " + "\tnegativ: \n")
-    #### Instead of replacing '\n' (line.replace('\n', '')). You can use line.strip(), and '\n' will be gone.
-
-
+read_negative.close()                                                           #closes opened file
 readfile.close()                                                                #closes opened file
-#writefile.close()                                                               #closes opened file
+#writefile.close(                                                               #closes opened file
