@@ -28,36 +28,53 @@ read_negative = open("germannegative.tsv", "r")
 #    for line in csv.reader(germannegative.tsv, dialect="excel-tab")
 
 
-# Neutrals
+## Tweetfile
+line_nr_tweetfile = len(readfile.readlines())
+print "Tweetfile: " + str(line_nr_tweetfile)
 
-#count_neutral = 0
+# Neutrals
+count_neutral = 0
+
+line_nr_neutral = len(read_neutral.readlines())
+print "Neutral: " + str(line_nr_neutral)
 
 for line in read_neutral:
     token_neutral = line.strip().split('\t')
     t_neutral = token_neutral[0]
-    print t_neutral
+    #print t_neutral
 
+read_neutral.close()                                                            #closes opened file
 
 # Positives
-#count_positive = 0
+count_positive = 0
+
+line_nr_positive = len(read_positive.readlines())
+print "Positive: " + str(line_nr_positive)
 
 for line in read_positive:
     token_positive = line.strip().split('\t')
     t_positive = token_positive[0]
-    print t_positive
+    #print t_positive
 
+read_positive.close()                                                           #closes opened file
 
 # Negatives
+count_negative = 0
 
-#count_negative = 0
+line_nr_negative = len(read_negative.readlines())
+print "Negative: " + str(line_nr_negative)
 
 for line in read_negative:
     token_negative = line.strip().split('\t')
     t_negative = token_negative[0]
-    print t_negative
+    #print t_negative
 
-#for line in readfile:
-#    writefile.write(str(line.replace('\n', '')) + "\t\t\tneutral: " + "\tpositiv: " + "\tnegativ: \n")
+read_negative.close()                                                           #closes opened file
+
+# Writing into Tweetfile
+for line in readfile:
+    writefile.write(str(line.replace('\n', '')) + "\t\t\tneutral: " + str(count_neutral) + "\tpositiv: " 
+    + str(count_positive) + "\tnegativ: " + str(count_negative) + "\n")
 
 
 #for line in readfile:
@@ -72,9 +89,6 @@ for line in read_negative:
     #### Instead of replacing '\n' (line.replace('\n', '')). You can use line.strip(), and '\n' will be gone.
 
 
-read_neutral.close()                                                            #closes opened file
-read_positive.close()                                                           #closes opened file
-read_negative.close()                                                           #closes opened file
 readfile.close()                                                                #closes opened file
 writefile.close()                                                               #closes opened file
 
