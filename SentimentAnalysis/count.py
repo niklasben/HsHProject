@@ -22,9 +22,10 @@ read = open("tweetfile.txt", "r")
 
 ## Tweetfile
 
-for line in readfile:
-    tweetfile_split = line.split()
-#    print "Zeile: " + str(len(tweetfile_split))
+#for line in readfile:
+#    tweetfile_split = line.split()
+#    tweetfile_split = len(tweetfile_split)
+#    print "Zeile: " + str(tweetfile_split)
 
 #line_nr_tweetfile = len(readfile.readlines())
 #print "Tweetfile: " + str(line_nr_tweetfile)
@@ -57,23 +58,51 @@ read_pos = open("germanpositive.tsv", "r")
 line_nr_positive = len(read_positive.readlines())
 #print "Positive: " + str(line_nr_positive)
 
-for line in read_pos:
-    token_positive = line.strip().split('\t')
-    t_positive = token_positive[0]
-    t_positive = t_positive.lower()
-    #print t_positive
+
+for line in readfile:
     
-    for j in range(0, len(tweetfile_split)):
-        for line in read:
+    for line in readfile:
+        tweetfile_split = line.split()
+        tweetfile_split = len(tweetfile_split)
+        
+        for i in range(0, tweetfile_split):
             token_tweet = line.strip().split('\t')
-            t_tweet = token_tweet[j]
+            t_tweet = token_tweet[i]
             t_tweet = t_tweet.lower()
             
-            c = 1
-            for i in range(0, line_nr_positive):
-                print str(c)
-                c = c+1
-                #if t_positive == word
+            for line in read_pos:
+                token_positive = line.strip().split('\t')
+                t_positive = token_positive[0]
+                t_positive = t_positive.lower()
+                
+                if t_tweet == t_positive:
+                    print 'true'
+                else:
+                    print 'false'
+                
+                #print t_positive            
+            
+            #print token_tweet[i]
+
+
+
+#for line in read_pos:
+#    token_positive = line.strip().split('\t')
+#    t_positive = token_positive[0]
+#    t_positive = t_positive.lower()
+#    #print t_positive
+#    
+#    for j in range(0, len(tweetfile_split)):
+#        for line in read:
+#            token_tweet = line.strip().split('\t')
+#            t_tweet = token_tweet[j]
+#            t_tweet = t_tweet.lower()
+#            
+#            c = 1
+#            for i in range(0, line_nr_positive):
+#                print str(c)
+#                c = c+1
+#                #if t_positive == word
 
 read_positive.close()                                                           #closes opened file
 read_pos.close()                                                                #closes opened file
@@ -115,49 +144,3 @@ read_pos.close()                                                                
 
 readfile.close()                                                                #closes opened file
 #writefile.close()                                                               #closes opened file
-
-
-
-
-### Tried and worthless ###
-
-#n = re.search(r"^[\w]+[\s|\t]", readfile, re.multiline)
-#m = re.match(r"^A-Za-z", line)
-#for line in readfile:
-#    writefile.write(str(line.replace('\n', '')) + "\t\t\t" + n)
-    
-    
-#for line in sys.stdin.readlines():
-#for line in readfile.readlines():
-#    if line[0] == 'werde':
-#        print line,
-    
-    
-#for l in readfile.splitlines():
-#    if re.search(r"^\w*[\t|\s]", l):
-#        writefile.write(str(line.replace('\n', '')) + l + \n")    
-
-
-#for line in readfile:
-#    d = re.match("werde", line),
-#if d:
-#    print "true"
-#else print "fail"
-
-
-#with open('germanneutral.tsv', 'rb') as tsvin, open('neutral.csv', 'wb') as csvout:
-#    tsvin = csv.reader(tsvin, delimiter='\t')
-#    csvout = csv.writer(csvout)
-    
-#    for row in tsvin:
-#        count = int(row[0])
-#        if count > 0:
-#            csvout.writerows(repeat(row[0], 1))
-
-
-#rneutral = r"germanneutral.tsv"
-#csvfile = r"csv.csv"
-
-#neu = csv.reader(open(rneutral, "rb"), delimiter = '\t')
-#outcsv = csv.writer(open(csvfile, 'wb'))
-#outcsv.writerows(neu)
