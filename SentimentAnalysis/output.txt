@@ -1,0 +1,196 @@
+verkauf	bulgarien	immobilien	grundstueck	km	meer	entfernt	km	varna	 | neutral: 0	 | positiv: 0	 | negativ: 1
+verkauf	bulgarien	haus	garten	km	meer	entfernt	km	varna	 | neutral: 0	 | positiv: 0	 | negativ: 1
+bulgarien	verkaufen	landhaus	garten	km	meer	entfernt	km	varna	 | neutral: 0	 | positiv: 0	 | negativ: 1
+lektion	multikulti	bulgaren	aufgenommen	wohnung	angezuendet	mieter	verletzt	 | neutral: 0	 | positiv: 0	 | negativ: 1
+vorratsdatenspeicherung	kommt	immer	eulaender	unter	juristischen	politischen	druck	 | neutral: 1	 | positiv: 0	 | negativ: 1
+sofia	wenn	schwarz	waere	waere	schon	ziemlich	unangenehm	 | neutral: 1	 | positiv: 0	 | negativ: 1
+gerichtsurteile	vorratsdatenspeicherung	bulgarien	denniederlanden	verboten	 | neutral: 0	 | positiv: 0	 | negativ: 1
+nelson	augen	verraten	liebe	geben	bereit	ohren	einzigartig	schicksal	 | neutral: 0	 | positiv: 0	 | negativ: 1
+urteil	verfassungsgerichts	bulgarien	erklaert	vorratsdatenspeicherung	verfassungswidrig	 | neutral: 0	 | positiv: 0	 | negativ: 1
+vorratsdatenspeicherung	bulgarien	niederlanden	verboten	zumindest	einige	haben	vermutlich	verstanden	 | neutral: 0	 | positiv: 0	 | negativ: 1
+niederlanden	erklaert	bulgarien	vorratsdatenspeicherung	verfassungswidrig	 | neutral: 0	 | positiv: 0	 | negativ: 1
+spon	gerichtsurteile	vorratsdatenspeicherung	vds	bulgarien	denniederlanden	verboten	 | neutral: 0	 | positiv: 0	 | negativ: 1
+bulgarien	niederlanden	haben	gerichte	umstrittene	vorratsdatenspeicherung	verboten	 | neutral: 0	 | positiv: 0	 | negativ: 1
+niederlanden	bulgarien	voratsdatenspeicherung	verboten	vds	 | neutral: 0	 | positiv: 0	 | negativ: 1
+gerichtsurteile	vorratsdatenspeicherung	bulgarien	denniederlanden	verboten	datenschutz	 | neutral: 0	 | positiv: 0	 | negativ: 1
+wasserball	Oesterreich	gewinnt	glatt	gegen	bulgarien	sport	wasserball	schwimmen	osv	 | neutral: 0	 | positiv: 1	 | negativ: 1
+prinzipiell	waere	gut	wenn	religion	komplett	wegfallen	wuerde	damit	viele	vorschubguende	kriege	 | neutral: 1	 | positiv: 3	 | negativ: 1
+bulgarien	vorratsdatenspeicherung	verfassungswidrig	anonops	anonymous	 | neutral: 0	 | positiv: 0	 | negativ: 1
+verfassungsgerichtsurteil	bulgarien	erklaert	vorratsdatenspeicherung	verfassungswidrig	vds	 | neutral: 0	 | positiv: 0	 | negativ: 1
+wenn	leute	arbeiten	umziehen	dann	armutsmigration	 | neutral: 1	 | positiv: 0	 | negativ: 1
+vds	holland	verboten	bulgarien	verboten	eukommision	will	keinen	neuen	anlauf	zur	vds	starten	 | neutral: 0	 | positiv: 0	 | negativ: 1
+vds	holland	verboten	bulgarien	verboten	eukommision	will	keinen	neuen	anlauf	zur	vds	starten	 | neutral: 0	 | positiv: 0	 | negativ: 2
+gerichtsurteile	vorratsdatenspeicherung	bulgarien	denniederlanden	verboten	spiegel	online	 | neutral: 0	 | positiv: 0	 | negativ: 1
+gerichtsurteile	vorratsdatenspeicherung	bulgarien	denniederlanden	verboten	zwei	europaeische	gerichte	 | neutral: 0	 | positiv: 0	 | negativ: 1
+gerichtsurteile	vorratsdatenspeicherung	bulgarien	niederlanden	verboten	vds	 | neutral: 0	 | positiv: 0	 | negativ: 1
+gerichtsurteile	vorratsdatenspeicherung	bulgarien	niederlanden	verboten	datenschutz	 | neutral: 0	 | positiv: 0	 | negativ: 1
+geht	ohne	vorratsdatenspeicherung	bulgarien	denniederlanden	verboten	datenschutz	 | neutral: 1	 | positiv: 0	 | negativ: 1
+gerichtsurteile	vorratsdatenspeicherung	bulgarien	denniederlanden	verboten	news	nachrichten	 | neutral: 0	 | positiv: 0	 | negativ: 1
+spiegelonline	bulgarien	niederlanden	haben	gerichte	umstrittene	vorratsdatenspeicherung	verboten	 | neutral: 0	 | positiv: 0	 | negativ: 1
+gerichtsurteile	vorratsdatenspeicherung	bulgarien	niederlanden	verboten	 | neutral: 0	 | positiv: 0	 | negativ: 1
+richter	verbieten	vds	bulgarien	niederlanden	deutschland	wird	verhandelt	fue	 | neutral: 0	 | positiv: 0	 | negativ: 1
+richter	verbieten	vds	bulgarien	niederlanden	deutschland	wird	verhandelt	 | neutral: 0	 | positiv: 0	 | negativ: 1
+spon	gerichtsurteile	vorratsdatenspeicherung	bulgarien	denniederlanden	verboten	netzpolitik	 | neutral: 0	 | positiv: 0	 | negativ: 1
+newsinfomedia	gerichtsurteile	vorratsdatenspeicherung	bulgarien	denniederlanden	verboten	zwei	europ	 | neutral: 0	 | positiv: 0	 | negativ: 1
+telmi	nachrichten	news	gerichtsurteile	vorratsdatenspeicherung	bulgarien	denniederlanden	verboten	 | neutral: 0	 | positiv: 0	 | negativ: 1
+spon	netzpolitik	gerichtsurteile	vorratsdatenspeicherung	bulgarien	denniederlanden	verboten	 | neutral: 0	 | positiv: 0	 | negativ: 1
+gerichtsurteile	vorratsdatenspeicherung	bulgarien	denniederlanden	verboten	dienachrichten	 | neutral: 0	 | positiv: 0	 | negativ: 1
+gerichtsurteile	vorratsdatenspeicherung	bulgarien	denniederlanden	verboten	dienachrichten	spiegel	 | neutral: 0	 | positiv: 0	 | negativ: 1
+fragt	wann	unsere	alt	parteien	schuss	hoeren	 | neutral: 0	 | positiv: 0	 | negativ: 1
+persoenliche	glaube	schule	nichts	verloren	 | neutral: 0	 | positiv: 0	 | negativ: 1
+vorratsdatenspeicherung	tod	ziehen	bulgarien	holland	bUepf	ndg	 | neutral: 0	 | positiv: 0	 | negativ: 1
+nervst	viel	spass	deinem	kreuzzug	gegen	stofftuecher	 | neutral: 0	 | positiv: 1	 | negativ: 1
+tragen	einschlaegig	rechter	kleidung	mindert	keine	kompetenz	dennoch	recht	verboten	 | neutral: 0	 | positiv: 0	 | negativ: 1
+tragen	einschlaegig	rechter	kleidung	mindert	keine	kompetenz	dennoch	recht	verboten	 | neutral: 1	 | positiv: 1	 | negativ: 2
+ooooooooooooh	voll	gemein	lass	traenchen	weinen	 | neutral: 1	 | positiv: 0	 | negativ: 1
+ooooooooooooh	voll	gemein	lass	traenchen	weinen	 | neutral: 1	 | positiv: 0	 | negativ: 2
+kippa	kreuz	bereits	verboten	somit	kopftuch	sonderrecht	 | neutral: 0	 | positiv: 0	 | negativ: 1
+breaking	bulgarien	vorratsdatenspeicherung	verfassungswidrig	bulgarien	vorratsdatenspeicherun	yaf	 | neutral: 0	 | positiv: 0	 | negativ: 1
+verletzt	religioesen	gefuehle	 | neutral: 0	 | positiv: 0	 | negativ: 1
+frisch	gebloggt	bulgarien	vorratsdatenspeicherung	verfassungswidrig	erklaert	anonnews	 | neutral: 0	 | positiv: 1	 | negativ: 1
+schade	russland	rumanienund	bulgarienwas	revolution	nachbahrland	anzetteln	 | neutral: 0	 | positiv: 0	 | negativ: 1
+frisch	gebloggtgtgt	bulgarien	vorratsdatenspeicherung	verfassungswidrig	erklaert	anonnews	 | neutral: 0	 | positiv: 1	 | negativ: 1
+halte	form	religioesitaet	seiten	lehrer	schule	unangebracht	 | neutral: 0	 | positiv: 0	 | negativ: 1
+bulgarien	vorratsdatenspeicherung	verfassungswidrig	bulgarien	vorratsdatenspeicherung	 | neutral: 0	 | positiv: 0	 | negativ: 1
+werde	langsam	richtig	sauer	kenne	griechenkroatenbulgaren	usw	deutschen	halt	 | neutral: 0	 | positiv: 0	 | negativ: 1
+werde	langsam	richtig	sauer	kenne	griechenkroatenbulgaren	usw	deutschen	halt	 | neutral: 0	 | positiv: 1	 | negativ: 2
+yay	kein	pauschales	kopftuchverbot	lehrkraefte	selbst	entscheiden	selbst	entscheiden	 | neutral: 0	 | positiv: 0	 | negativ: 1
+schon	wieder	justizminister	prueft	bmi	kleine	vds	sehen	uns	dann	gericht	niederlande	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 1
+bulgarien	vorratsdatenspeicherung	verfassungswidrig	 | neutral: 0	 | positiv: 0	 | negativ: 1
+bulgarien	vorratsdatenspeicherung	verfassungswidrig	bulgarien	vorratsdatenspeicherung	fue	anonnewsde	 | neutral: 0	 | positiv: 0	 | negativ: 1
+fehlen	euro	rubys	kastration	kosten	gesamt	euro	bitte	helft	kleine	teilbetraege	 | neutral: 0	 | positiv: 0	 | negativ: 1
+fehlen	euro	rubys	kastration	kosten	gesamt	euro	bitte	helft	kleine	teilbetraege	 | neutral: 0	 | positiv: 0	 | negativ: 2
+urteil	verfassungsgerichts	bulgarien	erklaert	vorratsdatenspeicherung	verfassungswidrig	erst	ges	 | neutral: 0	 | positiv: 0	 | negativ: 1
+bulgaren	aufgenommen	wohnung	angezuendet	mieter	verletzt	 | neutral: 0	 | positiv: 0	 | negativ: 1
+ach	bulgarien	niemand	will	schne	vorratsdatenspeicherung	verstehe	gar	warum	 | neutral: 0	 | positiv: 0	 | negativ: 1
+ach	bulgarien	niemand	will	schne	vorratsdatenspeicherung	verstehe	gar	warum	 | neutral: 0	 | positiv: 0	 | negativ: 2
+ach	bulgarien	niemand	will	schoene	vorratsdatenspeicherung	verstehe	gar	warum	 | neutral: 0	 | positiv: 0	 | negativ: 1
+ach	bulgarien	niemand	will	schoene	vorratsdatenspeicherung	verstehe	gar	warum	 | neutral: 0	 | positiv: 0	 | negativ: 2
+wolfgang	uuuuuh	melina	hast	uns	verraten	 | neutral: 0	 | positiv: 0	 | negativ: 1
+deutschland	will	unbedingt	leider	hohlkoepfe	uns	 | neutral: 0	 | positiv: 1	 | negativ: 1
+urteil	verfassungsgerichts	bulgarien	erklaert	vds	verfassungswidrig	netzpolitik	 | neutral: 0	 | positiv: 0	 | negativ: 1
+gerichtsurteil	bulgarien	erklaert	vorratsdatenspeicherung	verfassungswidrig	vds	 | neutral: 0	 | positiv: 0	 | negativ: 1
+motiviert	maedchen	dazuzu	hungern	wohlmglich	magersuechtig	sindnur	schnheitsideal	entsprechen	 | neutral: 0	 | positiv: 1	 | negativ: 1
+urteil	verfassungsgerichts	bulgarien	erklaert	vds	verfassungswidrig	 | neutral: 0	 | positiv: 0	 | negativ: 1
+krass	denn	 | neutral: 0	 | positiv: 0	 | negativ: 1
+knnte	jederzeit	sagen	ok	hab	keinen	bock	mache	wieder	anderes	projekt	beendet	 | neutral: 0	 | positiv: 0	 | negativ: 1
+ach	herje	laeuft	voll	gut	vds	bulgarien	erklaert	vds	verfassungswidrig	 | neutral: 0	 | positiv: 0	 | negativ: 1
+ach	herje	laeuft	voll	gut	vds	bulgarien	erklaert	vds	verfassungswidrig	 | neutral: 1	 | positiv: 1	 | negativ: 2
+uns	will	scheiss	wieder	einfuehren	vds	 | neutral: 0	 | positiv: 0	 | negativ: 1
+beobachtete	gerade	dezent	zwei	huebsche	maedchen	dachte	zuerst	reden	rumaenisch	bulgarisch	miteinander	schwizerduetsch	 | neutral: 2	 | positiv: 1	 | negativ: 1
+nationaler	ebene	kein	glueck	vorratsdatenspeicherung	bulgarien	gekippt	 | neutral: 0	 | positiv: 0	 | negativ: 1
+urteil	verfassungsgerichts	bulgarien	erklaert	vorratsdatenspeicherung	verfassungswidrig	sofi	 | neutral: 0	 | positiv: 0	 | negativ: 1
+bulgarien	niederlande	verfassungsgerichte	verbieten	will	union	bloedsinn	einfuehren	 | neutral: 0	 | positiv: 0	 | negativ: 1
+bulgarien	niederlande	verfassungsgerichte	verbieten	vorratsdatenspeicherung	will	union	bloedsinn	einfuehren	 | neutral: 0	 | positiv: 0	 | negativ: 1
+lesestoff	urteil	verfassungsgerichts	bulgarien	erklaert	vorratsdatenspeicherung	verfassungswidrig	 | neutral: 0	 | positiv: 0	 | negativ: 1
+monty	wer	moechte	diesem	huebschen	kerlchen	warmes	koerbchen	herz	schenken	ca	monate	alt	 | neutral: 0	 | positiv: 0	 | negativ: 1
+monty	wer	moechte	diesem	huebschen	kerlchen	warmes	koerbchen	herz	schenken	ca	monate	alt	 | neutral: 0	 | positiv: 1	 | negativ: 2
+urteil	verfassungsgerichts	bulgarien	verklaert	vorratsdatenspeicherung	fuehren	verfassungswidrig	netzpoliti	 | neutral: 0	 | positiv: 0	 | negativ: 1
+yeah	gestern	niederlande	heute	bulgarien	vds	rechtswidrig	wieder	abgeschafft	 | neutral: 0	 | positiv: 0	 | negativ: 1
+kleine	caruso	schatz	wer	gibt	ihm	chance	 | neutral: 0	 | positiv: 0	 | negativ: 1
+netzpolitik	urteil	verfassungsgerichts	bulgarien	erklaert	vorratsdatenspeicherung	verfassungswidrig	 | neutral: 0	 | positiv: 0	 | negativ: 1
+polen	baltikum	tjeckien	rumaenien	ungern	bulgarien	serbienfinland	 | neutral: 0	 | positiv: 0	 | negativ: 1
+dance	por	sofia	blank	 | neutral: 0	 | positiv: 0	 | negativ: 1
+naja	italien	bulgarien	nichts	holen	ausserdem	deutschland	sozialamt	welt	erklaert	 | neutral: 0	 | positiv: 0	 | negativ: 1
+ganz	einfach	bulgaren	italienern	gibt	erst	recht	kein	geld	holen	griechenland	 | neutral: 1	 | positiv: 3	 | negativ: 1
+ganz	einfach	bulgaren	italienern	gibt	erst	recht	kein	geld	holen	griechenland	tsipras	 | neutral: 1	 | positiv: 3	 | negativ: 1
+deutschland	griechenland	allein	zur	entschaedigungsdebatte	italien	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 1
+bulgaren	aufgenommen	wohnung	angezuendet	mieter	verletzt	widerstand	 | neutral: 0	 | positiv: 0	 | negativ: 1
+verkauf	bulgarien	landhaus	km	meer	km	flughafen	varna	entfernt	 | neutral: 0	 | positiv: 0	 | negativ: 1
+bulgaren	aufgenommen	wohnung	angezuendet	mieter	verletzt	german	vikings	 | neutral: 0	 | positiv: 0	 | negativ: 1
+widerstand	bulgaren	aufgenommen	wohnung	angezuendet	mieter	verletzt	brd	 | neutral: 0	 | positiv: 0	 | negativ: 1
+ach	goldig	griesbach	sofia	bag	ss	allthatglitter	itsgolden	gold	summertime	fun	 | neutral: 0	 | positiv: 0	 | negativ: 1
+bulgaren	aufgenommen	wohnung	angezuendet	mieter	verletzt	dortmund	 | neutral: 0	 | positiv: 0	 | negativ: 1
+wer	durfte	wann	durften	 | neutral: 0	 | positiv: 0	 | negativ: 1
+bulgaren	aufgenommen	wohnung	angezuendet	mieter	verletzt	dortmundecho	 | neutral: 0	 | positiv: 0	 | negativ: 1
+super	deal	kaufen	bulgarien	haus	grundstueck	km	schwarzen	meer	entfernt	 | neutral: 0	 | positiv: 1	 | negativ: 1
+haette	aurlienjoachim	deutschen	franzoesischen	pass	wuerde	wohl	kaum	sofia	spielen	tmeinung	 | neutral: 1	 | positiv: 0	 | negativ: 1
+haette	aurlienjoachim	deutschen	franzoesischen	pass	wuerde	wohl	kaum	sofia	spielen	tmeinung	 | neutral: 1	 | positiv: 0	 | negativ: 2
+sozialoekon	heisst	menschen	greece	fallen	niveau	bulgarien	unter	ceauceso	Uebertrieben	ausgedrueckt	 | neutral: 0	 | positiv: 0	 | negativ: 1
+sozialoekon	heisst	menschen	greece	fallen	niveau	bulgarien	unter	ceauceso	Uebertrieben	ausgedrueckt	 | neutral: 0	 | positiv: 0	 | negativ: 2
+thinkingofyoudad	joeghio	loveyoudad	dundees	bar	grill	 | neutral: 0	 | positiv: 0	 | negativ: 1
+sofia	nix	 | neutral: 0	 | positiv: 0	 | negativ: 1
+weather	plovdiv	bulgaria	mist	wind	kmh	 | neutral: 0	 | positiv: 0	 | negativ: 1
+sofia	nix	xxx	porn	sex	sexo	followback	 | neutral: 0	 | positiv: 0	 | negativ: 1
+porn	sofia	nix	 | neutral: 0	 | positiv: 0	 | negativ: 1
+landhaus	verkauf	bulgarien	haus	grundstueck	km	meer	entfernt	km	varna	 | neutral: 0	 | positiv: 0	 | negativ: 1
+verkaufen	bulgarien	landhaus	km	meer	entfernt	km	varna	grundstueck	eu	 | neutral: 0	 | positiv: 0	 | negativ: 1
+viel	spa	bulgarien	hab	sehr	gekaempft	hab	geschafft	meinen	hero	sehen	 | neutral: 0	 | positiv: 2	 | negativ: 1
+hab	nie	verstanden	 | neutral: 0	 | positiv: 0	 | negativ: 1
+ag	praesident	matthias	steinmetz	bord	unter	 | neutral: 0	 | positiv: 0	 | negativ: 1
+ruede	nelson	wurde	heftig	angefahren	unter	anderem	kiefer	gebrochen	sucht	 | neutral: 0	 | positiv: 0	 | negativ: 1
+ruede	nelson	wurde	heftig	angefahren	unter	anderem	kiefer	gebrochen	sucht	 | neutral: 0	 | positiv: 0	 | negativ: 2
+ruede	duke	zwar	kein	welpe	moechte	zuhause	finden	rest	seines	lebens	 | neutral: 0	 | positiv: 0	 | negativ: 1
+wenigstens	spiel	gegen	schweden	gegen	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 1
+wenigstens	spiel	gegen	schweden	gegen	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 2
+hauptsache	twitterapp	tag	mehrere	stunden	komplett	arsch	nix	laedt	nix	posten	community	 | neutral: 0	 | positiv: 1	 | negativ: 1
+hauptsache	twitterapp	tag	mehrere	stunden	komplett	arsch	nix	laedt	nix	posten	community	 | neutral: 0	 | positiv: 1	 | negativ: 2
+kosara	verschmuste	katze	zuhause	sucht	wer	moechte	ermoeglichen	 | neutral: 0	 | positiv: 0	 | negativ: 1
+steinmeier	bulgarien	enger	austausch	ausdruck	gewachsener	beziehungen	brauchen	uns	gegenseitig	europa	 | neutral: 0	 | positiv: 0	 | negativ: 1
+ruede	eddie	sucht	liebevolles	zuhause	leben	gluecklich	verbringen	wer	moechte	ihn	koerbchen	 | neutral: 0	 | positiv: 0	 | negativ: 1
+leben	viel	wenig	bulgaren	rumaenen	deutschland	geht	sachen	packen	alle	herkommen	 | neutral: 0	 | positiv: 1	 | negativ: 1
+hab	gefuehl	werd	wenig	krank	nuernberg	kaputt	gemacht	ey	wert	 | neutral: 0	 | positiv: 0	 | negativ: 1
+hab	gefuehl	werd	wenig	krank	nuernberg	kaputt	gemacht	ey	wert	 | neutral: 0	 | positiv: 0	 | negativ: 2
+hab	gefuehl	werd	wenig	krank	nuernberg	kaputt	gemacht	ey	wert	 | neutral: 0	 | positiv: 0	 | negativ: 3
+wenn	sofa	sanchez	barrenechea	under	our	sky	alexandre	de	betak	bureau	betak	unter	anderem	 | neutral: 1	 | positiv: 0	 | negativ: 1
+geht	arbeit	richtig	los	kenne	phd	glueckwunsch	 | neutral: 0	 | positiv: 1	 | negativ: 1
+wer	erinnert	spiel	ringen	 | neutral: 0	 | positiv: 0	 | negativ: 1
+wer	erinnert	spiel	ringen	 | neutral: 0	 | positiv: 0	 | negativ: 2
+sitze	ne	std	huk	 | neutral: 0	 | positiv: 0	 | negativ: 1
+frueh	kalt	montag	 | neutral: 0	 | positiv: 0	 | negativ: 1
+top	angebot	verkauf	bulgarien	haus	land	km	meer	entfernt	 | neutral: 0	 | positiv: 1	 | negativ: 1
+wenn	juni	warten	sofia	fahren	reise	selbst	zahlen	 | neutral: 1	 | positiv: 0	 | negativ: 1
+wer	euch	schon	sofia	schoen	verlaengertes	wochenende	 | neutral: 0	 | positiv: 0	 | negativ: 1
+Aehem	huestel	immer	schon	loswerden	wollte	schaalaalalalalaaaaaaalalalalaaaaaaa	hach	tat	gut	 | neutral: 1	 | positiv: 0	 | negativ: 1
+news	bulgarien	drei	maenner	sterben	unter	lawine	bulgarien	drei	maenner	sterben	unter	lawine	sofia	drei	bu	 | neutral: 0	 | positiv: 0	 | negativ: 1
+news	bulgarien	drei	maenner	sterben	unter	lawine	bulgarien	drei	maenner	sterben	unter	lawine	sofia	drei	bu	 | neutral: 0	 | positiv: 0	 | negativ: 2
+bulgarien	drei	maenner	sterben	unter	lawine	sofia	drei	bulgaren	hochgebirge	pirin	sueden	lande	 | neutral: 0	 | positiv: 0	 | negativ: 1
+schneechaos	bulgarien	drei	maenner	starben	unter	lawine	sofia	drei	bulgaren	hochgebirge	pirin	 | neutral: 0	 | positiv: 0	 | negativ: 1
+schneechaos	bulgarien	drei	maenner	sterben	unter	lawine	 | neutral: 0	 | positiv: 0	 | negativ: 1
+stunden	besteckset	teilig	sofia	home	living	haushaltsbedarf	achtung	streng	limit	zackzack	 | neutral: 0	 | positiv: 0	 | negativ: 1
+sofiahamich	snl	parodies	justiin	biiebers	calvin	klein	campaign	swag	 | neutral: 0	 | positiv: 0	 | negativ: 1
+warum	bieten	kein	bulgarisch	sad	 | neutral: 1	 | positiv: 0	 | negativ: 1
+will	bulgarien	wieder	traurig	gluecklich	ejn	follow	ily	bibi	 | neutral: 0	 | positiv: 0	 | negativ: 1
+katze	kosara	sucht	zuhause	wer	moechte	suessen	fellnase	eins	geben	 | neutral: 0	 | positiv: 0	 | negativ: 1
+guuuuten	morgen	wer	schonnoch	wach	 | neutral: 0	 | positiv: 0	 | negativ: 1
+latina	angeblich	ganz	gelassen	sofia	vergara	eifersuechtig	ruf	 | neutral: 0	 | positiv: 0	 | negativ: 1
+matt	anderson	usa	volleyball	 | neutral: 0	 | positiv: 0	 | negativ: 1
+suchen	neue	endstelle	kiara	wichtig	bitte	teilen	 | neutral: 0	 | positiv: 0	 | negativ: 1
+suchen	neue	endstelle	kiara	wichtig	bitte	teilen	 | neutral: 0	 | positiv: 1	 | negativ: 2
+ganz	nette	habe	wirklich	ganz	tolle	schwiegereltern	leider	kein	bulgarisch	no	 | neutral: 3	 | positiv: 0	 | negativ: 1
+ganz	nette	habe	wirklich	ganz	tolle	schwiegereltern	leider	kein	bulgarisch	no	 | neutral: 3	 | positiv: 0	 | negativ: 2
+gratis	sex	seitensprung	wetzikon	spass	 | neutral: 0	 | positiv: 0	 | negativ: 1
+joachim	niederlage	frust	frost	sofia	cska	sofia	aurlien	joachim	haben	samstag	gegen	bero	 | neutral: 0	 | positiv: 0	 | negativ: 1
+huendin	yuna	geschwister	einfach	hilflos	ausgesetzt	wer	moechte	suessen	neuanfang	 | neutral: 0	 | positiv: 1	 | negativ: 1
+huendin	yuna	geschwister	einfach	hilflos	ausgesetzt	wer	moechte	suessen	neuanfang	 | neutral: 0	 | positiv: 1	 | negativ: 2
+tja	egoistisch	 | neutral: 0	 | positiv: 0	 | negativ: 1
+hab	schon	fast	keine	kraefte	schon	probiere	motivation	denken	meinen	zukunft	alles	besser	wird	 | neutral: 0	 | positiv: 0	 | negativ: 1
+icg	hab	ne	angst	einfach	weiter	einander	werden	 | neutral: 0	 | positiv: 0	 | negativ: 1
+warum	fange	denken	einige	einfach	reden	moechten	ignorieren	 | neutral: 1	 | positiv: 1	 | negativ: 1
+warum	fange	denken	einige	einfach	reden	moechten	ignorieren	 | neutral: 1	 | positiv: 1	 | negativ: 2
+date	graz	sehen	uns	makieren	 | neutral: 0	 | positiv: 0	 | negativ: 1
+ersten	ausgewiesenen	spaltaxt	gehackt	geht	heftig	 | neutral: 0	 | positiv: 0	 | negativ: 1
+diskriminierung	allein	fall	osteuropaeischen	eustaaten	ungarn	bulgarien	rumaenien	 | neutral: 0	 | positiv: 0	 | negativ: 1
+huendin	noli	moechte	endlich	jemanden	finden	aufnimmt	 | neutral: 0	 | positiv: 0	 | negativ: 1
+ruede	brando	sucht	liebevolles	zuhause	wer	moechte	ihm	eins	geben	 | neutral: 0	 | positiv: 0	 | negativ: 1
+huendin	greysi	jung	schon	viel	erlebt	wer	moechte	suessen	schoenes	zuhause	geben	 | neutral: 0	 | positiv: 2	 | negativ: 1
+huendin	sheila	sehr	schreckhaft	sucht	jemanden	zeigt	angstloses	leben	haben	 | neutral: 0	 | positiv: 1	 | negativ: 1
+haensel	gretel	hilflos	alleine	wurden	beiden	gefunden	warten	schon	lange	zuhausewer	 | neutral: 0	 | positiv: 0	 | negativ: 1
+haensel	gretel	hilflos	alleine	wurden	beiden	gefunden	warten	schon	lange	zuhausewer	 | neutral: 0	 | positiv: 0	 | negativ: 2
+shakira	schon	viel	leid	erlebt	moechte	zuhause	finden	keine	angst	haben	 | neutral: 0	 | positiv: 1	 | negativ: 1
+kater	leroy	sucht	jemanden	ihm	zuhause	gibt	alleinige	koenig	wer	moechte	diesen	suessen	 | neutral: 0	 | positiv: 0	 | negativ: 1
+sheila	sucht	zuhause	keine	angst	haben	muss	wer	moechte	kleinen	fellnase	zuhause	geben	 | neutral: 0	 | positiv: 0	 | negativ: 1
+wer	bock	partymitjulian	bulgarien	waers	 | neutral: 0	 | positiv: 0	 | negativ: 1
+balkan	bulgaren	serben	griechen	gegeneinander	aufwiegeln	 | neutral: 0	 | positiv: 0	 | negativ: 1
+syrische	zivilbevoelkerung	leider	lustig	 | neutral: 0	 | positiv: 0	 | negativ: 1
+echt	unglaublich	zeit	solchen	mist	russland	putin	veroeffentlicht	 | neutral: 0	 | positiv: 2	 | negativ: 1
+oh	tut	voll	leid	 | neutral: 1	 | positiv: 0	 | negativ: 1
+hi	susanne	jab	link	gesehen	trotzdem	bleibt	frage	bulgarien	scheint	unbed	besser	gehen	 | neutral: 0	 | positiv: 0	 | negativ: 1
+showtime	heute	uhr	tritt	zur	revanche	gegen	bulgarien	hoppschwiiz	laenderspiel	 | neutral: 0	 | positiv: 0	 | negativ: 1
+sofia	schlecht	garnicht	 | neutral: 0	 | positiv: 0	 | negativ: 1
+huch	micaela	schaefer	gegenjauch	ach	nee	sofia	thomalla	 | neutral: 0	 | positiv: 0	 | negativ: 1
+sagt	un	dazu	ach	warte	waere	antisemitischdiese	verlogenen	dreckigen	aloecher	isis	 | neutral: 1	 | positiv: 0	 | negativ: 1
+westliche	militaerausbilder	provozieren	russland	duma	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 1
+dieb	gefasst	langer	arm	polizei	naila	reicht	bulgarien	oberfranken	fahndung	 | neutral: 0	 | positiv: 0	 | negativ: 1
+gibst	bekannt	wer	verlosung	bulgarien	urlaub	gewonnen	 | neutral: 0	 | positiv: 1	 | negativ: 1
+schlaechter	eigenen	volkes	weisse	schrecken	bulgarien	berlin	moprverl	 | neutral: 0	 | positiv: 0	 | negativ: 1
