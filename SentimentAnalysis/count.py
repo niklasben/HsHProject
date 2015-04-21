@@ -59,7 +59,7 @@ for line in readfile:
     count_positive = 0
     count_negative = 0
     for i in range(0,len(token_tweet)):                                         # looping throw each words of a line        
-        #t_tweet = token_tweet[i]
+        #t_tweet = token_tweet[i]                                               # For Testing
         if token_tweet[i] in neu.keys():
             opinion_neu = neu[token_tweet[i]]                                   # this way you can get the opinion of word 'i' token
             count_neutral = count_neutral + 1
