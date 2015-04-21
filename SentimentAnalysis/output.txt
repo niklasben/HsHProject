@@ -1,25 +1,80 @@
+echt	super	lief	bulgarien	hiess	nochmal	andere	garien	ungarien	 | neutral: 0	 | positiv: 2	 | negativ: 0
+waeaeaeaeh	sebbe	sofia	sover	what	do	now	 | neutral: 0	 | positiv: 0	 | negativ: 0
+keine	vds	bulgarien	bulgariens	verfassungsgericht	kippt	vorratsdatenspeicherung	verfa	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	bulgarien	luxushaus	pool	km	albena	schwarzen	meer	 | neutral: 0	 | positiv: 0	 | negativ: 0
+vds	vorratsdatenspeicherung	verbote	bulgarien	niederlande	spiegel	see	more	 | neutral: 0	 | positiv: 0	 | negativ: 0
 verkauf	bulgarien	immobilien	grundstueck	km	meer	entfernt	km	varna	 | neutral: 0	 | positiv: 0	 | negativ: 1
 verkauf	bulgarien	haus	garten	km	meer	entfernt	km	varna	 | neutral: 0	 | positiv: 0	 | negativ: 1
+verkauf	bulgarien	haus	mgarten	km	schwarzen	meer	km	varna	 | neutral: 0	 | positiv: 0	 | negativ: 0
+take	me	church	de	sofia	karlberg	elle	est	juste	mega	perf	 | neutral: 0	 | positiv: 0	 | negativ: 0
+hello	baby	berghain	sofia	lets	boogie	 | neutral: 0	 | positiv: 0	 | negativ: 0
 bulgarien	verkaufen	landhaus	garten	km	meer	entfernt	km	varna	 | neutral: 0	 | positiv: 0	 | negativ: 1
+sofia	karlbergggg	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	untersagt	vorratsdatenspeicherung	vds	 | neutral: 0	 | positiv: 0	 | negativ: 0
 lektion	multikulti	bulgaren	aufgenommen	wohnung	angezuendet	mieter	verletzt	 | neutral: 0	 | positiv: 0	 | negativ: 1
 vorratsdatenspeicherung	kommt	immer	eulaender	unter	juristischen	politischen	druck	 | neutral: 1	 | positiv: 0	 | negativ: 1
+sofia	potter	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	bulgarien	renovierung	immobilien	haus	garten	km	meer	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofias	beautyblog	opi	fifty	shades	grey	kollektion	gewinnspiel	 | neutral: 0	 | positiv: 0	 | negativ: 0
+learn	more	about	sofia	atzrdot	 | neutral: 0	 | positiv: 0	 | negativ: 0
 sofia	wenn	schwarz	waere	waere	schon	ziemlich	unangenehm	 | neutral: 1	 | positiv: 0	 | negativ: 1
 gerichtsurteile	vorratsdatenspeicherung	bulgarien	denniederlanden	verboten	 | neutral: 0	 | positiv: 0	 | negativ: 1
-nelson	augen	verraten	liebe	geben	bereit	ohren	einzigartig	schicksal	 | neutral: 0	 | positiv: 0	 | negativ: 1
+belogradchik	fortress	bulgaria	balkans	 | neutral: 0	 | positiv: 0	 | negativ: 0
+nelson	augen	verraten	liebe	geben	bereit	ohren	einzigartig	schicksal	 | neutral: 1	 | positiv: 2	 | negativ: 1
+gvilletennisclassic	quarterfinal	scores	sofia	kenin	def	ellie	halbauer	 | neutral: 0	 | positiv: 0	 | negativ: 0
+radiotipp	sofia	gubaidulina	offertorium	 | neutral: 0	 | positiv: 0	 | negativ: 0
+guckt	sofia	wieder	wegen	hugh	 | neutral: 0	 | positiv: 0	 | negativ: 0
+waehrend	andere	eulaender	vds	mittelfinger	zeigen	mchte	weiterhin	vds	hand	schuetteln	 | neutral: 0	 | positiv: 0	 | negativ: 0
+huch	sehe	gerade	hab	falschen	calli	verlinkt	oh	kommentar	aba	boese	sofia	 | neutral: 1	 | positiv: 0	 | negativ: 0
+bulgarien	verfassungsgericht	untersagt	vorratsdatenspeicherung	vorratsdatenspeicherung	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	karlberg	 | neutral: 0	 | positiv: 0	 | negativ: 0
 urteil	verfassungsgerichts	bulgarien	erklaert	vorratsdatenspeicherung	verfassungswidrig	 | neutral: 0	 | positiv: 0	 | negativ: 1
-vorratsdatenspeicherung	bulgarien	niederlanden	verboten	zumindest	einige	haben	vermutlich	verstanden	 | neutral: 0	 | positiv: 0	 | negativ: 1
+vorratsdatenspeicherung	verbote	bulgarien	niederlande	 | neutral: 0	 | positiv: 0	 | negativ: 0
+woran	erkennt	bulgarien	romasiedlung	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgaria	ruse	tracker	mark	knopfler	 | neutral: 0	 | positiv: 0	 | negativ: 0
+top	story	vorratsdatenspeicherung	verbote	bulgarien	niederlande	spie	see	more	 | neutral: 0	 | positiv: 1	 | negativ: 0
+nos	puntuan	sofia	baker	beln	borthwick	alexa	lane	francia	wells	farah	witteveen	scarlett	berl	todas	 | neutral: 0	 | positiv: 0	 | negativ: 0
+glueckwunsch	bulgarien	vds	 | neutral: 0	 | positiv: 0	 | negativ: 0
+photo	sofiarichiefashionstyle	sofia	richie	tonya	brewer	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgaria	varna	beryl	mark	knopfler	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofiapinzi	jo	grundy	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	verfassungsgericht	untersagt	vorratsdatenspeicherung	 | neutral: 0	 | positiv: 0	 | negativ: 0
+urteil	verfassungsgerichts	bulgarien	erklaert	 | neutral: 0	 | positiv: 0	 | negativ: 0
+vorratsdatenspeicherung	bulgarien	niederlanden	verboten	zumindest	einige	haben	vermutlich	verstanden	 | neutral: 1	 | positiv: 0	 | negativ: 1
+ha	saha	trig	esslama	ma	ghadich	tehrag	lel	maroc	kanch	zetla	 | neutral: 0	 | positiv: 0	 | negativ: 0
+eu	hein	 | neutral: 0	 | positiv: 0	 | negativ: 0
+japan	girl	sofia	alen	vip	gold	dubai	escort	 | neutral: 0	 | positiv: 0	 | negativ: 0
+lernen	bulgarisch	schnell	einfach	abwechslungsreiche	tagesaufgaben	 | neutral: 0	 | positiv: 3	 | negativ: 0
+totale	kontrolle	kommt	angst	kontrolle	verlust	 | neutral: 0	 | positiv: 0	 | negativ: 0
 niederlanden	erklaert	bulgarien	vorratsdatenspeicherung	verfassungswidrig	 | neutral: 0	 | positiv: 0	 | negativ: 1
 spon	gerichtsurteile	vorratsdatenspeicherung	vds	bulgarien	denniederlanden	verboten	 | neutral: 0	 | positiv: 0	 | negativ: 1
+wenn	peitsche	psychoterror	outsourcen	bulgarien	daemliche	werbung	 | neutral: 1	 | positiv: 0	 | negativ: 0
+now	rtv	musgraves	sofia	np	listen	 | neutral: 0	 | positiv: 0	 | negativ: 0
+hotels	sehenswuerdigkeit	aquarium	varna	varna	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
 bulgarien	niederlanden	haben	gerichte	umstrittene	vorratsdatenspeicherung	verboten	 | neutral: 0	 | positiv: 0	 | negativ: 1
 niederlanden	bulgarien	voratsdatenspeicherung	verboten	vds	 | neutral: 0	 | positiv: 0	 | negativ: 1
 gerichtsurteile	vorratsdatenspeicherung	bulgarien	denniederlanden	verboten	datenschutz	 | neutral: 0	 | positiv: 0	 | negativ: 1
+date	dating	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
 wasserball	Oesterreich	gewinnt	glatt	gegen	bulgarien	sport	wasserball	schwimmen	osv	 | neutral: 0	 | positiv: 1	 | negativ: 1
-prinzipiell	waere	gut	wenn	religion	komplett	wegfallen	wuerde	damit	viele	vorschubguende	kriege	 | neutral: 1	 | positiv: 3	 | negativ: 1
+kca	votejktid	reuploadjkt	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+naechste	bulgarien	verfassungsgericht	untersagt	vorratsdatenspeicherung	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofiavalentine	lesliefox	maxcortes	rob	 | neutral: 0	 | positiv: 0	 | negativ: 0
+prinzipiell	waere	gut	wenn	religion	komplett	wegfallen	wuerde	damit	viele	vorschubguende	kriege	 | neutral: 2	 | positiv: 3	 | negativ: 1
+kangen	sofi	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	verfassungsgericht	untersagt	vorratsdatenspeicherung	vds	datenschutz	 | neutral: 0	 | positiv: 0	 | negativ: 0
 bulgarien	vorratsdatenspeicherung	verfassungswidrig	anonops	anonymous	 | neutral: 0	 | positiv: 0	 | negativ: 1
+essen	bulgaria	yoghurtbot	 | neutral: 0	 | positiv: 0	 | negativ: 0
 verfassungsgerichtsurteil	bulgarien	erklaert	vorratsdatenspeicherung	verfassungswidrig	vds	 | neutral: 0	 | positiv: 0	 | negativ: 1
+sims	folge	hd	sofia	kuendigen	 | neutral: 0	 | positiv: 0	 | negativ: 0
+weil	wechseln	ort	weil	woanders	besseren	ueberhaupt	erst	job	gibt	 | neutral: 0	 | positiv: 1	 | negativ: 0
 wenn	leute	arbeiten	umziehen	dann	armutsmigration	 | neutral: 1	 | positiv: 0	 | negativ: 1
-vds	holland	verboten	bulgarien	verboten	eukommision	will	keinen	neuen	anlauf	zur	vds	starten	 | neutral: 0	 | positiv: 0	 | negativ: 1
+javier	boton	 | neutral: 0	 | positiv: 0	 | negativ: 0
+schule	dann	besserer	ort	religion	gehoert	zur	welt	schule	welt	vorbereiten	 | neutral: 0	 | positiv: 1	 | negativ: 0
+lathos	kairo	sefh	ster	 | neutral: 0	 | positiv: 0	 | negativ: 0
+well	sofia	understand	me	 | neutral: 0	 | positiv: 0	 | negativ: 0
+gerichtsurteile	vorratsdatenspeicherung	bulgarien	denniederlanden	 | neutral: 0	 | positiv: 0	 | negativ: 0
 vds	holland	verboten	bulgarien	verboten	eukommision	will	keinen	neuen	anlauf	zur	vds	starten	 | neutral: 0	 | positiv: 0	 | negativ: 2
+waehrend	andere	eulaender	vds	mittelfinger	zeigen	moechte	weiterhin	vds	hand	schuetteln	cdu	 | neutral: 0	 | positiv: 0	 | negativ: 0
 gerichtsurteile	vorratsdatenspeicherung	bulgarien	denniederlanden	verboten	spiegel	online	 | neutral: 0	 | positiv: 0	 | negativ: 1
 gerichtsurteile	vorratsdatenspeicherung	bulgarien	denniederlanden	verboten	zwei	europaeische	gerichte	 | neutral: 0	 | positiv: 0	 | negativ: 1
 gerichtsurteile	vorratsdatenspeicherung	bulgarien	niederlanden	verboten	vds	 | neutral: 0	 | positiv: 0	 | negativ: 1
@@ -27,6 +82,7 @@ gerichtsurteile	vorratsdatenspeicherung	bulgarien	niederlanden	verboten	datensch
 geht	ohne	vorratsdatenspeicherung	bulgarien	denniederlanden	verboten	datenschutz	 | neutral: 1	 | positiv: 0	 | negativ: 1
 gerichtsurteile	vorratsdatenspeicherung	bulgarien	denniederlanden	verboten	news	nachrichten	 | neutral: 0	 | positiv: 0	 | negativ: 1
 spiegelonline	bulgarien	niederlanden	haben	gerichte	umstrittene	vorratsdatenspeicherung	verboten	 | neutral: 0	 | positiv: 0	 | negativ: 1
+gute	nachricht	alle	denen	datenschutz	herzen	liegt	anonym	app	 | neutral: 1	 | positiv: 0	 | negativ: 0
 gerichtsurteile	vorratsdatenspeicherung	bulgarien	niederlanden	verboten	 | neutral: 0	 | positiv: 0	 | negativ: 1
 richter	verbieten	vds	bulgarien	niederlanden	deutschland	wird	verhandelt	fue	 | neutral: 0	 | positiv: 0	 | negativ: 1
 richter	verbieten	vds	bulgarien	niederlanden	deutschland	wird	verhandelt	 | neutral: 0	 | positiv: 0	 | negativ: 1
@@ -35,162 +91,981 @@ newsinfomedia	gerichtsurteile	vorratsdatenspeicherung	bulgarien	denniederlanden	
 telmi	nachrichten	news	gerichtsurteile	vorratsdatenspeicherung	bulgarien	denniederlanden	verboten	 | neutral: 0	 | positiv: 0	 | negativ: 1
 spon	netzpolitik	gerichtsurteile	vorratsdatenspeicherung	bulgarien	denniederlanden	verboten	 | neutral: 0	 | positiv: 0	 | negativ: 1
 gerichtsurteile	vorratsdatenspeicherung	bulgarien	denniederlanden	verboten	dienachrichten	 | neutral: 0	 | positiv: 0	 | negativ: 1
+bestprice	deutschland	strickmtze	prinzessin	glitzer	sofia	gr	rosa	neuware	 | neutral: 0	 | positiv: 1	 | negativ: 0
+sofia	vergara	wallpaper	 | neutral: 0	 | positiv: 0	 | negativ: 0
 gerichtsurteile	vorratsdatenspeicherung	bulgarien	denniederlanden	verboten	dienachrichten	spiegel	 | neutral: 0	 | positiv: 0	 | negativ: 1
+bulgarien	verfassungsgericht	untersagt	vorratsdatenspeicherung	heise	online	 | neutral: 0	 | positiv: 0	 | negativ: 0
 fragt	wann	unsere	alt	parteien	schuss	hoeren	 | neutral: 0	 | positiv: 0	 | negativ: 1
+stromzaehler	roma	haengt	zwecks	betrugspraevention	metern	hhe	eughgeneralanwaeltin	sieht	diskriminierung	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	richie	bae	 | neutral: 0	 | positiv: 0	 | negativ: 0
+darf	seinen	glauben	ausueben	freizeit	 | neutral: 1	 | positiv: 0	 | negativ: 0
+will	komplett	religionsfreie	schule	glaube	einzelnen	personen	dabei	egal	 | neutral: 1	 | positiv: 1	 | negativ: 0
 persoenliche	glaube	schule	nichts	verloren	 | neutral: 0	 | positiv: 0	 | negativ: 1
+stromzaehler	roma	haengt	zwecks	betrugspraevention	metern	hoehe	eughgeneralanwaeltin	sieht	diskriminierung	 | neutral: 0	 | positiv: 0	 | negativ: 0
+hotels	flughafen	int	flughafen	burgas	burgas	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sekunden	doku	osssy	gig	beim	sofia	rocks	festival	osssy	 | neutral: 0	 | positiv: 0	 | negativ: 0
+stehe	verkauf	bulgarien	dezent	ueberrascht	gerade	nightsuprise	dariamarchik	 | neutral: 1	 | positiv: 1	 | negativ: 0
 vorratsdatenspeicherung	tod	ziehen	bulgarien	holland	bUepf	ndg	 | neutral: 0	 | positiv: 0	 | negativ: 1
+deutschland	muessen	unbedingt	haben	soooooooooooooo	nuetzlich	 | neutral: 0	 | positiv: 1	 | negativ: 0
+presentation	book	dr	hansgert	poettering	europaeischer	weg	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+fakten	bulgarien	erfindungen	space	programm	tal	rosen	 | neutral: 0	 | positiv: 0	 | negativ: 0
+geht	rechtsstaat	bulgariens	verfassungsrichter	untersagen	vorratsdatenspeicherung	vds	 | neutral: 0	 | positiv: 0	 | negativ: 0
+vielen	lieben	dank	alle	viele	glueckwuensche	gesendet	haben	tierengel	bulgarien	 | neutral: 1	 | positiv: 1	 | negativ: 0
+sexy	sexy	sexy	sofia	 | neutral: 0	 | positiv: 3	 | negativ: 0
+exols	korea	vs	intl	exols	 | neutral: 0	 | positiv: 0	 | negativ: 0
+dticker	no	vds	bulgaria	villa	ddrucker	freeyourdatainitiative	zwangsdigitalisierung	 | neutral: 0	 | positiv: 0	 | negativ: 0
+wieder	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+lag	sehr	wohl	sehr	richtig	wenn	persoenlich	wirst	 | neutral: 2	 | positiv: 3	 | negativ: 0
 nervst	viel	spass	deinem	kreuzzug	gegen	stofftuecher	 | neutral: 0	 | positiv: 1	 | negativ: 1
-tragen	einschlaegig	rechter	kleidung	mindert	keine	kompetenz	dennoch	recht	verboten	 | neutral: 0	 | positiv: 0	 | negativ: 1
+boconcept	setzt	vielseitige	akzente	fruehjahr	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarischkindersprachkurs	bildwoerterbuch	kinder	zwischen	Ueber	bulgarische	woerter	 | neutral: 0	 | positiv: 0	 | negativ: 0
+satzzeichen	haengst	dich	na	bitte	gruen	juso	antifa	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verfassungsgericht	bulgarien	vorratsdatenspeicherung	gekippt	vds	 | neutral: 0	 | positiv: 0	 | negativ: 0
+beendest	satz	ausrufezeichen	 | neutral: 0	 | positiv: 0	 | negativ: 0
+ausserdem	luegst	kippa	kreuz	erlaubt	lehrer	guck	 | neutral: 0	 | positiv: 1	 | negativ: 0
 tragen	einschlaegig	rechter	kleidung	mindert	keine	kompetenz	dennoch	recht	verboten	 | neutral: 1	 | positiv: 1	 | negativ: 2
-ooooooooooooh	voll	gemein	lass	traenchen	weinen	 | neutral: 1	 | positiv: 0	 | negativ: 1
 ooooooooooooh	voll	gemein	lass	traenchen	weinen	 | neutral: 1	 | positiv: 0	 | negativ: 2
 kippa	kreuz	bereits	verboten	somit	kopftuch	sonderrecht	 | neutral: 0	 | positiv: 0	 | negativ: 1
+naechster	rocktrip	bulgarienrumaenien	info	anmeldungen	sofort	beian	franzat	 | neutral: 1	 | positiv: 0	 | negativ: 0
+kopftuch	aufhat	kippa	traegt	kreuz	halskettchen	 | neutral: 0	 | positiv: 0	 | negativ: 0
+kommst	denn	sonderrechte	wieso	kompetenz	lehrkraft	einschraenken	wenn	 | neutral: 1	 | positiv: 0	 | negativ: 0
 breaking	bulgarien	vorratsdatenspeicherung	verfassungswidrig	bulgarien	vorratsdatenspeicherun	yaf	 | neutral: 0	 | positiv: 0	 | negativ: 1
+keine	sonderrechte	muslime	denn	waere	rassismus	 | neutral: 0	 | positiv: 0	 | negativ: 0
 verletzt	religioesen	gefuehle	 | neutral: 0	 | positiv: 0	 | negativ: 1
 frisch	gebloggt	bulgarien	vorratsdatenspeicherung	verfassungswidrig	erklaert	anonnews	 | neutral: 0	 | positiv: 1	 | negativ: 1
+bulgarien	verfassungsgericht	untersagt	vorratsdatenspeicherung	heise	online	datenschutz	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	verfassungsgericht	untersagt	vorratsdatenspeicherung	vds	 | neutral: 0	 | positiv: 0	 | negativ: 0
+freiheit	geheimnis	korrespondenz	bulgarischer	verfassung	verankert	ned	kippt	bg	vds	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sehenvideo	sofia	erste	deutsch	ganzer	film	sofia	einmal	folge	prinzessin	videos	 | neutral: 0	 | positiv: 0	 | negativ: 0
+fluege	lot	polish	airlines	warschau	anderen	zielen	polen	eur	return	angebot	reisen	citytrip	 | neutral: 0	 | positiv: 1	 | negativ: 0
+neue	druckausgabe	sofia	gubaidulina	quasi	hoquetus	viola	kontrabass	klavier	sik	 | neutral: 0	 | positiv: 0	 | negativ: 0
+denkst	tatsache	jemand	glauben	schraenkt	faehigkeit	guten	unterricht	zwangslaeufig	 | neutral: 1	 | positiv: 0	 | negativ: 0
+nonuniformity	services	twentiethcentury	sofia	alias	sofia	airpot	nnrw	 | neutral: 0	 | positiv: 0	 | negativ: 0
+kaidiekmann	sofia	taxidis	erklaert	genau	 | neutral: 0	 | positiv: 1	 | negativ: 0
+nowplaying	let	it	go	single	sofia	karlberg	 | neutral: 0	 | positiv: 0	 | negativ: 0
 schade	russland	rumanienund	bulgarienwas	revolution	nachbahrland	anzetteln	 | neutral: 0	 | positiv: 0	 | negativ: 1
 frisch	gebloggtgtgt	bulgarien	vorratsdatenspeicherung	verfassungswidrig	erklaert	anonnews	 | neutral: 0	 | positiv: 1	 | negativ: 1
+linktipp	urteil	verfassungsgerichts	bulgarien	erklaert	vorratsdatenspeicherung	 | neutral: 0	 | positiv: 0	 | negativ: 0
 halte	form	religioesitaet	seiten	lehrer	schule	unangebracht	 | neutral: 0	 | positiv: 0	 | negativ: 1
+my	top	lastfm	artists	sia	sofia	karlberg	eminem	 | neutral: 0	 | positiv: 1	 | negativ: 0
+bulgarien	kippt	verfassungsgericht	vorratsdatenspeicherung	grundrechte	 | neutral: 0	 | positiv: 0	 | negativ: 0
+stimmt	bulgarien	rumaenien	braucht	einnahmequelle	 | neutral: 0	 | positiv: 0	 | negativ: 0
 bulgarien	vorratsdatenspeicherung	verfassungswidrig	bulgarien	vorratsdatenspeicherung	 | neutral: 0	 | positiv: 0	 | negativ: 1
-werde	langsam	richtig	sauer	kenne	griechenkroatenbulgaren	usw	deutschen	halt	 | neutral: 0	 | positiv: 0	 | negativ: 1
+frau	kopftuch	traegt	ganz	sicher	davon	ueberzeugt	religion	beste	sei	wozu	kopftuch	 | neutral: 1	 | positiv: 1	 | negativ: 0
+stimmt	bulgarien	rumaenien	braucht	einnahmequelle	kindergeld	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	verfassungsgericht	untersagt	vorratsdatenspeicherung	heise	online	vds	 | neutral: 0	 | positiv: 0	 | negativ: 0
 werde	langsam	richtig	sauer	kenne	griechenkroatenbulgaren	usw	deutschen	halt	 | neutral: 0	 | positiv: 1	 | negativ: 2
+brandstiftung	schaeuble	bloed	werden	verantwortlichen	griechenland	grexit	 | neutral: 1	 | positiv: 0	 | negativ: 0
+kommst	darauf	mensch	seinen	glauben	ausuebt	gleich	missionierenbekehren	will	 | neutral: 2	 | positiv: 0	 | negativ: 0
+villa	fanny	sinemoretz	black	sea	sinemoretz	betabookings	sinemoretz	hostel	 | neutral: 0	 | positiv: 0	 | negativ: 0
+besser	waere	generelles	verbot	jeglicher	glaubensausuebung	schulen	informieren	bekehren	 | neutral: 0	 | positiv: 1	 | negativ: 0
 yay	kein	pauschales	kopftuchverbot	lehrkraefte	selbst	entscheiden	selbst	entscheiden	 | neutral: 0	 | positiv: 0	 | negativ: 1
 schon	wieder	justizminister	prueft	bmi	kleine	vds	sehen	uns	dann	gericht	niederlande	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 1
+meerblick	zimmer	wohnung	verkauf	strand	lozenets	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
 bulgarien	vorratsdatenspeicherung	verfassungswidrig	 | neutral: 0	 | positiv: 0	 | negativ: 1
 bulgarien	vorratsdatenspeicherung	verfassungswidrig	bulgarien	vorratsdatenspeicherung	fue	anonnewsde	 | neutral: 0	 | positiv: 0	 | negativ: 1
-fehlen	euro	rubys	kastration	kosten	gesamt	euro	bitte	helft	kleine	teilbetraege	 | neutral: 0	 | positiv: 0	 | negativ: 1
-fehlen	euro	rubys	kastration	kosten	gesamt	euro	bitte	helft	kleine	teilbetraege	 | neutral: 0	 | positiv: 0	 | negativ: 2
-urteil	verfassungsgerichts	bulgarien	erklaert	vorratsdatenspeicherung	verfassungswidrig	erst	ges	 | neutral: 0	 | positiv: 0	 | negativ: 1
+meerblick	wohnung	verkauf	strand	lozenets	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+derstandard	entscheidung	bulgarien	untersagt	vorratsdatenspeicherung	vds	 | neutral: 0	 | positiv: 0	 | negativ: 0
+fehlen	euro	rubys	kastration	kosten	gesamt	euro	bitte	helft	kleine	teilbetraege	 | neutral: 1	 | positiv: 0	 | negativ: 2
+meerblick	zimmer	wohnung	verkauf	strand	lozenets	bulgaria	 | neutral: 0	 | positiv: 0	 | negativ: 0
+promotions	bulgarien	immobilien	verkauf	rabatt	rabatt	 | neutral: 0	 | positiv: 0	 | negativ: 0
+schon	euro	car	parts	ltd	 | neutral: 0	 | positiv: 0	 | negativ: 0
+deutsch	lernen	bulgaren	deutsch	lernen	bulgaren	kurs	gjuhe	gjermanisht	trajner	fjalsh	 | neutral: 0	 | positiv: 2	 | negativ: 0
+deutsch	lernen	bulgaren	 | neutral: 0	 | positiv: 1	 | negativ: 0
+bulgarien	verfassungsgericht	untersagt	vorratsdatenspeicherung	gute	woche	vorratsdatenspeicherung	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	verfassungsgericht	untersagt	vorratsdatenspeicherung	deutsche	politiker	wollen	unbedingt	 | neutral: 0	 | positiv: 1	 | negativ: 0
+dticker	no	vds	bulgaria	villa	ddrucker	freeyourdatainitiative	zwangsdigitalisier	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarias	cedb	deputy	chair	attend	presentation	hansgert	ptterings	book	sofia	tsvetan	tsvetanov	 | neutral: 0	 | positiv: 0	 | negativ: 0
+urteil	verfassungsgerichts	bulgarien	erklaert	vorratsdatenspeicherung	verfassungswidrig	erst	ges	 | neutral: 0	 | positiv: 1	 | negativ: 1
+bulgarien	ohne	vorratsdatenspeicherung	tut	schweiz	geltungsbereich	ausdehnen	 | neutral: 1	 | positiv: 0	 | negativ: 0
 bulgaren	aufgenommen	wohnung	angezuendet	mieter	verletzt	 | neutral: 0	 | positiv: 0	 | negativ: 1
-ach	bulgarien	niemand	will	schne	vorratsdatenspeicherung	verstehe	gar	warum	 | neutral: 0	 | positiv: 0	 | negativ: 1
+dticker	no	vds	bulgaria	villa	ddrucker	freeyourdatainitiative	zwangsdigitalisierung	gt	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	gei	zein	negro	pues	 | neutral: 0	 | positiv: 0	 | negativ: 0
 ach	bulgarien	niemand	will	schne	vorratsdatenspeicherung	verstehe	gar	warum	 | neutral: 0	 | positiv: 0	 | negativ: 2
-ach	bulgarien	niemand	will	schoene	vorratsdatenspeicherung	verstehe	gar	warum	 | neutral: 0	 | positiv: 0	 | negativ: 1
+verallem	spricht	bulgarisch	spielt	cracked	nennt	appleer	xdd	 | neutral: 0	 | positiv: 0	 | negativ: 0
 ach	bulgarien	niemand	will	schoene	vorratsdatenspeicherung	verstehe	gar	warum	 | neutral: 0	 | positiv: 0	 | negativ: 2
+staat	ohne	vorratsdatenspeicherung	 | neutral: 1	 | positiv: 0	 | negativ: 0
+jo	grundy	 | neutral: 0	 | positiv: 0	 | negativ: 0
+tagen	meinen	maedels	bulgarien	wird	unvergesslich	 | neutral: 0	 | positiv: 0	 | negativ: 0
 wolfgang	uuuuuh	melina	hast	uns	verraten	 | neutral: 0	 | positiv: 0	 | negativ: 1
+rereuploadjkt	sofia	kca	votejktid	 | neutral: 0	 | positiv: 0	 | negativ: 0
+entscheidung	bulgarien	untersagt	vorratsdatenspeicherung	austria	 | neutral: 0	 | positiv: 0	 | negativ: 0
 deutschland	will	unbedingt	leider	hohlkoepfe	uns	 | neutral: 0	 | positiv: 1	 | negativ: 1
+bulgarien	verfassungsgericht	untersagt	vorratsdatenspeicherung	enjoy	 | neutral: 0	 | positiv: 0	 | negativ: 0
+heilsbringer	roboter	beim	offeuropafestival	leipzig	dresden	discover	bulgaria	 | neutral: 0	 | positiv: 0	 | negativ: 0
+physics	heinemen	 | neutral: 0	 | positiv: 0	 | negativ: 0
+minas	lindas	con	sofia	fuster	 | neutral: 0	 | positiv: 0	 | negativ: 0
+nietzsche	kant	scoobe	doo	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sprei	sofia	first	ungu	bahan	katun	 | neutral: 0	 | positiv: 0	 | negativ: 0
+filosofia	history	hastag	sofia	meifaliani	 | neutral: 0	 | positiv: 0	 | negativ: 0
+hairshaft	angel	sofia	andres	 | neutral: 0	 | positiv: 0	 | negativ: 0
+photoshoot	dahlhausphoto	 | neutral: 0	 | positiv: 0	 | negativ: 0
+blair	waldorf	me	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	rozenbaum	 | neutral: 0	 | positiv: 0	 | negativ: 0
+eu	wanderley	 | neutral: 0	 | positiv: 0	 | negativ: 0
 urteil	verfassungsgerichts	bulgarien	erklaert	vds	verfassungswidrig	netzpolitik	 | neutral: 0	 | positiv: 0	 | negativ: 1
+sofia	karlberg	gt	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	verfassungsgericht	untersagt	vorratsdatenspeicherung	keine	gute	woche	vorratsdatenspeicher	 | neutral: 0	 | positiv: 0	 | negativ: 0
+keine	gute	woche	vorratsdatenspeicherung	europa	wenige	tage	niederlaendisches	gericht	 | neutral: 0	 | positiv: 0	 | negativ: 0
+habe	video	positiv	bewertet	sofia	stark	gesetzt	fall	video	 | neutral: 0	 | positiv: 2	 | negativ: 0
+bulgarien	untersagt	vorratsdatenspeicherung	 | neutral: 0	 | positiv: 0	 | negativ: 0
+cd	coders	coderpower	votacd	slimecdkca	 | neutral: 0	 | positiv: 0	 | negativ: 0
+top	story	urteil	verfassungsgerichts	bulgarien	erklaert	vorratsdatens	see	more	 | neutral: 0	 | positiv: 1	 | negativ: 0
+sofia	feb	reuters	two	 | neutral: 0	 | positiv: 0	 | negativ: 0
+gestern	niederlande	heute	bulgarien	baba	vds	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sicher	meister	schreinerhandwerk	gemacht	nebenbei	fremdsprachen	gelernt	bulgarienrumaenien	 | neutral: 0	 | positiv: 1	 | negativ: 0
 gerichtsurteil	bulgarien	erklaert	vorratsdatenspeicherung	verfassungswidrig	vds	 | neutral: 0	 | positiv: 0	 | negativ: 1
-motiviert	maedchen	dazuzu	hungern	wohlmglich	magersuechtig	sindnur	schnheitsideal	entsprechen	 | neutral: 0	 | positiv: 1	 | negativ: 1
+good	night	schlaf	guut	traeum	urlaub	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	verfassungsgericht	untersagt	vorratsdatenspeicherung	datenschutz	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	webster	 | neutral: 0	 | positiv: 0	 | negativ: 0
+puppensyndikat	silvia	sofia	erkens	 | neutral: 0	 | positiv: 0	 | negativ: 0
+heise	bulgarien	verfassungsgericht	untersagt	vorratsdatenspeicherung	vds	 | neutral: 0	 | positiv: 0	 | negativ: 0
+varoufakis	fordert	reparationen	deutschland	dann	italien	bulgarien	verlangen	tsipras	heuchler	 | neutral: 0	 | positiv: 0	 | negativ: 0
+steinmeier	bulgarien	eingetroffen	erstes	treffen	winterlichen	sofia	amtskollege	 | neutral: 0	 | positiv: 0	 | negativ: 0
+roger	wolfe	 | neutral: 0	 | positiv: 0	 | negativ: 0
+niederlanden	untersagt	bulgarien	vorratsdatenspeicherung	deutschland	 | neutral: 0	 | positiv: 0	 | negativ: 0
+motiviert	maedchen	dazuzu	hungern	wohlmglich	magersuechtig	sindnur	schnheitsideal	entsprechen	 | neutral: 1	 | positiv: 1	 | negativ: 1
 urteil	verfassungsgerichts	bulgarien	erklaert	vds	verfassungswidrig	 | neutral: 0	 | positiv: 0	 | negativ: 1
 krass	denn	 | neutral: 0	 | positiv: 0	 | negativ: 1
-knnte	jederzeit	sagen	ok	hab	keinen	bock	mache	wieder	anderes	projekt	beendet	 | neutral: 0	 | positiv: 0	 | negativ: 1
-ach	herje	laeuft	voll	gut	vds	bulgarien	erklaert	vds	verfassungswidrig	 | neutral: 0	 | positiv: 0	 | negativ: 1
+schnubbis	immer	dich	 | neutral: 1	 | positiv: 0	 | negativ: 0
+knnte	jederzeit	sagen	ok	hab	keinen	bock	mache	wieder	anderes	projekt	beendet	 | neutral: 0	 | positiv: 1	 | negativ: 1
+wuerde	gluecklich	werden	staerkste	mensch	schondu	melina	kaempfer	 | neutral: 1	 | positiv: 0	 | negativ: 0
 ach	herje	laeuft	voll	gut	vds	bulgarien	erklaert	vds	verfassungswidrig	 | neutral: 1	 | positiv: 1	 | negativ: 2
 uns	will	scheiss	wieder	einfuehren	vds	 | neutral: 0	 | positiv: 0	 | negativ: 1
-beobachtete	gerade	dezent	zwei	huebsche	maedchen	dachte	zuerst	reden	rumaenisch	bulgarisch	miteinander	schwizerduetsch	 | neutral: 2	 | positiv: 1	 | negativ: 1
+bulgarien	vorratsdatenspeicherung	verfassung	vereinbar	 | neutral: 0	 | positiv: 0	 | negativ: 0
+follow	me	fahlo	 | neutral: 0	 | positiv: 0	 | negativ: 0
+orf	bulgarien	untersagt	vorratsdatenspeicherung	vds	 | neutral: 0	 | positiv: 0	 | negativ: 0
+stad	bulgaria	thueringer	court	appeal	decision	available	navigator	citators	islg	newsletter	vol	 | neutral: 0	 | positiv: 0	 | negativ: 0
+danke	drthe	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	verfassungsgericht	untersagt	vorratsdatenspeicherung	news	nachrichten	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarische	verfassungsgericht	gesetzesnovelle	jahr	eingefuehrte	 | neutral: 0	 | positiv: 0	 | negativ: 0
+beobachtete	gerade	dezent	zwei	huebsche	maedchen	dachte	zuerst	reden	rumaenisch	bulgarisch	miteinander	schwizerduetsch	 | neutral: 2	 | positiv: 2	 | negativ: 1
+heisede	bulgarien	verfassungsgericht	untersagt	vorratsdatenspeicherung	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	ohne	vorratsdatenspeicherung	tut	schweiz	geltungsbereich	ausdehnen	stopbuepf	 | neutral: 1	 | positiv: 0	 | negativ: 0
+diese	jungen	maedchen	koennen	begriff	liebe	wahrscheinlich	definierendieses	ganze	gehabe	einfach	laecherlich	 | neutral: 1	 | positiv: 1	 | negativ: 0
+vorbildlich	verfassungsgericht	bulgarien	vorratsdatenspeicherung	gekippt	vds	 | neutral: 0	 | positiv: 1	 | negativ: 0
+urteil	verfassungsgerichts	bulgarien	erklaert	vorratsdatenspeicherung	germany	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	verfassungsgericht	untersagt	vorratsdatenspeicherung	keine	gute	woche	vorratsdatenspeicherung	europa	wenige	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	verfassungsgericht	untersagt	vorratsdatenspeicherung	keine	gute	woche	vorratsd	newsticker	 | neutral: 0	 | positiv: 0	 | negativ: 0
 nationaler	ebene	kein	glueck	vorratsdatenspeicherung	bulgarien	gekippt	 | neutral: 0	 | positiv: 0	 | negativ: 1
 urteil	verfassungsgerichts	bulgarien	erklaert	vorratsdatenspeicherung	verfassungswidrig	sofi	 | neutral: 0	 | positiv: 0	 | negativ: 1
+gerade	bulgarien	wieder	gekommen	heute	vorratsdatenspeicherung	verfassungsgericht	abgeschafft	wurde	 | neutral: 1	 | positiv: 0	 | negativ: 0
+schon	glueck	vds	bulgarien	gekippt	wurde	 | neutral: 0	 | positiv: 0	 | negativ: 0
 bulgarien	niederlande	verfassungsgerichte	verbieten	will	union	bloedsinn	einfuehren	 | neutral: 0	 | positiv: 0	 | negativ: 1
+heute	packe	blog	folgende	themen	zuwanderung	deutschland	eu	rumaenien	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+gute	laune	braucht	entschuldigen	 | neutral: 0	 | positiv: 1	 | negativ: 0
 bulgarien	niederlande	verfassungsgerichte	verbieten	vorratsdatenspeicherung	will	union	bloedsinn	einfuehren	 | neutral: 0	 | positiv: 0	 | negativ: 1
+telmi	computer	bulgarien	verfassungsgericht	untersagt	vorratsdatenspeicherung	keine	gute	woche	 | neutral: 0	 | positiv: 0	 | negativ: 0
+tec	news	insights	bulgarien	verfassungsgericht	untersagt	vorratsdatenspeicherung	 | neutral: 0	 | positiv: 0	 | negativ: 0
+schlagzeilen	bulgarien	verfassungsgericht	untersagt	vorratsdatenspeicherung	 | neutral: 0	 | positiv: 0	 | negativ: 0
 lesestoff	urteil	verfassungsgerichts	bulgarien	erklaert	vorratsdatenspeicherung	verfassungswidrig	 | neutral: 0	 | positiv: 0	 | negativ: 1
-monty	wer	moechte	diesem	huebschen	kerlchen	warmes	koerbchen	herz	schenken	ca	monate	alt	 | neutral: 0	 | positiv: 0	 | negativ: 1
+heise	online	bulgarien	verfassungsgericht	untersagt	vorratsdatenspeicherung	 | neutral: 0	 | positiv: 0	 | negativ: 0
+heiseonline	bulgarien	verfassungsgericht	untersagt	vorratsdatenspeicherung	vorratsdatenspeicherung	qbizit	hei	 | neutral: 0	 | positiv: 0	 | negativ: 0
+heiseonline	bulgarien	verfassungsgericht	untersagt	vorratsdatenspeicherung	vorratsdatenspeicherung	 | neutral: 0	 | positiv: 0	 | negativ: 0
+entscheidung	bulgarien	untersagt	vorratsdatenspeicherung	ombudsmann	derstandardweb	 | neutral: 0	 | positiv: 0	 | negativ: 0
+entscheidung	bulgarien	untersagt	vorratsdatenspeicherung	ombudsmann	freiheit	geheimnis	korres	 | neutral: 0	 | positiv: 0	 | negativ: 0
+redet	albanisch	versteht	bulgarisch	zigeunerin	zugfahrenmachtspass	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	untersagt	vorratsdatenspeicherung	orfnews	 | neutral: 0	 | positiv: 0	 | negativ: 0
+infos	urteil	verfassungsgerichts	bulgarien	erklaert	vorratsdatenspeicherung	 | neutral: 0	 | positiv: 0	 | negativ: 0
 monty	wer	moechte	diesem	huebschen	kerlchen	warmes	koerbchen	herz	schenken	ca	monate	alt	 | neutral: 0	 | positiv: 1	 | negativ: 2
+one	more	gesehen	bulgarien	untersagt	vorratsdatenspeicherung	vds	 | neutral: 0	 | positiv: 0	 | negativ: 0
 urteil	verfassungsgerichts	bulgarien	verklaert	vorratsdatenspeicherung	fuehren	verfassungswidrig	netzpoliti	 | neutral: 0	 | positiv: 0	 | negativ: 1
+inter	wolfsburg	 | neutral: 0	 | positiv: 0	 | negativ: 0
+natalie	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+wegen	modern	bulgarien	untersagt	vorratsdatenspeicherung	 | neutral: 0	 | positiv: 1	 | negativ: 0
+standard	netzpolitik	entscheidung	bulgarien	untersagt	vorratsdatenspeicherung	 | neutral: 0	 | positiv: 0	 | negativ: 0
+urteil	verfassungsgerichts	bulgarien	erklaert	infos	 | neutral: 0	 | positiv: 0	 | negativ: 0
 yeah	gestern	niederlande	heute	bulgarien	vds	rechtswidrig	wieder	abgeschafft	 | neutral: 0	 | positiv: 0	 | negativ: 1
 kleine	caruso	schatz	wer	gibt	ihm	chance	 | neutral: 0	 | positiv: 0	 | negativ: 1
+urteil	verfassungsgerichts	bulgarien	erklaert	kurzmeldungen	bulgarien	sofiaglobe	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	jakobsson	siegerin	beim	algarvecup	 | neutral: 0	 | positiv: 0	 | negativ: 0
+netzpolitik	urteil	verfassungsgerichts	bulgarien	erklaert	vorratsdatenspei	 | neutral: 0	 | positiv: 0	 | negativ: 0
 netzpolitik	urteil	verfassungsgerichts	bulgarien	erklaert	vorratsdatenspeicherung	verfassungswidrig	 | neutral: 0	 | positiv: 0	 | negativ: 1
+sn	solinetz	upsn	gerichtsurteil	bulgarien	erklaert	vorratsdatenspeicherung	 | neutral: 0	 | positiv: 0	 | negativ: 0
+arrancamoss	tohuma	lenguas	vivas	sofia	broken	de	spangenberg	 | neutral: 0	 | positiv: 0	 | negativ: 0
 polen	baltikum	tjeckien	rumaenien	ungern	bulgarien	serbienfinland	 | neutral: 0	 | positiv: 0	 | negativ: 1
+sofia	hdrmp	 | neutral: 0	 | positiv: 0	 | negativ: 0
+schaut	euch	modern	family	season	dvds	ed	oneill	sofa	vergara	 | neutral: 0	 | positiv: 1	 | negativ: 0
+bulgarien	woche	sonnenstrand	flug	top	hotel	all	inclusive	zug	flug	hoteltransfer	 | neutral: 0	 | positiv: 1	 | negativ: 0
+sofia	abstand	beste	kommasetzung	ganzen	klasse	koennte	euch	nachhilfe	geben	bAeAeAem	biatsch	 | neutral: 1	 | positiv: 1	 | negativ: 0
+heftige	schneestuerme	starkes	schneechaos	bulgarien	erdveraenderungen	 | neutral: 0	 | positiv: 0	 | negativ: 0
+dreamliner	fluege	peking	eur	angebot	reisen	urlaub	china	beijing	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bitte	retweeten	hoch	 | neutral: 0	 | positiv: 1	 | negativ: 0
+pls	retweet	up	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	sofia	einsatz	playboy	focus	repotage	wirtschaftskrieger	detektei	 | neutral: 0	 | positiv: 0	 | negativ: 0
+steovaschwestern	bulgarien	wollen	beste	damendoppel	europas	werden	 | neutral: 1	 | positiv: 0	 | negativ: 0
+fluege	lot	polish	airlines	warschau	anderen	zielen	polen	eur	return	angebot	reisen	urlaub	 | neutral: 0	 | positiv: 1	 | negativ: 0
+trenkwalder	marketing	manager	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+just	announced	altenburg	germany	apr	alte	wollspinnerei	 | neutral: 0	 | positiv: 0	 | negativ: 0
+automatisches	kontrollsystem	easypass	faengt	erstmals	gemeingefaehrlichen	schwerverbrecher	ausreise	flughafen	 | neutral: 0	 | positiv: 0	 | negativ: 0
+zurueck	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+workout	sportmuffel	schafft	sofiavergara	tolle	figur	halten	 | neutral: 0	 | positiv: 1	 | negativ: 0
+hach	liebe	nico	stammt	btw	serbien	polen	russen	bulgaren	kasachstan	alles	dasselbe	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	karlberg	bomb	 | neutral: 0	 | positiv: 0	 | negativ: 0
+tui	erhht	flugkapazitaeten	pfingstferien	plaetze	spanien	griechenland	bulgarien	tuerkei	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	woche	goldstrand	flug	top	hotel	all	inclusive	zug	flug	hoteltransfer	 | neutral: 0	 | positiv: 1	 | negativ: 0
+king	billie	weissbnp	paribas	open	 | neutral: 0	 | positiv: 0	 | negativ: 0
+stromzaehler	roma	metern	hoehe	eughgeneralanwaeltin	sieht	diskriminierung	 | neutral: 0	 | positiv: 0	 | negativ: 0
+joa	wohnung	sieht	top	onemillionbulls	foto	 | neutral: 0	 | positiv: 1	 | negativ: 0
+stromzaehler	roma	metern	hoehe	eughgeneralanwaeltin	sieht	diskriminierung	ueberwiegend	roma	be	 | neutral: 0	 | positiv: 0	 | negativ: 0
+geteilt	bulgaren	aufgenommen	wohnung	angezuendet	mieter	 | neutral: 0	 | positiv: 0	 | negativ: 0
+neue	innenministerin	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
 dance	por	sofia	blank	 | neutral: 0	 | positiv: 0	 | negativ: 1
 naja	italien	bulgarien	nichts	holen	ausserdem	deutschland	sozialamt	welt	erklaert	 | neutral: 0	 | positiv: 0	 | negativ: 1
+teamfollowback	sofia	euro	sex	parties	sofia	euro	sex	parties	plz	also	checkmybio	 | neutral: 0	 | positiv: 0	 | negativ: 0
+manche	lernen	eben	anders	 | neutral: 1	 | positiv: 2	 | negativ: 0
+sofia	meifaliani	google	post	english	translate	 | neutral: 0	 | positiv: 0	 | negativ: 0
+kaos	karacter	oshkosh	 | neutral: 0	 | positiv: 0	 | negativ: 0
+there	no	rose	such	vertu	bengt	ollen	sofia	vokalensemble	 | neutral: 0	 | positiv: 0	 | negativ: 0
 ganz	einfach	bulgaren	italienern	gibt	erst	recht	kein	geld	holen	griechenland	 | neutral: 1	 | positiv: 3	 | negativ: 1
+schlussantraege	verbot	diskriminierung	aufgrund	zugehoerigkeit	roma	bulgarien	generalanwaeltin	kok	 | neutral: 0	 | positiv: 0	 | negativ: 0
+schlussantraege	verbot	diskriminierung	aufgrund	zugehoerigkeit	roma	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgaria	postal	tax	stamps	full	set	scra	mnh	zwangszuschlagsmarken	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jgh	fr	sofias	 | neutral: 0	 | positiv: 0	 | negativ: 0
+naechstes	werden	italienerungarn	bulgaren	briten	gemolken	balkankrieg	lukrative	geschaeftsidee	 | neutral: 1	 | positiv: 0	 | negativ: 0
+modern	grey	sofa	set	 | neutral: 0	 | positiv: 1	 | negativ: 0
+gastfreundschaft	jaehrigen	gutmenschen	rentner	 | neutral: 0	 | positiv: 0	 | negativ: 0
 ganz	einfach	bulgaren	italienern	gibt	erst	recht	kein	geld	holen	griechenland	tsipras	 | neutral: 1	 | positiv: 3	 | negativ: 1
+hoffe	exilbulgaren	wm	platt	 | neutral: 0	 | positiv: 0	 | negativ: 0
+deutsche	haben	angst	bulgaren	rumaenen	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	interview	aussenminister	steinmeier	beziehungen	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
 deutschland	griechenland	allein	zur	entschaedigungsdebatte	italien	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 1
+perrfff	take	me	church	sofia	karlberg	 | neutral: 0	 | positiv: 0	 | negativ: 0
+miss	bodyguard	erstes	poster	hot	pursuit	actionkomoedie	reese	witherspoon	sofia	vergara	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	karlberg	lt	 | neutral: 0	 | positiv: 0	 | negativ: 0
+wrapped	reichstag	christo	project	deutsche	reichstag	christo	born	gabrovo	bulgaria	christo	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	soziologin	wird	innenministerin	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	aktueller	nachrichtenueberblick	 | neutral: 0	 | positiv: 0	 | negativ: 0
+foto	stormtrooperfashion	iris	strubegger	sofia	sanchez	mauro	mongiello	bergdorf	goodman	 | neutral: 0	 | positiv: 0	 | negativ: 0
+horrorhaus	adler	wirft	bulgaren	rumaenen	einfach	raus	 | neutral: 0	 | positiv: 1	 | negativ: 0
+gbc	female	lbs	world	title	chance	bulgarien	power	lady	milena	koleva	lauri	vs	maess	geppert	audi	berlin	ii	undercard	 | neutral: 0	 | positiv: 0	 | negativ: 0
+alpha	marine	gmbh	bietet	gelaende	hallen	gemeinde	gorna	malina	kauf	zur	miete	 | neutral: 0	 | positiv: 1	 | negativ: 0
+sofia	aussi	 | neutral: 0	 | positiv: 0	 | negativ: 0
+ftgrphr	itfkemaretatjcc	photographer	or	designer	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	vergara	joe	manganiello	set	wedding	date	autumn	 | neutral: 0	 | positiv: 0	 | negativ: 0
+nachin	hermosin	 | neutral: 0	 | positiv: 0	 | negativ: 0
+eiffel	blue	ba	bee	 | neutral: 0	 | positiv: 0	 | negativ: 0
+neu	erste	rutsche	sofia	pinklila	 | neutral: 0	 | positiv: 1	 | negativ: 0
+dam	right	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+picar	ahre	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+wei	yan	sofia	first	smartphone	android	dual	smart	smartphone	sofia	windows	 | neutral: 0	 | positiv: 0	 | negativ: 0
+met	super	nice	sofia	vergara	 | neutral: 0	 | positiv: 1	 | negativ: 0
+perlanoche	robert	owen	 | neutral: 0	 | positiv: 0	 | negativ: 0
+movie	assessment	frankenstein	 | neutral: 0	 | positiv: 0	 | negativ: 0
+private	fuhrung	reina	sofia	museum	keinewarteschlangeticket	madrid	 | neutral: 0	 | positiv: 0	 | negativ: 0
+hi	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+spray	falls	michigan	 | neutral: 0	 | positiv: 0	 | negativ: 0
+landhaus	verkauf	bulgarien	haus	grundstueck	km	schwarzen	meer	km	varna	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	bulgarien	historisches	denkmal	geraeumige	familienhaus	garten	schwarzen	meer	 | neutral: 0	 | positiv: 0	 | negativ: 0
+erdveraenderungen	heftige	schneestuerme	starkes	schneechaos	bulgarien	drei	bulgaren	hochgebirge	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sache	lieben	gott	anderen	blatt	papier	steht	duerfte	sicherlich	zunehmende	 | neutral: 0	 | positiv: 2	 | negativ: 0
+dammit	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+teen	sofias	blowjob	title	teen	sofias	blowjob	length	video	url	 | neutral: 0	 | positiv: 0	 | negativ: 0
 bulgaren	aufgenommen	wohnung	angezuendet	mieter	verletzt	widerstand	 | neutral: 0	 | positiv: 0	 | negativ: 1
+arte	portal	street	art	sofia	gt	 | neutral: 0	 | positiv: 0	 | negativ: 0
 verkauf	bulgarien	landhaus	km	meer	km	flughafen	varna	entfernt	 | neutral: 0	 | positiv: 0	 | negativ: 1
+verkauf	bulgarien	landhaus	garten	km	schwarzen	meer	km	varna	 | neutral: 0	 | positiv: 0	 | negativ: 0
 bulgaren	aufgenommen	wohnung	angezuendet	mieter	verletzt	german	vikings	 | neutral: 0	 | positiv: 0	 | negativ: 1
+mega	gluecklich	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	bulgarien	landhaus	grundstueck	km	schwarzen	meer	 | neutral: 0	 | positiv: 0	 | negativ: 0
+wusstet	bulgarisch	xdd	 | neutral: 0	 | positiv: 0	 | negativ: 0
+viel	spass	mia	bulgarienlt	soneidisch	 | neutral: 0	 | positiv: 1	 | negativ: 0
+verkauf	bulgarien	landhaus	garten	km	meer	km	varna	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	bulgarien	geraeumiges	haus	garten	paar	meilen	meer	 | neutral: 0	 | positiv: 0	 | negativ: 0
+liebe	videos	mach	weiter	unterstuetze	dich	 | neutral: 0	 | positiv: 0	 | negativ: 0
+kommt	bulgarisch	danka	todorova	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	bulgarien	landhaus	garten	wenige	kilometer	meer	 | neutral: 0	 | positiv: 0	 | negativ: 0
+tage	bulgarien	sonnenstrand	all	inclusive	schon	inkl	fluegen	transfer	zug	flug	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	karlberg	underrated	 | neutral: 0	 | positiv: 0	 | negativ: 0
+habe	video	positiv	bewertet	echosmith	sofia	karlberg	cool	kids	klymvx	remix	hq	 | neutral: 0	 | positiv: 2	 | negativ: 0
+verkauf	bulgarien	haus	garten	km	black	sea	 | neutral: 0	 | positiv: 0	 | negativ: 0
+seorsarcasmo	pictwittercomgmeuqikvll	 | neutral: 0	 | positiv: 0	 | negativ: 0
 widerstand	bulgaren	aufgenommen	wohnung	angezuendet	mieter	verletzt	brd	 | neutral: 0	 | positiv: 0	 | negativ: 1
-ach	goldig	griesbach	sofia	bag	ss	allthatglitter	itsgolden	gold	summertime	fun	 | neutral: 0	 | positiv: 0	 | negativ: 1
+verkauf	bulgarien	geraeumiges	haus	grundstueck	km	schwarzen	meer	shabla	 | neutral: 0	 | positiv: 0	 | negativ: 0
+widrigenfalls	gar	seltene	dank	 | neutral: 0	 | positiv: 0	 | negativ: 0
+ach	goldig	griesbach	sofia	bag	ss	allthatglitter	itsgolden	gold	summertime	fun	 | neutral: 0	 | positiv: 1	 | negativ: 1
+heute	echt	cool	dir	paulina	 | neutral: 0	 | positiv: 2	 | negativ: 0
+grozuegiges	haus	verkauf	bulgarien	grundstueck	km	meer	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	bulgarien	haus	garten	km	meer	 | neutral: 0	 | positiv: 0	 | negativ: 0
+kuerze	startet	politischersalon	heute	bundeslandwirtschaftsminister	christian	schmidt	 | neutral: 0	 | positiv: 0	 | negativ: 0
+archduke	franz	ferdinand	his	wife	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jaehriger	dortmunder	nordstadt	zwei	bulgaren	wohnung	aufgenommen	wieder	htt	 | neutral: 0	 | positiv: 0	 | negativ: 0
+rayla	sofia	berlin	liebe	girlpower	 | neutral: 0	 | positiv: 0	 | negativ: 0
+lernen	bulgarisch	wesentlich	schneller	herkoemmlichen	lernmethoden	ca	minuten	lernzeit	tag	 | neutral: 0	 | positiv: 2	 | negativ: 0
 bulgaren	aufgenommen	wohnung	angezuendet	mieter	verletzt	dortmund	 | neutral: 0	 | positiv: 0	 | negativ: 1
+verkauf	kavarna	schwarzen	meer	bulgarien	grozuegiges	landhaus	garten	 | neutral: 0	 | positiv: 0	 | negativ: 0
 wer	durfte	wann	durften	 | neutral: 0	 | positiv: 0	 | negativ: 1
+sofias	beautyblog	laura	mercier	watercolour	clouds	kollektion	fruehli	 | neutral: 0	 | positiv: 0	 | negativ: 0
+angerfist	miss	vine	hdmp	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	haus	tag	nachtgleiche	preistraeger	besten	hause	bulgarien	neben	golfplaetzen	meer	 | neutral: 0	 | positiv: 1	 | negativ: 0
+photo	leila	goldkuhl	elle	bulgaria	 | neutral: 0	 | positiv: 0	 | negativ: 0
+reina	sofia	museum	macht	spass	salemana	ltb	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	dating	 | neutral: 0	 | positiv: 0	 | negativ: 0
 bulgaren	aufgenommen	wohnung	angezuendet	mieter	verletzt	dortmundecho	 | neutral: 0	 | positiv: 0	 | negativ: 1
+mongos	weisheiten	uralte	steinraetsel	malta	teneriffa	azoren	felsmysterium	perperikonbulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
 super	deal	kaufen	bulgarien	haus	grundstueck	km	schwarzen	meer	entfernt	 | neutral: 0	 | positiv: 1	 | negativ: 1
-haette	aurlienjoachim	deutschen	franzoesischen	pass	wuerde	wohl	kaum	sofia	spielen	tmeinung	 | neutral: 1	 | positiv: 0	 | negativ: 1
+jaehriger	dortmunder	nordstadt	zwei	bulgaren	wohnung	aufgenommen	wieder	 | neutral: 0	 | positiv: 0	 | negativ: 0
+finde	sofia	total	toll	schoen	nett	hab	keinen	kontakt	traurigkeit	 | neutral: 1	 | positiv: 2	 | negativ: 0
+villa	margarita	bulgarien	blick	schwarze	meer	 | neutral: 0	 | positiv: 0	 | negativ: 0
+italien	bulgarien	kamen	ihren	verpflichtungen	direkt	krieg	thema	reparationen	wiedergutmachungen	 | neutral: 1	 | positiv: 0	 | negativ: 0
+sagt	gerade	bulgarien	reise	gewonnen	hast	 | neutral: 1	 | positiv: 0	 | negativ: 0
+yeah	mittwoch	sofiatag	lt	 | neutral: 0	 | positiv: 0	 | negativ: 0
+aussenminister	steinmeier	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+ft	sweden	germany	sofia	jakobsson	anja	mittag	alexandra	popp	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	julia	michelle	justjulia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+fifa	photos	gt	germanys	fmidfielder	simone	laudehr	vies	with	swedens	forward	sofia	jakobsson	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jack	ue	me	 | neutral: 0	 | positiv: 0	 | negativ: 0
+ft	sweden	germany	sofia	jakobsson	anja	mittag	alexandra	popp	germany	claimed	rd	place	sweden	th	algar	 | neutral: 0	 | positiv: 0	 | negativ: 0
+ft	sweden	germany	sofia	jakobsson	anja	mittag	alexandra	popp	germany	claimed	rd	place	sweden	th	algarvecup	 | neutral: 0	 | positiv: 0	 | negativ: 0
+tui	erhoeht	flugkapazitaeten	pfingstferien	plaetze	spanien	griechenland	bulgarien	tuerkei	 | neutral: 0	 | positiv: 0	 | negativ: 0
+julia	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgariens	eiserne	lady	wird	innenministerin	sofiasofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+selfiewithyoursocksout	josie	nsw	 | neutral: 0	 | positiv: 0	 | negativ: 0
 haette	aurlienjoachim	deutschen	franzoesischen	pass	wuerde	wohl	kaum	sofia	spielen	tmeinung	 | neutral: 1	 | positiv: 0	 | negativ: 2
-sozialoekon	heisst	menschen	greece	fallen	niveau	bulgarien	unter	ceauceso	Uebertrieben	ausgedrueckt	 | neutral: 0	 | positiv: 0	 | negativ: 1
+kooperation	zw	bulgarien	deutschland	wirtschafts	energiesektor	ausbaubar	steinmeier	 | neutral: 0	 | positiv: 0	 | negativ: 0
+besonders	schoen	satz	doesigen	statistiker	mathtweet	 | neutral: 0	 | positiv: 1	 | negativ: 0
+bulgarien	wohnkomplex	 | neutral: 0	 | positiv: 0	 | negativ: 0
+studie	zur	zuwanderung	bulgarien	rumaenien	frankfurt	sozialpolitischen	offensive	 | neutral: 0	 | positiv: 0	 | negativ: 0
+deren	wirtschaft	wenigstens	existent	gr	wirklich	status	rumaenien	bulgarien	 | neutral: 1	 | positiv: 0	 | negativ: 0
 sozialoekon	heisst	menschen	greece	fallen	niveau	bulgarien	unter	ceauceso	Uebertrieben	ausgedrueckt	 | neutral: 0	 | positiv: 0	 | negativ: 2
+verkauf	bulgarien	renovierung	immobilie	einfamilienhaus	grundstueck	km	meer	 | neutral: 0	 | positiv: 0	 | negativ: 0
+vball	ba	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	bulgarien	renovierung	immobilie	einfamilienhaus	garten	km	black	sea	 | neutral: 0	 | positiv: 0	 | negativ: 0
+renovierung	immobilien	bulgarien	haus	grundstueck	km	black	sea	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	bulgarien	immobilien	renovierung	haus	grundstueck	km	meer	 | neutral: 0	 | positiv: 0	 | negativ: 0
+investieren	europa	verkaufen	bulgarien	landwirtschaftlichen	flaechen	 | neutral: 0	 | positiv: 1	 | negativ: 0
+oest	wirtschaftsdelegierte	sofia	ulrike	straka	analysiert	exportmarkt	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+roadtrip	sofia	rila	schoenste	kloster	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	bulgarien	millionen	landwirtschaftlicher	flaechen	 | neutral: 0	 | positiv: 0	 | negativ: 0
+herzlichen	dank	melissa	sofia	zugeschickten	gluecksbringer	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	verkaufen	historische	denkmaeler	familienhaus	garten	schwarzen	meer	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	vergara	schaemt	ihren	reichtum	splash	news	deutschland	gossipvideo	 | neutral: 0	 | positiv: 0	 | negativ: 0
+gossip	sofia	vergara	schaemt	ihren	reichtum	splash	news	deutschland	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkaufen	bulgarien	laendliche	residenz	wohnflaeche	schlafplaetzen	garten	eu	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	bulgarien	laendliche	residenz	wohnflaeche	schlafplaetzen	garten	eu	 | neutral: 0	 | positiv: 0	 | negativ: 0
+kaenner	bara	till	orup	sofia	wistam	martin	stenmarck	andreas	weise	osv	rockband	no	no	 | neutral: 0	 | positiv: 1	 | negativ: 0
+sofia	bereits	sorgenfalten	weil	statt	kleid	tuerkis	aquamarin	erhalten	minch	frueh	uebt	 | neutral: 0	 | positiv: 1	 | negativ: 0
+miglena	todorova	bulgaria	ggg	schwester	muss	hardcore	miglena	redhead	 | neutral: 0	 | positiv: 0	 | negativ: 0
+top	immobilien	verkauf	bulgarien	preistraeger	besten	hause	neben	golfplaetzen	meer	 | neutral: 0	 | positiv: 2	 | negativ: 0
+nurzarit	sofia	bt	bahren	laa	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	vergara	joe	manganiello	hochzeitstermin	steht	fest	 | neutral: 1	 | positiv: 0	 | negativ: 0
+tage	bulgarien	kristal	goldstrand	hotel	inkl	transfer	all	inklusive	verpflegung	un	urlaub	reisen	 | neutral: 0	 | positiv: 0	 | negativ: 0
+fotoAeraf	stormtrooperfashion	iris	strubegger	sofia	sanchez	mauro	mongiello	bergdorf	goodman	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	julia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+habe	fotos	album	james	dawson	cultures	democracy	serbia	bulgaria	how	facebook	gepostet	 | neutral: 0	 | positiv: 0	 | negativ: 0
+uralte	steinraetsel	malta	teneriffa	azoren	felsmysterium	perperikon	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	karlberg	sings	hot	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jeff	ozdemir	friends	sofia	portanet	fs	blumm	donna	regina	rolter	salon	volksbuehne	berlin	 | neutral: 0	 | positiv: 0	 | negativ: 0
+muessen	italien	bulgarien	griechische	reparationsforderungen	erwarten	usa	gb	hellas	 | neutral: 1	 | positiv: 0	 | negativ: 0
+sofia	julia	justjulia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+wenn	dich	kriege	silvia	sofia	erkens	 | neutral: 1	 | positiv: 0	 | negativ: 0
+staatsbesuch	praesidenten	ilham	aliyev	bulgarien	ende	gegangen	video	 | neutral: 0	 | positiv: 0	 | negativ: 0
+gute	sofia	yellowcard	 | neutral: 0	 | positiv: 0	 | negativ: 0
 thinkingofyoudad	joeghio	loveyoudad	dundees	bar	grill	 | neutral: 0	 | positiv: 0	 | negativ: 1
+sofias	art	hamburguer	 | neutral: 0	 | positiv: 0	 | negativ: 0
+reite	bien	sofia	chau	 | neutral: 0	 | positiv: 0	 | negativ: 0
+err	sofia	errr	 | neutral: 0	 | positiv: 0	 | negativ: 0
+kim	klafczynski	launches	modern	demand	fitness	app	renewu	are	compatible	 | neutral: 0	 | positiv: 1	 | negativ: 0
 sofia	nix	 | neutral: 0	 | positiv: 0	 | negativ: 1
+sofia	richie	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgaria	raises	schengen	membership	issue	during	steinmeier	visit	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+best	western	hotel	expo	sofia	betabookings	sofia	hostel	 | neutral: 0	 | positiv: 0	 | negativ: 0
+ig	maicolkc	stepmom	knows	best	with	alaina	kristar	sofia	rivera	duration	minurl	 | neutral: 0	 | positiv: 0	 | negativ: 0
+german	market	news	rose	rein	bulgarisch	prozent	oel	bio	 | neutral: 0	 | positiv: 1	 | negativ: 0
+orgullosa	unincivilya	 | neutral: 0	 | positiv: 0	 | negativ: 0
 weather	plovdiv	bulgaria	mist	wind	kmh	 | neutral: 0	 | positiv: 0	 | negativ: 1
 sofia	nix	xxx	porn	sex	sexo	followback	 | neutral: 0	 | positiv: 0	 | negativ: 1
+bansko	bulgarien	hohe	standards	niedrigen	preisen	 | neutral: 0	 | positiv: 1	 | negativ: 0
+buenas	noches	potterheads	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	karlsberg	lt	 | neutral: 0	 | positiv: 0	 | negativ: 0
+javier	bardem	queen	sofia	spanish	institute	gold	medal	gala	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	haus	verkauf	garten	km	meer	km	flughafen	varna	 | neutral: 0	 | positiv: 0	 | negativ: 0
 porn	sofia	nix	 | neutral: 0	 | positiv: 0	 | negativ: 1
+backstage	zuhair	murad	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	bulgarien	renovierung	objekt	haus	garten	km	schwarzen	meer	 | neutral: 0	 | positiv: 0	 | negativ: 0
 landhaus	verkauf	bulgarien	haus	grundstueck	km	meer	entfernt	km	varna	 | neutral: 0	 | positiv: 0	 | negativ: 1
+junge	junge	sehr	sehr	gute	folge	thewalkingdead	scheune	sofia	 | neutral: 0	 | positiv: 2	 | negativ: 0
+anderen	land	korruption	alles	bosnien	serbien	bulgarien	makedonien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+notte	zia	sof	 | neutral: 0	 | positiv: 0	 | negativ: 0
+buenas	estreno	desdeentonces	davidydaniel	ft	omarkoonze	 | neutral: 0	 | positiv: 0	 | negativ: 0
+abschluss	seines	besuchs	bulgarien	wird	steinmeier	sofia	praes	plevneliev	empfangen	 | neutral: 0	 | positiv: 0	 | negativ: 0
+koennte	bitte	mailadressen	per	dm	haben	wegen	emali	pplattform	 | neutral: 0	 | positiv: 0	 | negativ: 0
+wusstet	bulgariendeutschland	stunde	zeitverschiebung	denen	isses	jetz	erst	halb	 | neutral: 1	 | positiv: 1	 | negativ: 0
+dann	danke	dir	lieben	tipp	sofia	 | neutral: 0	 | positiv: 1	 | negativ: 0
+eyecandy	found	emporioefikz	eyecandy	sharebeautynothate	 | neutral: 0	 | positiv: 0	 | negativ: 0
+lost	translation	dir	sofia	coppola	 | neutral: 0	 | positiv: 0	 | negativ: 0
 verkaufen	bulgarien	landhaus	km	meer	entfernt	km	varna	grundstueck	eu	 | neutral: 0	 | positiv: 0	 | negativ: 1
+verkauf	bulgarien	haus	garten	km	schwarzen	meer	 | neutral: 0	 | positiv: 0	 | negativ: 0
+paahahahahha	freu	schon	mega	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+hotels	sehenswuerdigkeit	statanaskirche	varna	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgaren	tuetenfetischisten	erklaert	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgaria	raises	schengen	membership	issue	during	steinmeier	visit	tosofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
 viel	spa	bulgarien	hab	sehr	gekaempft	hab	geschafft	meinen	hero	sehen	 | neutral: 0	 | positiv: 2	 | negativ: 1
+iphone	wallpaperspart	quotes	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+chochochofer	pare	mahe	chochochochochofer	pare	mahe	 | neutral: 0	 | positiv: 0	 | negativ: 0
+your	underwaer	 | neutral: 0	 | positiv: 0	 | negativ: 0
+habe	video	playlist	hinzugefuegt	sam	smith	stay	with	me	teemid	sofia	karlberg	 | neutral: 0	 | positiv: 0	 | negativ: 0
+partnerhotel	green	wood	hotel	spa	skigebiet	banzko	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+universal	studios	imgur	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+ag	praesident	matthias	steinmetz	bord	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
 hab	nie	verstanden	 | neutral: 0	 | positiv: 0	 | negativ: 1
+historische	epoche	 | neutral: 0	 | positiv: 0	 | negativ: 0
+seitensprung	rheinfelden	baden	heiss	 | neutral: 0	 | positiv: 0	 | negativ: 0
+liam	sofia	liam	danielle	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+freunde	finden	bochum	suche	 | neutral: 1	 | positiv: 0	 | negativ: 0
+german	foreign	minister	steinmeier	reassures	bulgaria	overukraine	 | neutral: 0	 | positiv: 0	 | negativ: 0
+german	foreign	minister	steinmeier	reassures	bulgaria	over	ukraine	 | neutral: 0	 | positiv: 0	 | negativ: 0
+dwenglish	german	foreign	minister	steinmeier	reassures	bulgaria	over	ukraine	nato	member	bulgaria	which	de	 | neutral: 0	 | positiv: 0	 | negativ: 0
+schweizerische	mape	krim	wohnten	ukrainer	krimtatarenauch	bulgarenhmwer	sagtewiege	russlands	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	garden	bampb	sofia	betabookings	sofia	hostel	 | neutral: 0	 | positiv: 0	 | negativ: 0
+deutsche	aussenminister	steinmeier	beruhigt	bulgarien	dieukraine	 | neutral: 0	 | positiv: 1	 | negativ: 0
+german	foreign	minister	steinmeier	reassures	bulgaria	over	ukraine	headlinesapp	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	steinmeier	trifft	mp	intensiver	austausch	wirtschaftsbeziehungenenergiepolitik	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	karlberg	night	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgaria	german	foreign	minister	steinmeier	reassures	bulgaria	over	ukraine	 | neutral: 0	 | positiv: 0	 | negativ: 0
+wen	haben	denn	 | neutral: 0	 | positiv: 0	 | negativ: 0
+german	foreign	minister	steinmeier	reassures	bulgaria	over	ukraine	deutsche	welle	deutsche	welle	german	foreign	 | neutral: 0	 | positiv: 0	 | negativ: 0
+steinmeier	ukraine	euwirtschaftshilfe	angewiesen	sofiadpa	dieukraine	wird	auffassung	auss	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	haus	bliznatzi	 | neutral: 0	 | positiv: 0	 | negativ: 0
 ag	praesident	matthias	steinmetz	bord	unter	 | neutral: 0	 | positiv: 0	 | negativ: 1
-ruede	nelson	wurde	heftig	angefahren	unter	anderem	kiefer	gebrochen	sucht	 | neutral: 0	 | positiv: 0	 | negativ: 1
+telekom	steinmeier	ukraine	euwirtschaftshilfe	angewiesen	sofiadpa	dieukrain	tonline	news	free	 | neutral: 0	 | positiv: 0	 | negativ: 0
+unserer	designreihe	sofia	accessoires	 | neutral: 0	 | positiv: 0	 | negativ: 0
+rose	bulgarisch	bio	prozent	aetherisches	oel	berlin	 | neutral: 0	 | positiv: 0	 | negativ: 0
 ruede	nelson	wurde	heftig	angefahren	unter	anderem	kiefer	gebrochen	sucht	 | neutral: 0	 | positiv: 0	 | negativ: 2
-ruede	duke	zwar	kein	welpe	moechte	zuhause	finden	rest	seines	lebens	 | neutral: 0	 | positiv: 0	 | negativ: 1
-wenigstens	spiel	gegen	schweden	gegen	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 1
+ruede	duke	zwar	kein	welpe	moechte	zuhause	finden	rest	seines	lebens	 | neutral: 1	 | positiv: 0	 | negativ: 1
+hamein	sard	mosam	teri	yaadein	stati	hain	 | neutral: 0	 | positiv: 0	 | negativ: 0
+schaut	euch	modern	family	komplette	season	dvds	ed	oneil	sofia	vergara	 | neutral: 0	 | positiv: 1	 | negativ: 0
+hotels	stadt	kuklen	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+kristos	weiss	kreuz	aussieht	 | neutral: 0	 | positiv: 0	 | negativ: 0
 wenigstens	spiel	gegen	schweden	gegen	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 2
-hauptsache	twitterapp	tag	mehrere	stunden	komplett	arsch	nix	laedt	nix	posten	community	 | neutral: 0	 | positiv: 1	 | negativ: 1
+sofia	stellt	rechtsgutachen	ra	achelpoehler	qsl	 | neutral: 0	 | positiv: 0	 | negativ: 0
+steinmeier	bulgarien	ukrainekonflikt	keiner	unterschaetzt	weiteren	weg	vertraue	weiterhin	gemeinsame	 | neutral: 0	 | positiv: 0	 | negativ: 0
+german	foreign	minister	frankwalter	steinmeier	official	visit	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+mhm	lecker	bananenpancakes	essen	gab	euch	mittag	 | neutral: 0	 | positiv: 0	 | negativ: 0
+finalists	research	bosch	diekman	schmall	carver	poinar	cole	lura	lakosky	goggins	kozlowski	braaten	kloke	 | neutral: 0	 | positiv: 0	 | negativ: 0
+outfit	out	fit	 | neutral: 0	 | positiv: 1	 | negativ: 0
+neben	zug	sitzt	gerade	coolste	alte	mann	traegt	karoanzug	macbook	dabei	 | neutral: 1	 | positiv: 0	 | negativ: 0
 hauptsache	twitterapp	tag	mehrere	stunden	komplett	arsch	nix	laedt	nix	posten	community	 | neutral: 0	 | positiv: 1	 | negativ: 2
+haben	tickets	verkauft	hallen	hochverlegen	muessen	weitere	ausverkauft	tagen	wtf	gan	 | neutral: 0	 | positiv: 1	 | negativ: 0
+danke	sami	wei	einfach	oft	bedanken	lusm	samislimani	 | neutral: 0	 | positiv: 1	 | negativ: 0
+sofia	andres	goooooooooooooorg	 | neutral: 0	 | positiv: 0	 | negativ: 0
+new	item	sprei	star	sofia	first	pink	order	klik	sini	 | neutral: 0	 | positiv: 0	 | negativ: 0
+huendin	sahara	moechte	einfach	liebevolle	endstelle	finden	derjenige	ermoeglicht	 | neutral: 1	 | positiv: 1	 | negativ: 0
 kosara	verschmuste	katze	zuhause	sucht	wer	moechte	ermoeglichen	 | neutral: 0	 | positiv: 0	 | negativ: 1
+exhibition	kunstmuseum	basel	modern	collection	 | neutral: 0	 | positiv: 1	 | negativ: 0
+new	item	sprei	star	sofia	first	ungu	order	klik	sini	 | neutral: 0	 | positiv: 0	 | negativ: 0
+singles	graubuenden	single	 | neutral: 0	 | positiv: 0	 | negativ: 0
+mann	gesucht	borken	spass	 | neutral: 0	 | positiv: 0	 | negativ: 0
+frau	sex	erding	dating	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	grosszgige	luxurise	wohnung	 | neutral: 0	 | positiv: 0	 | negativ: 0
+brueckestar	sofia	helin	bekommt	neuen	serienpartner	sofia	helin	vermisst	ermittlerin	zdfse	 | neutral: 0	 | positiv: 0	 | negativ: 0
+ltbgtmedienltbgt	sofia	helin	ausstieg	partners	gut	schauspielerin	sofia	helin	 | neutral: 0	 | positiv: 1	 | negativ: 0
+lieber	sterben	zurueck	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+people	sofia	richie	nicole	richies	kleine	schwester	itgirl	jung	huebsch	haben	 | neutral: 0	 | positiv: 1	 | negativ: 0
+ltbgtmedienltbgt	sofia	helin	ausstieg	partners	gut	 | neutral: 0	 | positiv: 1	 | negativ: 0
+huebsche	sofia	sanchez	de	betak	heute	unsere	style	inspiration	 | neutral: 0	 | positiv: 0	 | negativ: 0
+hotels	stadt	sweti	wlas	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	steinmeier	investitionsklima	staerken	deutschland	bereit	hilfe	notwendigen	 | neutral: 0	 | positiv: 1	 | negativ: 0
 steinmeier	bulgarien	enger	austausch	ausdruck	gewachsener	beziehungen	brauchen	uns	gegenseitig	europa	 | neutral: 0	 | positiv: 0	 | negativ: 1
+steinmeier	bulgarien	ukrainekonflikt	keiner	unterschaetzt	weiteren	weg	vertraue	weiterhin	gemeinsame	europaeische	haltung	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	haus	umgebung	varna	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jemand	hof	krankenhaus	varna	abgesetzt	 | neutral: 0	 | positiv: 0	 | negativ: 0
+gibt	videomaterial	besuch	steinmeiers	bulgarien	haette	baldigen	beitrag	bedarf	 | neutral: 0	 | positiv: 0	 | negativ: 0
+goshko	wurde	schule	varna	angefahren	paar	kinder	sahen	brachten	ihn	nahe	liegende	 | neutral: 0	 | positiv: 1	 | negativ: 0
 ruede	eddie	sucht	liebevolles	zuhause	leben	gluecklich	verbringen	wer	moechte	ihn	koerbchen	 | neutral: 0	 | positiv: 0	 | negativ: 1
-leben	viel	wenig	bulgaren	rumaenen	deutschland	geht	sachen	packen	alle	herkommen	 | neutral: 0	 | positiv: 1	 | negativ: 1
-hab	gefuehl	werd	wenig	krank	nuernberg	kaputt	gemacht	ey	wert	 | neutral: 0	 | positiv: 0	 | negativ: 1
-hab	gefuehl	werd	wenig	krank	nuernberg	kaputt	gemacht	ey	wert	 | neutral: 0	 | positiv: 0	 | negativ: 2
-hab	gefuehl	werd	wenig	krank	nuernberg	kaputt	gemacht	ey	wert	 | neutral: 0	 | positiv: 0	 | negativ: 3
+medien	sofia	helin	ausstieg	partners	gut	schauspielerin	sofia	helin	vermisst	fernsehk	 | neutral: 0	 | positiv: 1	 | negativ: 0
+leben	viel	wenig	bulgaren	rumaenen	deutschland	geht	sachen	packen	alle	herkommen	 | neutral: 1	 | positiv: 1	 | negativ: 1
+bulgarien	steinmeier	investitionsklima	staerken	deutschland	bereit	hilfe	notwendigen	reformen	leisten	 | neutral: 0	 | positiv: 1	 | negativ: 0
+sofia	helin	ausstieg	partners	gut	dienachrichten	stern	 | neutral: 0	 | positiv: 1	 | negativ: 0
+kirsten	dunst	sofia	coppolas	marie	antoinette	 | neutral: 0	 | positiv: 0	 | negativ: 0
+abb	automation	power	international	 | neutral: 0	 | positiv: 0	 | negativ: 0
+ziwohnung	verkauf	strand	lozenets	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+guenstige	wohnung	verkauf	sonnenstrandbulgarien	immobilieninbulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+guenstige	ferienwohnung	verkauf	strand	sonnestrand	immobilien	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+gunstige	zimmerwohnung	strand	sonnestrand	bulgarien	immobilieninbulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+germany	open	schengen	talks	with	bulgaria	romania	steinmeier	 | neutral: 0	 | positiv: 0	 | negativ: 0
+zimmer	wohnung	verkauf	strand	sonnenstrand	bulgarien	immobilien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+germany	open	schengen	talks	with	bulgaria	romania	steinmeier	foreign	minister	frankwalter	steinmeier	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	orden	volksrepublik	iiklasse	bulgarien	orden	volksrepublikiiklas	 | neutral: 0	 | positiv: 0	 | negativ: 0
+aussenminister	steinmeier	heute	sofia	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+germany	deutschland	brd	heinrich	neine	brief	cover	bulgaria	 | neutral: 0	 | positiv: 0	 | negativ: 0
+joe	manganiello	sofia	vergara	hochzeitstermin	gefunden	klatschundtratsch	joemanganiello	sofiavergara	 | neutral: 0	 | positiv: 0	 | negativ: 0
+chaotischem	winterwetter	bulgarien	mann	zugeschneiten	haltestelle	gestorben	 | neutral: 0	 | positiv: 0	 | negativ: 0
+machst	heute	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+liebe	einfach	krasseste	person	ever	 | neutral: 0	 | positiv: 1	 | negativ: 0
+bett	beste	platz	erden	 | neutral: 0	 | positiv: 0	 | negativ: 0
+archiv	bulgarien	weg	topurlaubsziel	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+hotels	sehenswuerdigkeit	kathedrale	sv	nedelja	sofia	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+estolen	dans	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bundesaussenminister	steinmeier	reist	bulgarien	bundesaussenminister	frankwalter	steinmeier	besucht	heu	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	richie	bomb	 | neutral: 0	 | positiv: 0	 | negativ: 0
+federal	foreign	minister	steinmeier	will	travel	tobulgaria	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bundesaussenminister	steinmeier	reist	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+international	model	style	saint	laurent	pfw	fall	 | neutral: 0	 | positiv: 0	 | negativ: 0
+karen	sofia	angel	 | neutral: 0	 | positiv: 0	 | negativ: 0
+telekom	bundesaussenminister	steinmeier	reist	bulgarien	sofia	dpa	bundesaussenmi	tonline	news	free	 | neutral: 0	 | positiv: 0	 | negativ: 0
+howard	stern	display	bestie	sam	simon	has	died	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	nommnomm	sofias	 | neutral: 0	 | positiv: 0	 | negativ: 0
+hotels	stadt	sandanski	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sex	cam	sofia	fickmaschine	dildos	Uebergroesse	fickspielzeugein	Uebergroesse	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	hotel	san	diego	hotel	spa	 | neutral: 0	 | positiv: 0	 | negativ: 0
+hab	gefuehl	werd	wenig	krank	nuernberg	kaputt	gemacht	ey	wert	 | neutral: 0	 | positiv: 1	 | negativ: 3
+omg	seh	gerade	meinen	tweet	favorisiert	hast	geiiil	dankeeee	lt	lt	lt	lt	lt	grad	happy	lt	 | neutral: 1	 | positiv: 0	 | negativ: 0
+Oebis	starter	kit	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verstehe	nichtnur	weil	anderen	religion	angehoeren	keine	schlechten	menschenimmer	diese	vorurteile	 | neutral: 0	 | positiv: 0	 | negativ: 0
 wenn	sofa	sanchez	barrenechea	under	our	sky	alexandre	de	betak	bureau	betak	unter	anderem	 | neutral: 1	 | positiv: 0	 | negativ: 1
+jewels	sofia	herrera	 | neutral: 0	 | positiv: 0	 | negativ: 0
+amt	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+geraeusch	einzigartig	geh	voll	drauf	weil	fantastische	kindheitserinnerungen	 | neutral: 1	 | positiv: 1	 | negativ: 0
+tarde	pft	com	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	bulgarien	landhaus	garten	km	black	sea	 | neutral: 0	 | positiv: 0	 | negativ: 0
+ana	sofia	gonalves	stephan	hausheer	architekten	eth	gmbh	zuerich	zh	 | neutral: 0	 | positiv: 0	 | negativ: 0
+me	favorite	cumbian	band	ifthruejkgtrwjtyjergtyer	rafaga	sfghrj	tyhurtjgbrjgt	dice	sofia	me	voy	morir	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	bulgarien	haus	km	albena	resort	schwarzen	meer	 | neutral: 0	 | positiv: 0	 | negativ: 0
+marianne	werefkin	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	bulgarien	neubau	garten	balgarevo	paar	meilen	black	sea	 | neutral: 0	 | positiv: 0	 | negativ: 0
+ausbeutung	ok	andere	laender	rumaenen	bulgaren	unterschied	 | neutral: 0	 | positiv: 1	 | negativ: 0
+albrecht	duerer	cook	with	his	wife	stamp	bulgaria	philately	 | neutral: 0	 | positiv: 0	 | negativ: 0
+helft	uns	bitte	 | neutral: 0	 | positiv: 0	 | negativ: 0
+schaut	bitte	bitte	gruppen	dm	bulgarien	reise	 | neutral: 0	 | positiv: 0	 | negativ: 0
+wollte	fragen	chanve	haette	leben	mitzumachen	 | neutral: 0	 | positiv: 1	 | negativ: 0
+guckt	bulgarien	gruppe	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bitte	guckt	gruppen	dm	bulgarien	reise	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bibi	juli	schaut	gruppen	dm	bulgarien	haben	soo	viele	fragen	 | neutral: 0	 | positiv: 1	 | negativ: 0
+bittte	schreib	 | neutral: 0	 | positiv: 0	 | negativ: 0
+hast	bulgarien	gewonnen	 | neutral: 0	 | positiv: 0	 | negativ: 0
+schau	dm	ganz	wichtig	wegen	bulgarien	 | neutral: 1	 | positiv: 1	 | negativ: 0
+sofias	amazingggg	uhg	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	vergara	joe	manganiello	relationship	news	rumors	modern	latin	post	 | neutral: 0	 | positiv: 1	 | negativ: 0
+gute	nacht	 | neutral: 0	 | positiv: 0	 | negativ: 0
+escort	lady	sofia	escort	girls	frankfurt	 | neutral: 0	 | positiv: 0	 | negativ: 0
 geht	arbeit	richtig	los	kenne	phd	glueckwunsch	 | neutral: 0	 | positiv: 1	 | negativ: 1
-wer	erinnert	spiel	ringen	 | neutral: 0	 | positiv: 0	 | negativ: 1
+talentmusicqmcfmgala	ellas	merecen	ganar	bvgfh	 | neutral: 0	 | positiv: 0	 | negativ: 0
+gluecklich	fav	eigenen	tweets	whoot	whoot	 | neutral: 0	 | positiv: 0	 | negativ: 0
 wer	erinnert	spiel	ringen	 | neutral: 0	 | positiv: 0	 | negativ: 2
+sehe	grad	nachrichten	bulgarien	schnee	liegt	 | neutral: 0	 | positiv: 0	 | negativ: 0
+ggf	seee	 | neutral: 0	 | positiv: 0	 | negativ: 0
+mehrere	tote	bulgarien	winterchaos	chaotischem	winterwetter	bulgarien	mann	zuges	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bayern	munchen	bayern	muenchen	vs	zska	sofia	programme	eur	geboteangebotsende	deals	ebay	de	 | neutral: 0	 | positiv: 0	 | negativ: 0
+superhero	barbie	with	sofia	oh	wow	 | neutral: 0	 | positiv: 0	 | negativ: 0
+tolle	arbeit	helferkreise	stopp	abschiebungen	bulgarien	zustaende	fluechtlinge	 | neutral: 0	 | positiv: 0	 | negativ: 0
+blockupy	wirkt	heute	hessische	polizei	persnlicher	kennzeichnungsnummer	bfe	nofragida	 | neutral: 0	 | positiv: 0	 | negativ: 0
+garden	flat	sofia	betabookings	sofia	hostel	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	bulgarien	villa	garten	pool	schwarzen	meer	 | neutral: 0	 | positiv: 0	 | negativ: 0
+winterchaos	bulgarien	fordert	todesopfer	sofia	chaotischem	winterwetter	 | neutral: 0	 | positiv: 0	 | negativ: 0
+wenn	feedback	profs	habe	stell	online	will	keinen	muell	servieren	wenn	crap	 | neutral: 2	 | positiv: 0	 | negativ: 0
+lieber	sterben	zurueck	bulgarien	guter	ndrbericht	asyl	abschiebung	dubliniii	wirtr	 | neutral: 0	 | positiv: 0	 | negativ: 0
+angie	haette	gerne	eigene	familie	glueck	jemals	erleben	wird	 | neutral: 0	 | positiv: 1	 | negativ: 0
 sitze	ne	std	huk	 | neutral: 0	 | positiv: 0	 | negativ: 1
+gibts	frei	lesen	irgendwo	 | neutral: 1	 | positiv: 1	 | negativ: 0
+dauerstraftaeter	mathepolizei	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	bulgarien	villa	garten	km	goldenen	straenden	ferienortes	albena	 | neutral: 0	 | positiv: 0	 | negativ: 0
+frankens	statement	king	burwell	 | neutral: 0	 | positiv: 0	 | negativ: 0
+mentionsomeonebeautiful	hope	paola	chrissy	nicole	nic	maya	scarlett	sofia	abby	barrie	lauren	nic	marykate	julia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+aussenminister	steinmeier	besucht	rumaenien	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+my	top	lastfm	artists	elton	john	sofia	jannok	george	michael	 | neutral: 0	 | positiv: 1	 | negativ: 0
+verkauf	bulgarien	villa	garten	pool	meerblick	naehe	albena	resort	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	bulgarien	villa	spektakulaerem	meerblick	straenden	albena	balchik	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	karlberg	crazy	love	un	kiff	 | neutral: 0	 | positiv: 0	 | negativ: 0
+top	immobilien	bulgarien	verkauf	villa	neoklassizistischen	stil	land	schwarzen	meer	 | neutral: 0	 | positiv: 1	 | negativ: 0
+wgl	eu	season	sofia	finals	aftermovie	videos	videogames	 | neutral: 0	 | positiv: 0	 | negativ: 0
+grafik	weltweiten	internetgeschwindigkeiten	deutschland	bulgarien	portugal	baltikum	platz	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	bulgarien	historisches	denkmal	geraeumige	familienhaus	garten	balchik	schwarzen	meer	 | neutral: 0	 | positiv: 0	 | negativ: 0
+darf	euch	gangtour	umarmen	 | neutral: 0	 | positiv: 0	 | negativ: 0
+groe	immobilien	bulgarien	garten	km	schwarzen	meer	 | neutral: 0	 | positiv: 0	 | negativ: 0
 frueh	kalt	montag	 | neutral: 0	 | positiv: 0	 | negativ: 1
+sofia	erste	 | neutral: 0	 | positiv: 0	 | negativ: 0
+kangen	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bettler	klingelt	stunden	schlaf	wach	weil	geld	rueckreise	bulgarien	will	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	bulgarien	einzigartigen	kreationen	bulgarien	preistraeger	hause	jahr	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sexabenteuer	erkelenz	dating	 | neutral: 0	 | positiv: 0	 | negativ: 0
+hab	heute	dir	getraeumt	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+investieren	europa	verkauf	bulgarien	ackerland	 | neutral: 0	 | positiv: 1	 | negativ: 0
+mann	sex	georgsmarienhuette	sex	 | neutral: 0	 | positiv: 0	 | negativ: 0
+private	kontakte	oelde	spass	 | neutral: 0	 | positiv: 0	 | negativ: 0
+steinmeier	weg	bukarest	zur	amreise	rumaenienbulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
 top	angebot	verkauf	bulgarien	haus	land	km	meer	entfernt	 | neutral: 0	 | positiv: 1	 | negativ: 1
+verkauf	bulgarien	haus	grundstueck	km	schwarzen	meer	 | neutral: 0	 | positiv: 0	 | negativ: 0
+politics	german	foreign	minister	arrive	sofia	march	bulgarian	foreign	minister	daniel	mitov	will	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	bulgarien	immobilie	renovierungsbeduerftig	haus	grundstueck	km	meer	 | neutral: 0	 | positiv: 0	 | negativ: 0
+reiseplanungen	miami	dc	oslo	dublin	wien	budapest	krakau	prag	bukarest	sofia	haag	duesseldorf	muenchen	ende	september	 | neutral: 0	 | positiv: 0	 | negativ: 0
+fluege	lot	polish	airlines	budapest	prag	sofia	belgrad	eur	angebot	reisen	urlaub	 | neutral: 0	 | positiv: 0	 | negativ: 0
+liked	video	sofia	erste	verzauberte	Ueberraschungen	staffel	disney	channel	 | neutral: 0	 | positiv: 0	 | negativ: 0
+seitensprung	wedemark	suche	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	stel	 | neutral: 0	 | positiv: 0	 | negativ: 0
+wmf	sofia	teiliges	besteckset	sparen	schnaeppchen	 | neutral: 0	 | positiv: 1	 | negativ: 0
+wetter	plowdiw	bulgarien	schnee	geschmolzen	wind	kmh	 | neutral: 0	 | positiv: 0	 | negativ: 0
+me	gust	un	video	de	sofia	erste	verzauberte	Ueberraschungen	staffel	disney	 | neutral: 0	 | positiv: 0	 | negativ: 0
+besten	vegetarischen	rezepte	skandinavien	herbst	winter	ebook	sarah	sofia	granborg	james	amazonde	kindleshop	 | neutral: 0	 | positiv: 1	 | negativ: 0
+timmy	sucht	paten	 | neutral: 0	 | positiv: 0	 | negativ: 0
 wenn	juni	warten	sofia	fahren	reise	selbst	zahlen	 | neutral: 1	 | positiv: 0	 | negativ: 1
+soft	blanket	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+fruehbucher	tage	all	inclusive	sterne	hotel	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+joerg	renkes	likes	your	comment	bulgare	deutschland	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	stelno	se	opion	me	 | neutral: 0	 | positiv: 0	 | negativ: 0
+ur	hotter	than	sofia	vergara	posole	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	varna	schwarzes	meer	nato	startet	militaeruebung	deutscher	beteiligung	 | neutral: 0	 | positiv: 0	 | negativ: 0
+motivity	services	inwardbound	sofia	otherwise	sofia	airpot	vivm	 | neutral: 0	 | positiv: 0	 | negativ: 0
+laguna	beach	resort	spa	 | neutral: 0	 | positiv: 0	 | negativ: 0
 wer	euch	schon	sofia	schoen	verlaengertes	wochenende	 | neutral: 0	 | positiv: 0	 | negativ: 1
-Aehem	huestel	immer	schon	loswerden	wollte	schaalaalalalalaaaaaaalalalalaaaaaaa	hach	tat	gut	 | neutral: 1	 | positiv: 0	 | negativ: 1
-news	bulgarien	drei	maenner	sterben	unter	lawine	bulgarien	drei	maenner	sterben	unter	lawine	sofia	drei	bu	 | neutral: 0	 | positiv: 0	 | negativ: 1
+globus	hotel	kiten	betabookings	kiten	hostel	 | neutral: 0	 | positiv: 0	 | negativ: 0
+hasse	diesen	montag	 | neutral: 0	 | positiv: 0	 | negativ: 0
+lame	sofia	karlberg	sings	it	better	 | neutral: 0	 | positiv: 0	 | negativ: 0
+nowplaying	all	me	de	sofia	karlberg	 | neutral: 0	 | positiv: 0	 | negativ: 0
+oo	kommt	cooles	video	online	 | neutral: 0	 | positiv: 0	 | negativ: 0
+schaffen	retweets	 | neutral: 0	 | positiv: 1	 | negativ: 0
+praktikum	customer	servicecommunity	management	bulgarisch	mw	 | neutral: 0	 | positiv: 0	 | negativ: 0
+kurt	being	kurt	 | neutral: 0	 | positiv: 0	 | negativ: 0
+but	jenn	aniston	sofia	vergara	 | neutral: 0	 | positiv: 0	 | negativ: 0
+nathalysofia	mariellyrm	eileeenr	 | neutral: 0	 | positiv: 0	 | negativ: 0
+denews	toggle	navigation	berlin	berlin	hamburg	barcelona	sofia	community	program	space	blog	 | neutral: 0	 | positiv: 0	 | negativ: 0
+wena	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+my	top	lastfm	artists	maliq	dessentials	jake	bugg	sofia	karlberg	 | neutral: 0	 | positiv: 1	 | negativ: 0
+nowplaying	cool	kids	sofia	karlberg	 | neutral: 0	 | positiv: 1	 | negativ: 0
+international	fashion	style	akris	pfw	fall	 | neutral: 0	 | positiv: 0	 | negativ: 0
+hotels	stadt	sozopol	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	first	Ue	 | neutral: 0	 | positiv: 0	 | negativ: 0
+nng	quer	saber	 | neutral: 0	 | positiv: 0	 | negativ: 0
+habe	video	positiv	bewertet	entweder	tag	sentasofia	delliponti	 | neutral: 0	 | positiv: 1	 | negativ: 0
+ke	zusede	ak	 | neutral: 0	 | positiv: 0	 | negativ: 0
+strange	sofian	sunset	sofia	bulgaria	ttot	 | neutral: 0	 | positiv: 0	 | negativ: 0
+interessenhorizont	kreislinie	radius	nennst	standpunkt	willkommen	piraten	htt	 | neutral: 0	 | positiv: 1	 | negativ: 0
+cool	kids	sofia	karlberg	 | neutral: 0	 | positiv: 1	 | negativ: 0
+roger	malibu	mariaarenabelle	gelilapuck	ig	 | neutral: 0	 | positiv: 0	 | negativ: 0
+Aehem	huestel	immer	schon	loswerden	wollte	schaalaalalalalaaaaaaalalalalaaaaaaa	hach	tat	gut	 | neutral: 1	 | positiv: 1	 | negativ: 1
+rekommenderar	verkligen	trilogin	 | neutral: 0	 | positiv: 0	 | negativ: 0
+mirthah	wins	voz	del	mortal	kombat	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+klebs	kopf	challenge	bibisbeautypalace	 | neutral: 0	 | positiv: 0	 | negativ: 0
+eckenrechnen	gefragt	hauptstadt	bulgarien	habs	gewusst	 | neutral: 0	 | positiv: 1	 | negativ: 0
+spyvideosspycamvaginaspyingcaught	sex	nurse	sofia	blowjob	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	natoschiffe	fahren	ins	schwarze	meer	varna	 | neutral: 0	 | positiv: 0	 | negativ: 0
+wuesste	wann	zuletzt	kommunistischen	event	zelebriert	haette	sofia	taxidis	weltfrauentag	 | neutral: 1	 | positiv: 0	 | negativ: 0
+immerhin	weist	sofia	hauptstadt	irgendwas	 | neutral: 1	 | positiv: 0	 | negativ: 0
+snow	chaos	bulgaria	three	males	under	avalanche	snow	chaos	bulgaria	three	males	under	aval	 | neutral: 0	 | positiv: 0	 | negativ: 0
+good	luck	sofia	huerta	chicago	alyssa	kleiner	portland	scusoccer	offtothepros	 | neutral: 0	 | positiv: 0	 | negativ: 0
+piscnia	papa	pool	popsteam	bieber	fahlo	 | neutral: 0	 | positiv: 0	 | negativ: 0
+usssffff	foto	fea	 | neutral: 0	 | positiv: 0	 | negativ: 0
+prinzessin	peaches	sucht	immernoch	ihrem	schloss	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bestprice	deutschland	sofia	erste	rucksack	kindergartentasche	neu	disney	 | neutral: 0	 | positiv: 1	 | negativ: 0
+bulgarien	drei	snowboarder	sterben	schneechaos	 | neutral: 0	 | positiv: 0	 | negativ: 0
+wuerdest	bitte	nehmen	bulgarien	wei	habe	verlosung	gewonnen	mannnn	 | neutral: 1	 | positiv: 0	 | negativ: 0
 news	bulgarien	drei	maenner	sterben	unter	lawine	bulgarien	drei	maenner	sterben	unter	lawine	sofia	drei	bu	 | neutral: 0	 | positiv: 0	 | negativ: 2
+sonia	rykiel	designer	julie	de	libran	her	favorite	paris	haunts	photo	sofia	coppola	 | neutral: 1	 | positiv: 0	 | negativ: 0
 bulgarien	drei	maenner	sterben	unter	lawine	sofia	drei	bulgaren	hochgebirge	pirin	sueden	lande	 | neutral: 0	 | positiv: 0	 | negativ: 1
+schneechaos	bulgarien	drei	maenner	sterben	unterlawine	 | neutral: 0	 | positiv: 0	 | negativ: 0
 schneechaos	bulgarien	drei	maenner	starben	unter	lawine	sofia	drei	bulgaren	hochgebirge	pirin	 | neutral: 0	 | positiv: 0	 | negativ: 1
 schneechaos	bulgarien	drei	maenner	sterben	unter	lawine	 | neutral: 0	 | positiv: 0	 | negativ: 1
+sofia	detweiler	cool	 | neutral: 0	 | positiv: 1	 | negativ: 0
+taack	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sarah	sofia	granborg	kindle	wieder	skandinavien	mitgebracht	diesmal	vegetarische	winterrezepte	 | neutral: 0	 | positiv: 0	 | negativ: 0
+kater	michel	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	ungarn	dann	italien	rimini	kommen	 | neutral: 0	 | positiv: 1	 | negativ: 0
+sofia	kalberg	 | neutral: 0	 | positiv: 0	 | negativ: 0
+lesetipp	interview	spricht	steinmeier	neben	bulgarien	minsk	ukraine	russland	 | neutral: 0	 | positiv: 0	 | negativ: 0
+winterurlaub	ski	fahren	bulgarien	travel	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	died	 | neutral: 0	 | positiv: 0	 | negativ: 0
+wuerde	gleich	sehr	 | neutral: 1	 | positiv: 1	 | negativ: 0
 stunden	besteckset	teilig	sofia	home	living	haushaltsbedarf	achtung	streng	limit	zackzack	 | neutral: 0	 | positiv: 0	 | negativ: 1
+fluege	lot	polish	airlines	budapest	prag	sofia	belgrad	eur	angebot	travel	deals	 | neutral: 0	 | positiv: 0	 | negativ: 0
+heute	utc	will	wieder	radio	spaceshuttle	international	khz	high	power	senden	laeuft	kostinbrod	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+larasofia	mach	aelteren	herrn	platz	kommt	gar	dir	vorbei	 | neutral: 0	 | positiv: 0	 | negativ: 0
 sofiahamich	snl	parodies	justiin	biiebers	calvin	klein	campaign	swag	 | neutral: 0	 | positiv: 0	 | negativ: 1
+regionale	fachtagung	zukunft	freiheit	suedost	osteuropa	fnf	beginnt	heute	sofia	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+inplay	double	 | neutral: 0	 | positiv: 0	 | negativ: 0
 warum	bieten	kein	bulgarisch	sad	 | neutral: 1	 | positiv: 0	 | negativ: 1
+lady	sofia	pure	lust	geniessen	schlucken	voyeurismus	orgien	swingen	fesselspiele	oralsex	sex	 | neutral: 0	 | positiv: 0	 | negativ: 0
+zografski	kleine	bulgare	eurosport	 | neutral: 0	 | positiv: 0	 | negativ: 0
+hotels	flughafen	flughafen	teneriffa	sued	reina	sofa	granadilla	de	abona	spanien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+passend	aktuellen	abschiebungen	lager	lebach	bulgarien	italien	 | neutral: 0	 | positiv: 1	 | negativ: 0
 will	bulgarien	wieder	traurig	gluecklich	ejn	follow	ily	bibi	 | neutral: 0	 | positiv: 0	 | negativ: 1
-katze	kosara	sucht	zuhause	wer	moechte	suessen	fellnase	eins	geben	 | neutral: 0	 | positiv: 0	 | negativ: 1
+foto	dailyactress	julie	bowen	sofia	vergara	reenacting	sophia	loren	jayne	mansfield	 | neutral: 0	 | positiv: 0	 | negativ: 0
+will	gerne	bibi	telefonieren	bulgarien	hinterher	reisen	 | neutral: 0	 | positiv: 1	 | negativ: 0
+innovation	rose	bulgarisch	bio	prozent	aetherisches	oel	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sag	nurbulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+revolverheld	konzert	spinner	teil	 | neutral: 0	 | positiv: 0	 | negativ: 0
+katze	kosara	sucht	zuhause	wer	moechte	suessen	fellnase	eins	geben	 | neutral: 1	 | positiv: 0	 | negativ: 1
+rumaenien	bulgarien	interview	zuwanderung	wenn	rumaenen	bulgaren	kommen	 | neutral: 1	 | positiv: 1	 | negativ: 0
+bahrain	belarus	bahrain	shia	kids	are	danger	eu	bulgaria	croatia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+beschaeftigt	rumaenen	bulgaren	zwei	euro	tag	seinem	unternehmen	herr	toennies	 | neutral: 0	 | positiv: 0	 | negativ: 0
+ding	dong	 | neutral: 0	 | positiv: 0	 | negativ: 0
+waere	einfach	fantastisch	 | neutral: 0	 | positiv: 2	 | negativ: 0
+ladys	wuensche	euch	wunderschnste	weltfrauentag	 | neutral: 0	 | positiv: 0	 | negativ: 0
+immer	glauben	bald	euch	bulgarien	fliegen	werde	 | neutral: 2	 | positiv: 0	 | negativ: 0
+wenn	rumaenen	bulgaren	kommen	migrationsexpertin	tina	alicke	spricht	frinterview	zuwanderer	 | neutral: 1	 | positiv: 1	 | negativ: 0
+gl	jesse	gratz	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+frage	immer	csu	umsetzen	moechte	auslaender	zuhause	deutsch	sprechen	 | neutral: 2	 | positiv: 0	 | negativ: 0
 guuuuten	morgen	wer	schonnoch	wach	 | neutral: 0	 | positiv: 0	 | negativ: 1
-latina	angeblich	ganz	gelassen	sofia	vergara	eifersuechtig	ruf	 | neutral: 0	 | positiv: 0	 | negativ: 1
+ahhhh	schaut	freund	geschenkt	 | neutral: 0	 | positiv: 0	 | negativ: 0
+gerade	gekocht	meinen	freund	 | neutral: 1	 | positiv: 0	 | negativ: 0
+musste	uebrigens	strafe	 | neutral: 0	 | positiv: 0	 | negativ: 0
+hab	heute	tag	damit	verbracht	kaugummis	unistuehlen	abzumachen	ko	 | neutral: 1	 | positiv: 0	 | negativ: 0
+beef	tweet	meef	geht	lieber	raus	macht	vernuenftiges	farbeimgesichtweilwassinvollesgemacht	 | neutral: 0	 | positiv: 0	 | negativ: 0
+rezept	brettspiel	 | neutral: 0	 | positiv: 0	 | negativ: 0
+weltfrauentag	unsere	verantwortung	frauen	staerken	rechte	einzutreten	htt	 | neutral: 0	 | positiv: 0	 | negativ: 0
+polizei	schliesst	rechtsradikales	tatmotiv	sicher	 | neutral: 0	 | positiv: 1	 | negativ: 0
+yeah	babyyyyy	pameladabin	sofiasanchezschlatter	we	friends	love	saturday	night	party	me	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	karlbergs	covers	tho	 | neutral: 0	 | positiv: 0	 | negativ: 0
+wuensche	euch	viel	spa	 | neutral: 0	 | positiv: 1	 | negativ: 0
+buchtipp	bulgarien	urlaub	lesen	kommt	bulgarisch	danka	todorova	 | neutral: 1	 | positiv: 0	 | negativ: 0
+wuensche	euch	viel	spa	bulgarien	 | neutral: 0	 | positiv: 1	 | negativ: 0
+glueckwunsch	gewinn	verlosung	gaaaanz	viel	 | neutral: 0	 | positiv: 1	 | negativ: 0
+prinses	sofia	ya	pril	wgwg	 | neutral: 0	 | positiv: 0	 | negativ: 0
+weltfrauentag	unsere	verantwortung	frauen	staerken	rechte	einzutreten	 | neutral: 0	 | positiv: 0	 | negativ: 0
+summer	dress	 | neutral: 0	 | positiv: 0	 | negativ: 0
+miss	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+latina	angeblich	ganz	gelassen	sofia	vergara	eifersuechtig	ruf	 | neutral: 1	 | positiv: 1	 | negativ: 1
+nowplaying	all	me	sofia	karlberg	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bfree	or	bflake	 | neutral: 0	 | positiv: 0	 | negativ: 0
+austinnn	porfavorrrtr	 | neutral: 0	 | positiv: 0	 | negativ: 0
+austinn	porfass	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	ejgv	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	dhcf	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	duob	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	oyyp	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	gkb	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	dhhb	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	run	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	dunv	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	forz	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	lesj	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	gkg	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	fjj	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	gmd	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	ira	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	ghvd	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	dv	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	rhv	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	eh	bc	 | neutral: 1	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	dhahj	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	gillh	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	sof	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	dgxv	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	fjfjzv	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	ghffwf	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	hhfhg	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	fc	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	gg	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	hg	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	lfjdjdju	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	qq	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	fd	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	ff	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollow	dss	 | neutral: 0	 | positiv: 0	 | negativ: 0
+jennerationdiyfollow	jennerationdiyfollowjennerationdiyfollowjennerationdiyfollowjennerationdiyfollowf	 | neutral: 0	 | positiv: 0	 | negativ: 0
+rtankporn	panzer	wrecks	bulgaria	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	stage	 | neutral: 0	 | positiv: 0	 | negativ: 0
+gisel	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+kettensaege	geiler	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofi	gg	 | neutral: 0	 | positiv: 0	 | negativ: 0
 matt	anderson	usa	volleyball	 | neutral: 0	 | positiv: 0	 | negativ: 1
-suchen	neue	endstelle	kiara	wichtig	bitte	teilen	 | neutral: 0	 | positiv: 0	 | negativ: 1
+auntie	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+andere	laenderandere	bierflaschen	kleine	anleitung	bulgarien	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	richie	mine	bagsit	mine	babe	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	kourtesis	mix	kaltblut	magazine	kaltblut	magazine	soundcloud	np	 | neutral: 0	 | positiv: 0	 | negativ: 0
+alles	twitter	oeffentlich	lesbare	zeichenfolgen	 | neutral: 0	 | positiv: 0	 | negativ: 0
 suchen	neue	endstelle	kiara	wichtig	bitte	teilen	 | neutral: 0	 | positiv: 1	 | negativ: 2
-ganz	nette	habe	wirklich	ganz	tolle	schwiegereltern	leider	kein	bulgarisch	no	 | neutral: 3	 | positiv: 0	 | negativ: 1
+deepfresh	daft	angelika	daft	deepfresh	naughty	punk	sofia	tanika	vijay	zlatko	 | neutral: 0	 | positiv: 0	 | negativ: 0
+frauen	macht	selbst	bulgarien	rumaenien	werden	frauen	gerechter	entlohnt	derzeit	Oesterreich	 | neutral: 1	 | positiv: 0	 | negativ: 0
+glueckwunsch	gewinn	verlosung	gaaaanz	viel	spa	bulgarien	 | neutral: 0	 | positiv: 1	 | negativ: 0
+verkauf	bulgarien	landhaus	grundstueck	km	vonferienort	balchik	eu	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	berlin	shemale	escort	 | neutral: 0	 | positiv: 0	 | negativ: 0
+hotels	stadt	slatiza	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+fliegst	ihnen	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+scarlettjohansson	chef	dvd	sofia	vergara	jon	favreau	scarlett	johansson	movie	hoffman	clam	dvd	movies	 | neutral: 0	 | positiv: 0	 | negativ: 0
+macht	einfach	freude	andy	start	sofia	tanzt	immer	gerne	 | neutral: 1	 | positiv: 2	 | negativ: 0
+badass	xd	 | neutral: 0	 | positiv: 0	 | negativ: 0
+international	type	taste	elie	saab	fall	pfw	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	komm	bleib	bier	 | neutral: 0	 | positiv: 0	 | negativ: 0
+hab	meinen	fn	geschrottet	ampjz	heizung	dran	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	vergara	stole	jesse	tyler	fergusons	thunder	 | neutral: 0	 | positiv: 0	 | negativ: 0
+schweppes	de	pomelo	lo	demas	gilada	 | neutral: 0	 | positiv: 0	 | negativ: 0
+heute	morgen	erste	wildgaense	gesichtet	lass	fruehling	werden	 | neutral: 1	 | positiv: 0	 | negativ: 0
+exklusives	facebookgewinnspiel	 | neutral: 0	 | positiv: 0	 | negativ: 0
+geile	dates	heissen	sex	feldkirch	single	 | neutral: 0	 | positiv: 0	 | negativ: 0
 ganz	nette	habe	wirklich	ganz	tolle	schwiegereltern	leider	kein	bulgarisch	no	 | neutral: 3	 | positiv: 0	 | negativ: 2
+muerte	al	dalsy	 | neutral: 0	 | positiv: 0	 | negativ: 0
+hotels	stadt	plowdiw	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	find	ur	chill	ohelnhbz	 | neutral: 0	 | positiv: 0	 | negativ: 0
+machi	goutli	ma	nrohch	 | neutral: 0	 | positiv: 0	 | negativ: 0
 gratis	sex	seitensprung	wetzikon	spass	 | neutral: 0	 | positiv: 0	 | negativ: 1
+streetstyle	fashion	sofia	richie	paris	fw	dressupjess	berlin	 | neutral: 0	 | positiv: 0	 | negativ: 0
+hey	duich	wollte	dur	gratulierenda	bulgarien	urlaub	juliampbibi	gewonnen	hasthast	dir	 | neutral: 0	 | positiv: 0	 | negativ: 0
 joachim	niederlage	frust	frost	sofia	cska	sofia	aurlien	joachim	haben	samstag	gegen	bero	 | neutral: 0	 | positiv: 0	 | negativ: 1
-huendin	yuna	geschwister	einfach	hilflos	ausgesetzt	wer	moechte	suessen	neuanfang	 | neutral: 0	 | positiv: 1	 | negativ: 1
+wirst	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sexabenteuer	regensburg	geil	 | neutral: 0	 | positiv: 1	 | negativ: 0
 huendin	yuna	geschwister	einfach	hilflos	ausgesetzt	wer	moechte	suessen	neuanfang	 | neutral: 0	 | positiv: 1	 | negativ: 2
+ruede	goschko	wurde	auto	angefahren	einfach	liegen	gelassen	moechte	suesse	 | neutral: 1	 | positiv: 2	 | negativ: 0
+wenn	rumaenen	bulgaren	kommen	frinterview	migrationsexpertin	tina	alicke	zuwanderung	hessen	 | neutral: 1	 | positiv: 1	 | negativ: 0
+ruede	niki	sucht	jemanden	huskys	auskennt	ihn	sowohl	koerperlich	geistig	foerdert	 | neutral: 0	 | positiv: 1	 | negativ: 0
+scarlett	johansson	lost	translation	dir	sofia	coppola	joaquin	phoenix	her	dir	spike	jonze	 | neutral: 1	 | positiv: 0	 | negativ: 0
+korrigiere	xm	call	me	shehulk	 | neutral: 0	 | positiv: 0	 | negativ: 0
+hey	duich	wollte	dur	gratulierenda	bulgarien	urlaub	juliampbibi	gewonnen	hasthast	dir	verdientglueckwunsch	 | neutral: 0	 | positiv: 0	 | negativ: 0
+habe	dienstag	geburstag	dann	schulfrei	diesen	tag	coll	denn	 | neutral: 0	 | positiv: 0	 | negativ: 0
+egoistisches	luder	 | neutral: 0	 | positiv: 0	 | negativ: 0
 tja	egoistisch	 | neutral: 0	 | positiv: 0	 | negativ: 1
-hab	schon	fast	keine	kraefte	schon	probiere	motivation	denken	meinen	zukunft	alles	besser	wird	 | neutral: 0	 | positiv: 0	 | negativ: 1
-icg	hab	ne	angst	einfach	weiter	einander	werden	 | neutral: 0	 | positiv: 0	 | negativ: 1
-warum	fange	denken	einige	einfach	reden	moechten	ignorieren	 | neutral: 1	 | positiv: 1	 | negativ: 1
+aufhoert	tun	 | neutral: 1	 | positiv: 0	 | negativ: 0
+moechte	versteht	 | neutral: 0	 | positiv: 0	 | negativ: 0
+liebe	einfach	alles	 | neutral: 0	 | positiv: 1	 | negativ: 0
+hab	schon	fast	keine	kraefte	schon	probiere	motivation	denken	meinen	zukunft	alles	besser	wird	 | neutral: 1	 | positiv: 1	 | negativ: 1
+sofia	vergara	wallpapers	 | neutral: 0	 | positiv: 0	 | negativ: 0
+toetet	einfach	 | neutral: 0	 | positiv: 1	 | negativ: 0
+icg	hab	ne	angst	einfach	weiter	einander	werden	 | neutral: 1	 | positiv: 1	 | negativ: 1
 warum	fange	denken	einige	einfach	reden	moechten	ignorieren	 | neutral: 1	 | positiv: 1	 | negativ: 2
+liebe	ihn	sehr	 | neutral: 0	 | positiv: 1	 | negativ: 0
+verkauf	bulgarien	luxushaus	pool	km	albena	km	balchik	schwarzen	meer	 | neutral: 0	 | positiv: 0	 | negativ: 0
+omg	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+ecoute	bahebeck	tusors	psgrcl	leparcestmort	parc	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sry	hab	dich	vergessen	 | neutral: 0	 | positiv: 0	 | negativ: 0
 date	graz	sehen	uns	makieren	 | neutral: 0	 | positiv: 0	 | negativ: 1
+onlinepartnersuche	stuhr	dating	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	karlberg	bestfanarmy	azerbaijanidirectionerswanttour	 | neutral: 0	 | positiv: 0	 | negativ: 0
+ton	stade	est	morrrrtttt	leparcestmort	honteaupsg	 | neutral: 0	 | positiv: 0	 | negativ: 0
+callie	sofia	alex	herman	 | neutral: 0	 | positiv: 0	 | negativ: 0
+crazy	love	sofia	karlberg	fsog	version	 | neutral: 0	 | positiv: 0	 | negativ: 0
+herzlichen	glueckwunsch	hast	verdient	bulgarien	fliegenilysm	jazy	 | neutral: 0	 | positiv: 1	 | negativ: 0
+warum	bulgarin	gerade	verpixelte	stellen	huefte	biathlonwm	 | neutral: 1	 | positiv: 0	 | negativ: 0
 ersten	ausgewiesenen	spaltaxt	gehackt	geht	heftig	 | neutral: 0	 | positiv: 0	 | negativ: 1
+heute	lieben	verwandtschaft	baum	zersaegt	verladen	abtransportiert	gespaltet	gestapelt	rooaaarrr	 | neutral: 0	 | positiv: 1	 | negativ: 0
+herzlichen	glueckwunsch	weltallerbeste	schatz	hast	verdient	bulgarien	fliegen	 | neutral: 0	 | positiv: 1	 | negativ: 0
+bahebeck	lt	jean	eudes	leparcestmort	 | neutral: 0	 | positiv: 0	 | negativ: 0
+herzlichen	glueckwunsch	weltallerbeste	schatz	hast	verdient	bulgarien	fliegenilysm	jazy	 | neutral: 0	 | positiv: 1	 | negativ: 0
 diskriminierung	allein	fall	osteuropaeischen	eustaaten	ungarn	bulgarien	rumaenien	 | neutral: 0	 | positiv: 0	 | negativ: 1
-huendin	noli	moechte	endlich	jemanden	finden	aufnimmt	 | neutral: 0	 | positiv: 0	 | negativ: 1
-ruede	brando	sucht	liebevolles	zuhause	wer	moechte	ihm	eins	geben	 | neutral: 0	 | positiv: 0	 | negativ: 1
-huendin	greysi	jung	schon	viel	erlebt	wer	moechte	suessen	schoenes	zuhause	geben	 | neutral: 0	 | positiv: 2	 | negativ: 1
+bulgarien	alle	voll	verbecher	freu	dich	 | neutral: 2	 | positiv: 0	 | negativ: 0
+erotikdate	neckarsulm	flirt	 | neutral: 0	 | positiv: 0	 | negativ: 0
+julian	bulgarien	partymitjulian	 | neutral: 0	 | positiv: 0	 | negativ: 0
+wet	sofia	ootd	fashion	style	menswear	wiwt	winter	mensfashion	vscocam	 | neutral: 0	 | positiv: 0	 | negativ: 0
+huendin	noli	moechte	endlich	jemanden	finden	aufnimmt	 | neutral: 1	 | positiv: 0	 | negativ: 1
+ruede	brando	sucht	liebevolles	zuhause	wer	moechte	ihm	eins	geben	 | neutral: 1	 | positiv: 0	 | negativ: 1
+lzmmt	mobile	near	opanets	bulgaria	hamradio	hamr	 | neutral: 0	 | positiv: 0	 | negativ: 0
+meet	sofia	fist	 | neutral: 0	 | positiv: 0	 | negativ: 0
+miss	bodyguard	deutscher	trailer	zur	komdie	reese	witherspoon	sofia	vergara	missbodyguard	hotpursuit	 | neutral: 0	 | positiv: 0	 | negativ: 0
+herzlichen	dankmichaela	viele	liebe	gruesse	dich	bulgarien	wunderschoenen	samstag	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	daddy	 | neutral: 0	 | positiv: 0	 | negativ: 0
+retweet	wre	toll	 | neutral: 0	 | positiv: 1	 | negativ: 0
+najah	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+affaere	gesucht	schwedt	spass	 | neutral: 0	 | positiv: 0	 | negativ: 0
+grx	melroj	 | neutral: 0	 | positiv: 0	 | negativ: 0
+reise	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	karlberg	talented	 | neutral: 0	 | positiv: 0	 | negativ: 0
+anschlag	partei	tuerken	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+zurich	bof	 | neutral: 0	 | positiv: 0	 | negativ: 0
+apartment	sinemoretz	sinemoretz	betabookings	sinemoretz	hostel	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	kalberg	lt	 | neutral: 0	 | positiv: 0	 | negativ: 0
+ruede	aris	wurde	zusammen	seinen	geschwistern	aufgefunden	sucht	behuetetet	zuhause	vielleicht	 | neutral: 1	 | positiv: 0	 | negativ: 0
+huendin	greysi	jung	schon	viel	erlebt	wer	moechte	suessen	schoenes	zuhause	geben	 | neutral: 1	 | positiv: 2	 | negativ: 1
 huendin	sheila	sehr	schreckhaft	sucht	jemanden	zeigt	angstloses	leben	haben	 | neutral: 0	 | positiv: 1	 | negativ: 1
-haensel	gretel	hilflos	alleine	wurden	beiden	gefunden	warten	schon	lange	zuhausewer	 | neutral: 0	 | positiv: 0	 | negativ: 1
+wow	gratuliere	gewinner	bulgarien	reise	chance	gewinnen	wuensch	euch	viel	glueck	partymitjulian	 | neutral: 0	 | positiv: 2	 | negativ: 0
+muenchen	pass	vergessen	bundespolizei	rettet	notreiseausweis	flug	sofia	skiweltcup	 | neutral: 0	 | positiv: 0	 | negativ: 0
+herzlichen	glueckwunsch	viel	spa	stehenden	gewinner	reise	bulgarien	 | neutral: 0	 | positiv: 1	 | negativ: 0
 haensel	gretel	hilflos	alleine	wurden	beiden	gefunden	warten	schon	lange	zuhausewer	 | neutral: 0	 | positiv: 0	 | negativ: 2
-shakira	schon	viel	leid	erlebt	moechte	zuhause	finden	keine	angst	haben	 | neutral: 0	 | positiv: 1	 | negativ: 1
+shakira	schon	viel	leid	erlebt	moechte	zuhause	finden	keine	angst	haben	 | neutral: 1	 | positiv: 1	 | negativ: 1
 kater	leroy	sucht	jemanden	ihm	zuhause	gibt	alleinige	koenig	wer	moechte	diesen	suessen	 | neutral: 0	 | positiv: 0	 | negativ: 1
-sheila	sucht	zuhause	keine	angst	haben	muss	wer	moechte	kleinen	fellnase	zuhause	geben	 | neutral: 0	 | positiv: 0	 | negativ: 1
+sheila	sucht	zuhause	keine	angst	haben	muss	wer	moechte	kleinen	fellnase	zuhause	geben	 | neutral: 1	 | positiv: 0	 | negativ: 1
+yotzov	clarinet	sextet	studio	music	club	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+partymitjulian	biggestwish	 | neutral: 0	 | positiv: 0	 | negativ: 0
 wer	bock	partymitjulian	bulgarien	waers	 | neutral: 0	 | positiv: 0	 | negativ: 1
+wuensche	immer	freiheit	leben	ganz	wichtig	leben	essen	trinken	 | neutral: 2	 | positiv: 1	 | negativ: 0
+ganz	normales	bild	 | neutral: 1	 | positiv: 0	 | negativ: 0
+rassistischer	angriff	moschee	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
 balkan	bulgaren	serben	griechen	gegeneinander	aufwiegeln	 | neutral: 0	 | positiv: 0	 | negativ: 1
-syrische	zivilbevoelkerung	leider	lustig	 | neutral: 0	 | positiv: 0	 | negativ: 1
+wuensche	dir	ganz	ganz	ganz	viel	spa	bulgarien	hast	mega	verdient	gewinnen	 | neutral: 3	 | positiv: 3	 | negativ: 0
+steht	gewinner	schon	fest	bulgarienreise	 | neutral: 1	 | positiv: 0	 | negativ: 0
+wen	nimmst	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+lurdes	prummmmmmm	 | neutral: 0	 | positiv: 0	 | negativ: 0
+brautmarkt	bulgarien	liebe	geschaeft	 | neutral: 0	 | positiv: 0	 | negativ: 0
+mello	laett	 | neutral: 0	 | positiv: 0	 | negativ: 0
+ahhhh	bitte	schreib	wegen	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+fluege	lot	polish	airlines	budapest	prag	sofia	belgrad	eur	angebot	travel	de	 | neutral: 0	 | positiv: 0	 | negativ: 0
+diese	frau	bulgarischen	wurde	bulgarien	geborenwenn	interessiert	kontaktieren	email	 | neutral: 0	 | positiv: 1	 | negativ: 0
+fluege	lot	polish	airlines	budapest	prag	sofia	belgrad	eur	angebot	ferien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+here	sofias	birthday	Ue	 | neutral: 0	 | positiv: 0	 | negativ: 0
+dienstaelteste	westliche	moskaukorrespondent	john	helmer	findet	klare	ungereimtheiten	mordstory	nemzow	 | neutral: 0	 | positiv: 0	 | negativ: 0
+syrische	zivilbevoelkerung	leider	lustig	 | neutral: 0	 | positiv: 1	 | negativ: 1
 echt	unglaublich	zeit	solchen	mist	russland	putin	veroeffentlicht	 | neutral: 0	 | positiv: 2	 | negativ: 1
+fordert	keiner	jihadistentrainingslager	dienoch	leben	bunten	toleranten	land	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	erste	magisches	amulett	 | neutral: 0	 | positiv: 0	 | negativ: 0
+disney	sofia	erste	sprechender	kalle	 | neutral: 0	 | positiv: 0	 | negativ: 0
+traum	bulgarien	julian	strnd	hocke	 | neutral: 0	 | positiv: 0	 | negativ: 0
+hotels	stadt	bratzigovo	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	rot	kreuz	ehrenzeichen	modell	zarenreich	bulgarienehrenzeichen	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bestprice	deutschland	tolles	langarmshirt	sofia	erste	disney	dunkelblau	gre	 | neutral: 0	 | positiv: 0	 | negativ: 0
+lieber	sterben	zurueck	bulgarien	fluechtling	syrien	fuerchtet	abschiebung	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bulgarien	will	pipelineprojekt	nabucco	reanimieren	gastransitland	werden	 | neutral: 1	 | positiv: 0	 | negativ: 0
+guten	morgen	winter	wieder	keine	sorge	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+photoset	junoctarts	sexy	sofia	 | neutral: 0	 | positiv: 1	 | negativ: 0
+guten	morgen	sofia	wuensche	dir	nen	schnen	samstag	 | neutral: 0	 | positiv: 0	 | negativ: 0
 oh	tut	voll	leid	 | neutral: 1	 | positiv: 0	 | negativ: 1
-hi	susanne	jab	link	gesehen	trotzdem	bleibt	frage	bulgarien	scheint	unbed	besser	gehen	 | neutral: 0	 | positiv: 0	 | negativ: 1
+zb	adriana	hoelsky	waende	sofia	gubaidulina	canticle	sun	clara	schumann	rueckert	lieder	 | neutral: 0	 | positiv: 0	 | negativ: 0
+viernes	de	netflix	 | neutral: 0	 | positiv: 0	 | negativ: 0
+eueue	sofia	zorra	hablame	al	wpp	 | neutral: 0	 | positiv: 0	 | negativ: 0
+eaattc	plovdiv	bulgaria	mar	apr	 | neutral: 0	 | positiv: 0	 | negativ: 0
+gruende	warum	bulgarien	liebe	soloreisen	nomadia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+movie	marathon	 | neutral: 0	 | positiv: 0	 | negativ: 0
+bucketlist	lt	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	hellqvist	hochzeitsstress	buntede	burnoutsyndrom	 | neutral: 0	 | positiv: 0	 | negativ: 0
+news	sofia	hellqvist	hochzeitsstress	buntede	bunte	charity	 | neutral: 0	 | positiv: 0	 | negativ: 0
+inhalen	exhalen	inhalen	exhalen	 | neutral: 0	 | positiv: 0	 | negativ: 0
+rusev	geschlagen	macht	bulgaren	zerbrach	zorn	fiel	seinen	eigenen	finisher	 | neutral: 0	 | positiv: 0	 | negativ: 0
+rusev	geschlagen	macht	bulgaren	zerbrach	zorn	incredibleholgster	fiel	seinen	eigenen	finisher	maxxwwe	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	bulgarien	modernes	haus	garten	paar	meilen	black	sea	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	bulgarien	landhaus	grundstueck	km	black	sea	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	bulgarien	grozuegiges	haus	garten	wenige	kilometer	black	sea	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	bulgarien	landhaus	garten	km	schwarzmeer	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	bulgarien	haus	garten	dorf	km	black	sea	 | neutral: 0	 | positiv: 0	 | negativ: 0
+wieso	weil	beiden	bulgarenamis	russen	gimmicks	maxxwwe	 | neutral: 0	 | positiv: 0	 | negativ: 0
+te	amo	fotorgrafo	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	bulgarien	landhaus	garten	km	meer	 | neutral: 0	 | positiv: 0	 | negativ: 0
+verkauf	bulgarien	grozuegiges	haus	garten	km	schwarzmeer	 | neutral: 0	 | positiv: 0	 | negativ: 0
+weiss	warum	toony	aka	machinegunquietscher	ganze	zeit	geschwiegen	 | neutral: 0	 | positiv: 0	 | negativ: 0
+ganz	vergessen	lang	lost	translation	sehr	sofia	coppola	mag	 | neutral: 1	 | positiv: 2	 | negativ: 0
+nowplaying	sofia	karlberg	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	zarari	todlebenauferstehung	 | neutral: 0	 | positiv: 0	 | negativ: 0
+huendin	noli	wurde	zusammen	ihren	sieben	geschwistern	gefunden	zwei	haben	schon	liebevolles	zuhause	 | neutral: 0	 | positiv: 0	 | negativ: 0
+missy	sucht	zuhause	einfach	ganz	normale	katze	keine	angst	 | neutral: 1	 | positiv: 1	 | negativ: 0
+spring	has	sprung	 | neutral: 0	 | positiv: 0	 | negativ: 0
+ruede	zach	sucht	jemanden	ihm	tolles	leben	ermoeglicht	moechtest	derjenige	 | neutral: 0	 | positiv: 0	 | negativ: 0
+aaah	toll	denn	sehe	schon	viele	bilder	euch	bestellten	gangtour	tickets	 | neutral: 0	 | positiv: 1	 | negativ: 0
+sag	generation	rtl	 | neutral: 0	 | positiv: 0	 | negativ: 0
+oh	my	fuckin	god	hab	grad	tickets	graz	bestellt	grad	oberhammermegaaffentittengeilgluecklich	 | neutral: 0	 | positiv: 0	 | negativ: 0
+dak	zepp	 | neutral: 0	 | positiv: 0	 | negativ: 0
+chiediasofia	samsung	iphone	 | neutral: 0	 | positiv: 0	 | negativ: 0
+iphone	samsung	 | neutral: 0	 | positiv: 0	 | negativ: 0
+nowplaying	cool	kids	de	sofia	karlberg	 | neutral: 0	 | positiv: 1	 | negativ: 0
+sofia	ahr	 | neutral: 0	 | positiv: 0	 | negativ: 0
+hi	susanne	jab	link	gesehen	trotzdem	bleibt	frage	bulgarien	scheint	unbed	besser	gehen	 | neutral: 2	 | positiv: 1	 | negativ: 1
+sofia	richie	brandy	melville	 | neutral: 0	 | positiv: 0	 | negativ: 0
 showtime	heute	uhr	tritt	zur	revanche	gegen	bulgarien	hoppschwiiz	laenderspiel	 | neutral: 0	 | positiv: 0	 | negativ: 1
+warum	eigentlich	ausgerechnet	griechenland	zb	bulgarien	 | neutral: 1	 | positiv: 0	 | negativ: 0
 sofia	schlecht	garnicht	 | neutral: 0	 | positiv: 0	 | negativ: 1
+macht	sofia	thomalla	eigentlich	beruflich	gegenjauch	 | neutral: 1	 | positiv: 0	 | negativ: 0
+oka	ahr	sofia	 | neutral: 0	 | positiv: 0	 | negativ: 0
+soso	la	best	best	 | neutral: 0	 | positiv: 0	 | negativ: 0
 huch	micaela	schaefer	gegenjauch	ach	nee	sofia	thomalla	 | neutral: 0	 | positiv: 0	 | negativ: 1
+wenn	islam	europa	gehoert	bosnien	bulgarien	keine	europaeischen	laender	 | neutral: 1	 | positiv: 0	 | negativ: 0
+habt	bell	sofia	katharina	gunnar	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	elle	est	malade	msk	larbena	yi	shafeha	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	will	fahlu	pool	locken	wozu	lest	feminaaus	leben	spermaten	sex	 | neutral: 1	 | positiv: 0	 | negativ: 0
+amateurtester	besuch	sofia	hab	schn	meinen	schwanz	langen	latexhandschuh	 | neutral: 0	 | positiv: 0	 | negativ: 0
+kino	trailer	miss	bodyguard	trailer	deutsch	hd	miss	bodyguard	komoedie	sofia	vergara	re	 | neutral: 0	 | positiv: 0	 | negativ: 0
 sagt	un	dazu	ach	warte	waere	antisemitischdiese	verlogenen	dreckigen	aloecher	isis	 | neutral: 1	 | positiv: 0	 | negativ: 1
+kritik	review	zur	vOe	sofia	erste	verhexte	fest	volume	 | neutral: 1	 | positiv: 0	 | negativ: 0
+urlaub	suite	 | neutral: 0	 | positiv: 0	 | negativ: 0
+schreiben	anwalt	bayern	geld	ueberweisen	bulgarien	kanzlei	justorat	schickt	fragwuerdige	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sommerurlaub	bulgarien	tage	hotel	inkl	fluegen	transfers	fruehstueck	railampfly	 | neutral: 0	 | positiv: 0	 | negativ: 0
+schreiben	anwalt	bayern	geld	ueberweisen	nachbulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 0
+sofia	post	 | neutral: 0	 | positiv: 0	 | negativ: 0
+diese	suesse	maus	hofft	eigenes	koerbchen	 | neutral: 0	 | positiv: 0	 | negativ: 0
+denn	kommen	bulgarisch	banden	klauen	ganzen	schoenen	stahl	nasa	all	werft	 | neutral: 0	 | positiv: 1	 | negativ: 0
+habe	video	positiv	bewertet	crazy	beautiful	you	darla	sofia	andres	maja	salvador	 | neutral: 0	 | positiv: 1	 | negativ: 0
 westliche	militaerausbilder	provozieren	russland	duma	bulgarien	 | neutral: 0	 | positiv: 0	 | negativ: 1
+bulgariensonnenstrand	mai	wochen	top	hotel	hp	transfer	railampfly	gutschein	 | neutral: 0	 | positiv: 1	 | negativ: 0
 dieb	gefasst	langer	arm	polizei	naila	reicht	bulgarien	oberfranken	fahndung	 | neutral: 0	 | positiv: 0	 | negativ: 1
 gibst	bekannt	wer	verlosung	bulgarien	urlaub	gewonnen	 | neutral: 0	 | positiv: 1	 | negativ: 1
+new	gigs	minden	berlin	sofia	gigs	 | neutral: 0	 | positiv: 0	 | negativ: 0
+today	grossenhain	germany	mar	karl	preusker	buecherei	 | neutral: 0	 | positiv: 0	 | negativ: 0
+windows	mobile	player	 | neutral: 0	 | positiv: 0	 | negativ: 0
+drunk	sofia	leslie	knope	 | neutral: 0	 | positiv: 0	 | negativ: 0
+energiehandel	rumaenien	bulgarien	vereinbaren	ausbau	infrastruktur	 | neutral: 0	 | positiv: 0	 | negativ: 0
 schlaechter	eigenen	volkes	weisse	schrecken	bulgarien	berlin	moprverl	 | neutral: 0	 | positiv: 0	 | negativ: 1

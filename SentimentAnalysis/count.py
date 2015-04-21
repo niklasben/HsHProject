@@ -47,9 +47,9 @@ for ne in read_negative:
     neg[ne[0]] = ne[len(ne)-1]
     
 
-# Tweetfile                                                                     #It's getting serious
-readfile = open("tweetfile.txt", "r")                                           #substitute tweetfile.txt with filename
-writefile = open("output.txt", "w")                                             #substitute output.txt with filename
+# Tweetfile                                                                     # It's getting serious
+readfile = open("tweetfile.txt", "r")                                           # substitute tweetfile.txt with filename
+writefile = open("output.txt", "w")                                             # substitute output.txt with filename
 
 for line in readfile:
     token_tweet = line.strip().split('\t')
@@ -63,21 +63,21 @@ for line in readfile:
         if token_tweet[i] in neu.keys():
             opinion_neu = neu[token_tweet[i]]                                   # this way you can get the opinion of word 'i' token
             count_neutral = count_neutral + 1
-            #print "neutral " + str(count_neutral)                              #For Testing
+            #print "neutral " + str(count_neutral)                              # For Testing
         elif token_tweet[i] in pos.keys():
             opinion_pos = pos[token_tweet[i]]                                   # this way you can get the opinion of word 'i' token
             count_positive = count_positive + 1
-            #print "positive " + str(count_positive)                            #For Testing
+            #print "positive " + str(count_positive)                            # For Testing
         elif token_tweet[i] in neg.keys():
             opinion_neg = neg[token_tweet[i]]                                   # this way you can get the opinion of word 'i' token
             count_negative = count_negative + 1
-            #print "negative " + str(count_negative)                            #For Testing
-            #print line + " - neutrals: " + str(count_neutral) + " | positives: " + str(count_positive) + " | negatives: " + str(count_negative)
-            writefile.write(str(line.replace('\n', '')) + "\t | neutral: " + str(count_neutral) + "\t | positiv: " + str(count_positive) + "\t | negativ: " + str(count_negative) + "\n")
+            #print "negative " + str(count_negative)                            # For Testing
+    #print line + " - neutrals: " + str(count_neutral) + " | positives: " + str(count_positive) + " | negatives: " + str(count_negative)
+    writefile.write(str(line.replace('\n', '')) + "\t | neutral: " + str(count_neutral) + "\t | positiv: " + str(count_positive) + "\t | negativ: " + str(count_negative) + "\n")
 
 ### END OF LINE
-read_neutral.close()                                                            #closes opened file
-read_positive.close()                                                           #closes opened file
-read_negative.close()                                                           #closes opened file
-readfile.close()                                                                #closes opened file
-writefile.close()                                                               #closes opened file
+read_neutral.close()                                                            # closes opened file
+read_positive.close()                                                           # closes opened file
+read_negative.close()                                                           # closes opened file
+readfile.close()                                                                # closes opened file
+writefile.close()                                                               # closes opened file
