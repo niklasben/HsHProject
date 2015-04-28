@@ -1,8 +1,8 @@
-my $dir ='C:/users/Daniel/HshProject/cleaningandcountingscript/LemmaInput';
-my $dir_fc = 'C:/users/Daniel/HshProject/LemmaMerged'; 
+my $dir ='cleanedoutput';
+my $dir_fc = 'freq/'; 
 
 $counter = 0;
-
+#function to read in all the data in a specific folder and run the sub function until all data has been written.
 foreach my $fp (glob($dir."/*.txt")) {
 	$counter += 1;
 	print ($counter."\n");
@@ -16,16 +16,16 @@ foreach my $fp (glob($dir."/*.txt")) {
 }
 
 sub countfrequency(file, new_file) {
-$fh = file;
-my %count;
+	$fh = file;
+	my %count;
 while (my $line = <$fh>) {
     chomp $line;
-	foreach my $str (split "\t", $line) {
+	foreach my $str (split "\t", $line) { ###foreach loop to make a hash and every word is counted.
        $count{$str}++;
     }
 }
  
-foreach my $str (sort { $count{$b} <=> $count{$a} } keys %count) {
+foreach my $str (sort { $count{$b} <=> $count{$a} } keys %count) { ###foreach loop to sort hash after the biggest number and print it in new file. 
 	print (new_file $str, "\t".$count{$str}."\n");
-	}	
+}	
 }

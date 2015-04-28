@@ -5,79 +5,63 @@ Created on Mon Apr 13 17:19:53 2015
 @author: Niklas Bendixen
 """
 
-import re                                                                       # import of regex
-import codecs                                                                   # import of utf8 support
-import csv                                                                      # import of csv
-import sys
-import glob
-import fileinput
-import string
-import os
-import math
-from itertools import repeat
-
-
-# Neutrals                                                                      # Operations for neutral opinions
-read_neutral = open("GermanPolarityClues-Neutral-Lemma-21042012.tsv", "r")      # Open file with neutral lemmas
-
+### Operations for neutral opinion
+read_neutral = open("GermanPolarityClues-Neutral-21042012.tsv", "r")            # Open file with neutral words
 neu = {}                                                                        # Building neutral dictionary
-
 for n in read_neutral:                                                          # Adding words to neutral dictionary
     n = n.strip().split('\t')
     neu[n[0]] = n[len(n)-1]
 
-
-# Positives                                                                     # Operations for positive opinions
-read_positive = open("GermanPolarityClues-Positive-Lemma-21042012.tsv", "r")    # Open file with positive lemmas
-
+### Operations for positive opinions
+read_positive = open("GermanPolarityClues-Positive-21042012.tsv", "r")          # Open file with positive words
 pos = {}                                                                        # Building positive dictionary
-
 for p in read_positive:                                                         # Adding words to positive dictionary
     p = p.strip().split('\t')
     pos[p[0]] = p[len(p)-1]
 
-
-# Negatives                                                                     # Operations for negative opinions
-read_negative = open("GermanPolarityClues-Negative-Lemma-21042012.tsv", "r")    # Open file with negative lemmas
-
+### Operations for negative opinions
+read_negative = open("GermanPolarityClues-Negative-21042012.tsv", "r")          # Open file with negative words
 neg = {}                                                                        # Building negative dictionary
-
 for ne in read_negative:                                                        # Adding words to negative dictionary
     ne = ne.strip().split('\t')
     neg[ne[0]] = ne[len(ne)-1]
-    
 
-# Tweetfile                                                                     # It's getting serious
-readfile = open("tweetfile.txt", "r")                                           # Substitute tweetfile.txt with filename
-writefile = open("output.txt", "w")                                             # Substitute output.txt with filename
+### Tweetfile
+readfile = open("../labeling/dataset_labeled/currentfinallist.txt", "r")        # File with the labeled data
+writefile = open("sentiment_analysed_tweets.txt", "w")                          # File for the ouput
 
-for line in readfile:                                                           # Looping through every line of the tweetfile
+for line in readfile:                                                           # Looping through every line of readfile
     token_tweet = line.strip().split('\t')                                      # Tokenize each line by tab-seperated words
     tweetfile_split = line.split()
     tweetfile_split = len(tweetfile_split)                                      # Counting number of words in line
     count_neutral = 0                                                           # Reset count_neutral to zero
     count_positive = 0                                                          # Reset count_positive to zero
     count_negative = 0                                                          # Reset count_negative to zero
-    for i in range(0,len(token_tweet)):                                         # looping through each word of a line        
-        #t_tweet = token_tweet[i]                                               # For Testing
+    for i in range(2,len(token_tweet)):                                         # looping through each word of a line        
+        #t_tweet = token_tweet[i]                                               # For Testing Purposes Only
+        #print t_tweet                                                          # For Testing Purposes Only
         if token_tweet[i] in neu.keys():
-            opinion_neu = neu[token_tweet[i]]                                   # this way you can get the opinion of word 'i' token
+            opinion_neu = neu[token_tweet[i]]                                   # This way you can get the opinion of token 'i' if neutral
             count_neutral = count_neutral + 1
-            #print "neutral " + str(count_neutral)                              # For Testing
+            #print "neutral " + str(count_neutral)                              # For TestingPurposes Only
         elif token_tweet[i] in pos.keys():
-            opinion_pos = pos[token_tweet[i]]                                   # this way you can get the opinion of word 'i' token
+            opinion_pos = pos[token_tweet[i]]                                   # This way you can get the opinion of token 'i' if positive
             count_positive = count_positive + 1
-            #print "positive " + str(count_positive)                            # For Testing
+            #print "positive " + str(count_positive)                            # For Testing Purposes Only
         elif token_tweet[i] in neg.keys():
-            opinion_neg = neg[token_tweet[i]]                                   # this way you can get the opinion of word 'i' token
+            opinion_neg = neg[token_tweet[i]]                                   # This way you can get the opinion of token 'i' if negative
             count_negative = count_negative + 1
-            #print "negative " + str(count_negative)                            # For Testing
-    #print line + " - neutrals: " + str(count_neutral) + " | positives: " + str(count_positive) + " | negatives: " + str(count_negative)
-    writefile.write(str(line.replace('\n', '')) + "\t | neutral: " + str(count_neutral) + "\t | positiv: " + str(count_positive) + "\t | negativ: " + str(count_negative) + "\n")
-
-### END OF LINE
-read_neutral.close()                                                            # Closes opened file
-read_positive.close()                                                           # Closes opened file
-read_negative.close()                                                           # Closes opened file
-readfile.close()                                                                # Closes opened file
-writefile.close()                                                               # Closes opened file
+            #print "negative " + str(count_negative)                            # For Testing Purposes Only    
+    if count_negative > count_positive:                                         # If the number of negative tokens is bigger than positive
+        writefile.write('-\t' + line)                                           # Label the line as negative
+    elif count_negative < count_positive:                                       # If the number of negative tokens is smaller than positive
+        writefile.write('+\t' + line)                                           # Label the line as positive
+    elif count_negative == count_positive:                                      # If the number of negative and positive tokens is equal
+        writefile.write('0\t' + line)                                           # Label the line as neutral
+    elif count_negative == 0 and count_positive == 0:                           # If the number of negative and positive tokens is zero in total
+        writefile.write('undef\t' + line)                                       # Label the line as neutral
+readfile.close()                                                                # Closes opened file readfile
+read_neutral.close()                                                            # Closes opened file read_neutral
+read_positive.close()                                                           # Closes opened file read_positive
+read_negative.close()                                                           # Closes opened file read_negative
+writefile.close()                                                               # Closes opened file writefile
