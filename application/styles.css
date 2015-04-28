@@ -1,0 +1,9 @@
+.simple-list{
+	list-style-type:none;
+}
+.simple-list li{
+	background-color: #eee;
+	border-radius:3px;
+	margin: 4px 0px;
+	padding: 4px;
+}

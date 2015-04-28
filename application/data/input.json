@@ -1,8 +1,10 @@
 [
 	{
-		"Bildung":[
+		"value":"Bildung",
+		"content":[
 			{
-				"Frankreich":
+				"value":"Frankreich",
+				"rates":
 					{
 						"positive": 70,
 						"neutral": 400,
@@ -10,7 +12,8 @@
 					}
 			},
 			{
-				"Spanien":
+				"value":"Spanien",
+				"rates":
 					{
 						"positive": 25,
 						"neutral": 350,
@@ -18,7 +21,8 @@
 					}
 			},
 			{
-				"England":
+				"value":"England",
+				"rates":
 					{
 						"positive": 60,
 						"neutral": 375,
@@ -26,7 +30,8 @@
 					}
 			},
 			{
-				"UK":
+				"value":"UK",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 240,
@@ -34,7 +39,8 @@
 					}
 			},
 			{
-				"Russland":
+				"value":"Russland",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 325,
@@ -42,7 +48,8 @@
 					}
 			},
 			{
-				"Ukraine":
+				"value":"Ukraine",
+				"rates":
 					{
 						"positive": 40,
 						"neutral": 325,
@@ -50,7 +57,8 @@
 					}
 			},
 			{
-				"Holland":
+				"value":"Holland",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 50,
@@ -58,7 +66,8 @@
 					}
 			},
 			{
-				"Schweden":
+				"value":"Schweden",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 90,
@@ -66,7 +75,8 @@
 					}
 			},
 			{
-				"Polen":
+				"value":"Polen",
+				"rates":
 					{
 						"positive": 30,
 						"neutral": 50,
@@ -74,19 +84,22 @@
 					}
 			},
 			{
-				"Italien":
+				"value":"Italien",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 100,
 						"negative": 6
 					}
-			},
+			}
 		]
 	},
 	{
-		"Beruf/Karriere":[
+		"value":"Beruf/Karriere",
+		"content":[
 			{
-				"Frankreich":
+				"value":"Frankreich",
+				"rates":
 					{
 						"positive": 70,
 						"neutral": 400,
@@ -94,7 +107,8 @@
 					}
 			},
 			{
-				"Spanien":
+				"value":"Spanien",
+				"rates":
 					{
 						"positive": 25,
 						"neutral": 350,
@@ -102,7 +116,8 @@
 					}
 			},
 			{
-				"England":
+				"value":"England",
+				"rates":
 					{
 						"positive": 60,
 						"neutral": 375,
@@ -110,7 +125,8 @@
 					}
 			},
 			{
-				"UK":
+				"value":"UK",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 240,
@@ -118,7 +134,8 @@
 					}
 			},
 			{
-				"Russland":
+				"value":"Russland",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 325,
@@ -126,7 +143,8 @@
 					}
 			},
 			{
-				"Ukraine":
+				"value":"Ukraine",
+				"rates":
 					{
 						"positive": 40,
 						"neutral": 325,
@@ -134,7 +152,8 @@
 					}
 			},
 			{
-				"Holland":
+				"value":"Holland",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 50,
@@ -142,7 +161,8 @@
 					}
 			},
 			{
-				"Schweden":
+				"value":"Schweden",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 90,
@@ -150,7 +170,8 @@
 					}
 			},
 			{
-				"Polen":
+				"value":"Polen",
+				"rates":
 					{
 						"positive": 30,
 						"neutral": 50,
@@ -158,19 +179,22 @@
 					}
 			},
 			{
-				"Italien":
+				"value":"Italien",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 100,
 						"negative": 6
 					}
-			},
+			}
 		]
 	},
 	{
-		"Wirtschaft/Finanzen":[
+		"value":"Wirtschaft/Finanzen",
+		"content":[
 			{
-				"Frankreich":
+				"value":"Frankreich",
+				"rates":
 					{
 						"positive": 70,
 						"neutral": 400,
@@ -178,7 +202,8 @@
 					}
 			},
 			{
-				"Spanien":
+				"value":"Spanien",
+				"rates":
 					{
 						"positive": 25,
 						"neutral": 350,
@@ -186,7 +211,8 @@
 					}
 			},
 			{
-				"England":
+				"value":"England",
+				"rates":
 					{
 						"positive": 60,
 						"neutral": 375,
@@ -194,7 +220,8 @@
 					}
 			},
 			{
-				"UK":
+				"value":"UK",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 240,
@@ -202,7 +229,8 @@
 					}
 			},
 			{
-				"Russland":
+				"value":"Russland",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 325,
@@ -210,7 +238,8 @@
 					}
 			},
 			{
-				"Ukraine":
+				"value":"Ukraine",
+				"rates":
 					{
 						"positive": 40,
 						"neutral": 325,
@@ -218,7 +247,8 @@
 					}
 			},
 			{
-				"Holland":
+				"value":"Holland",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 50,
@@ -226,7 +256,8 @@
 					}
 			},
 			{
-				"Schweden":
+				"value":"Schweden",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 90,
@@ -234,7 +265,8 @@
 					}
 			},
 			{
-				"Polen":
+				"value":"Polen",
+				"rates":
 					{
 						"positive": 30,
 						"neutral": 50,
@@ -242,19 +274,22 @@
 					}
 			},
 			{
-				"Italien":
+				"value":"Italien",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 100,
 						"negative": 6
 					}
-			},
+			}
 		]
 	},
 	{
-		"Unternehmen":[
+		"value":"Unternehmen",
+		"content":[
 			{
-				"Frankreich":
+				"value":"Frankreich",
+				"rates":
 					{
 						"positive": 70,
 						"neutral": 400,
@@ -262,7 +297,8 @@
 					}
 			},
 			{
-				"Spanien":
+				"value":"Spanien",
+				"rates":
 					{
 						"positive": 25,
 						"neutral": 350,
@@ -270,7 +306,8 @@
 					}
 			},
 			{
-				"England":
+				"value":"England",
+				"rates":
 					{
 						"positive": 60,
 						"neutral": 375,
@@ -278,7 +315,8 @@
 					}
 			},
 			{
-				"UK":
+				"value":"UK",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 240,
@@ -286,7 +324,8 @@
 					}
 			},
 			{
-				"Russland":
+				"value":"Russland",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 325,
@@ -294,7 +333,8 @@
 					}
 			},
 			{
-				"Ukraine":
+				"value":"Ukraine",
+				"rates":
 					{
 						"positive": 40,
 						"neutral": 325,
@@ -302,7 +342,8 @@
 					}
 			},
 			{
-				"Holland":
+				"value":"Holland",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 50,
@@ -310,7 +351,8 @@
 					}
 			},
 			{
-				"Schweden":
+				"value":"Schweden",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 90,
@@ -318,7 +360,8 @@
 					}
 			},
 			{
-				"Polen":
+				"value":"Polen",
+				"rates":
 					{
 						"positive": 30,
 						"neutral": 50,
@@ -326,19 +369,22 @@
 					}
 			},
 			{
-				"Italien":
+				"value":"Italien",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 100,
 						"negative": 6
 					}
-			},
+			}
 		]
 	},
 	{
-		"Urlaub":[
+		"value":"Urlaub",
+		"content":[
 			{
-				"Frankreich":
+				"value":"Frankreich",
+				"rates":
 					{
 						"positive": 70,
 						"neutral": 400,
@@ -346,7 +392,8 @@
 					}
 			},
 			{
-				"Spanien":
+				"value":"Spanien",
+				"rates":
 					{
 						"positive": 25,
 						"neutral": 350,
@@ -354,7 +401,8 @@
 					}
 			},
 			{
-				"England":
+				"value":"England",
+				"rates":
 					{
 						"positive": 60,
 						"neutral": 375,
@@ -362,7 +410,8 @@
 					}
 			},
 			{
-				"UK":
+				"value":"UK",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 240,
@@ -370,7 +419,8 @@
 					}
 			},
 			{
-				"Russland":
+				"value":"Russland",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 325,
@@ -378,7 +428,8 @@
 					}
 			},
 			{
-				"Ukraine":
+				"value":"Ukraine",
+				"rates":
 					{
 						"positive": 40,
 						"neutral": 325,
@@ -386,7 +437,8 @@
 					}
 			},
 			{
-				"Holland":
+				"value":"Holland",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 50,
@@ -394,7 +446,8 @@
 					}
 			},
 			{
-				"Schweden":
+				"value":"Schweden",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 90,
@@ -402,7 +455,8 @@
 					}
 			},
 			{
-				"Polen":
+				"value":"Polen",
+				"rates":
 					{
 						"positive": 30,
 						"neutral": 50,
@@ -410,19 +464,22 @@
 					}
 			},
 			{
-				"Italien":
+				"value":"Italien",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 100,
 						"negative": 6
 					}
-			},
+			}
 		]
 	},
 	{
-		"Umwelt":[
+		"value":"Umwelt",
+		"content":[
 			{
-				"Frankreich":
+				"value":"Frankreich",
+				"rates":
 					{
 						"positive": 70,
 						"neutral": 400,
@@ -430,7 +487,8 @@
 					}
 			},
 			{
-				"Spanien":
+				"value":"Spanien",
+				"rates":
 					{
 						"positive": 25,
 						"neutral": 350,
@@ -438,7 +496,8 @@
 					}
 			},
 			{
-				"England":
+				"value":"England",
+				"rates":
 					{
 						"positive": 60,
 						"neutral": 375,
@@ -446,7 +505,8 @@
 					}
 			},
 			{
-				"UK":
+				"value":"UK",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 240,
@@ -454,7 +514,8 @@
 					}
 			},
 			{
-				"Russland":
+				"value":"Russland",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 325,
@@ -462,7 +523,8 @@
 					}
 			},
 			{
-				"Ukraine":
+				"value":"Ukraine",
+				"rates":
 					{
 						"positive": 40,
 						"neutral": 325,
@@ -470,7 +532,8 @@
 					}
 			},
 			{
-				"Holland":
+				"value":"Holland",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 50,
@@ -478,7 +541,8 @@
 					}
 			},
 			{
-				"Schweden":
+				"value":"Schweden",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 90,
@@ -486,7 +550,8 @@
 					}
 			},
 			{
-				"Polen":
+				"value":"Polen",
+				"rates":
 					{
 						"positive": 30,
 						"neutral": 50,
@@ -494,19 +559,22 @@
 					}
 			},
 			{
-				"Italien":
+				"value":"Italien",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 100,
 						"negative": 6
 					}
-			},
+			}
 		]
 	},
 	{
-		"Terrorismus":[
+		"value":"Terrorismus",
+		"content":[
 			{
-				"Frankreich":
+				"value":"Frankreich",
+				"rates":
 					{
 						"positive": 70,
 						"neutral": 400,
@@ -514,7 +582,8 @@
 					}
 			},
 			{
-				"Spanien":
+				"value":"Spanien",
+				"rates":
 					{
 						"positive": 25,
 						"neutral": 350,
@@ -522,7 +591,8 @@
 					}
 			},
 			{
-				"England":
+				"value":"England",
+				"rates":
 					{
 						"positive": 60,
 						"neutral": 375,
@@ -530,7 +600,8 @@
 					}
 			},
 			{
-				"UK":
+				"value":"UK",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 240,
@@ -538,7 +609,8 @@
 					}
 			},
 			{
-				"Russland":
+				"value":"Russland",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 325,
@@ -546,7 +618,8 @@
 					}
 			},
 			{
-				"Ukraine":
+				"value":"Ukraine",
+				"rates":
 					{
 						"positive": 40,
 						"neutral": 325,
@@ -554,7 +627,8 @@
 					}
 			},
 			{
-				"Holland":
+				"value":"Holland",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 50,
@@ -562,7 +636,8 @@
 					}
 			},
 			{
-				"Schweden":
+				"value":"Schweden",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 90,
@@ -570,7 +645,8 @@
 					}
 			},
 			{
-				"Polen":
+				"value":"Polen",
+				"rates":
 					{
 						"positive": 30,
 						"neutral": 50,
@@ -578,19 +654,22 @@
 					}
 			},
 			{
-				"Italien":
+				"value":"Italien",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 100,
 						"negative": 6
 					}
-			},
+			}
 		]
 	},
 	{
-		"Unglücke":[
+		"value":"Unglücke",
+		"content":[
 			{
-				"Frankreich":
+				"value":"Frankreich",
+				"rates":
 					{
 						"positive": 70,
 						"neutral": 400,
@@ -598,7 +677,8 @@
 					}
 			},
 			{
-				"Spanien":
+				"value":"Spanien",
+				"rates":
 					{
 						"positive": 25,
 						"neutral": 350,
@@ -606,7 +686,8 @@
 					}
 			},
 			{
-				"England":
+				"value":"England",
+				"rates":
 					{
 						"positive": 60,
 						"neutral": 375,
@@ -614,7 +695,8 @@
 					}
 			},
 			{
-				"UK":
+				"value":"UK",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 240,
@@ -622,7 +704,8 @@
 					}
 			},
 			{
-				"Russland":
+				"value":"Russland",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 325,
@@ -630,7 +713,8 @@
 					}
 			},
 			{
-				"Ukraine":
+				"value":"Ukraine",
+				"rates":
 					{
 						"positive": 40,
 						"neutral": 325,
@@ -638,7 +722,8 @@
 					}
 			},
 			{
-				"Holland":
+				"value":"Holland",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 50,
@@ -646,7 +731,8 @@
 					}
 			},
 			{
-				"Schweden":
+				"value":"Schweden",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 90,
@@ -654,7 +740,8 @@
 					}
 			},
 			{
-				"Polen":
+				"value":"Polen",
+				"rates":
 					{
 						"positive": 30,
 						"neutral": 50,
@@ -662,19 +749,22 @@
 					}
 			},
 			{
-				"Italien":
+				"value":"Italien",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 100,
 						"negative": 6
 					}
-			},
+			}
 		]
 	},
 	{
-		"Einwanderung/Flüchtlinge":[
+		"value":"Einwanderung/Flüchtlinge",
+		"content":[
 			{
-				"Frankreich":
+				"value":"Frankreich",
+				"rates":
 					{
 						"positive": 70,
 						"neutral": 400,
@@ -682,7 +772,8 @@
 					}
 			},
 			{
-				"Spanien":
+				"value":"Spanien",
+				"rates":
 					{
 						"positive": 25,
 						"neutral": 350,
@@ -690,7 +781,8 @@
 					}
 			},
 			{
-				"England":
+				"value":"England",
+				"rates":
 					{
 						"positive": 60,
 						"neutral": 375,
@@ -698,7 +790,8 @@
 					}
 			},
 			{
-				"UK":
+				"value":"UK",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 240,
@@ -706,7 +799,8 @@
 					}
 			},
 			{
-				"Russland":
+				"value":"Russland",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 325,
@@ -714,7 +808,8 @@
 					}
 			},
 			{
-				"Ukraine":
+				"value":"Ukraine",
+				"rates":
 					{
 						"positive": 40,
 						"neutral": 325,
@@ -722,7 +817,8 @@
 					}
 			},
 			{
-				"Holland":
+				"value":"Holland",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 50,
@@ -730,7 +826,8 @@
 					}
 			},
 			{
-				"Schweden":
+				"value":"Schweden",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 90,
@@ -738,7 +835,8 @@
 					}
 			},
 			{
-				"Polen":
+				"value":"Polen",
+				"rates":
 					{
 						"positive": 30,
 						"neutral": 50,
@@ -746,19 +844,22 @@
 					}
 			},
 			{
-				"Italien":
+				"value":"Italien",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 100,
 						"negative": 6
 					}
-			},
+			}
 		]
 	},
 	{
-		"Politik":[
+		"value":"Politik",
+		"content":[
 			{
-				"Frankreich":
+				"value":"Frankreich",
+				"rates":
 					{
 						"positive": 70,
 						"neutral": 400,
@@ -766,7 +867,8 @@
 					}
 			},
 			{
-				"Spanien":
+				"value":"Spanien",
+				"rates":
 					{
 						"positive": 25,
 						"neutral": 350,
@@ -774,7 +876,8 @@
 					}
 			},
 			{
-				"England":
+				"value":"England",
+				"rates":
 					{
 						"positive": 60,
 						"neutral": 375,
@@ -782,7 +885,8 @@
 					}
 			},
 			{
-				"UK":
+				"value":"UK",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 240,
@@ -790,7 +894,8 @@
 					}
 			},
 			{
-				"Russland":
+				"value":"Russland",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 325,
@@ -798,7 +903,8 @@
 					}
 			},
 			{
-				"Ukraine":
+				"value":"Ukraine",
+				"rates":
 					{
 						"positive": 40,
 						"neutral": 325,
@@ -806,7 +912,8 @@
 					}
 			},
 			{
-				"Holland":
+				"value":"Holland",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 50,
@@ -814,7 +921,8 @@
 					}
 			},
 			{
-				"Schweden":
+				"value":"Schweden",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 90,
@@ -822,7 +930,8 @@
 					}
 			},
 			{
-				"Polen":
+				"value":"Polen",
+				"rates":
 					{
 						"positive": 30,
 						"neutral": 50,
@@ -830,19 +939,22 @@
 					}
 			},
 			{
-				"Italien":
+				"value":"Italien",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 100,
 						"negative": 6
 					}
-			},
+			}
 		]
 	},
 	{
-		"Recht":[
+		"value":"Recht",
+		"content":[
 			{
-				"Frankreich":
+				"value":"Frankreich",
+				"rates":
 					{
 						"positive": 70,
 						"neutral": 400,
@@ -850,7 +962,8 @@
 					}
 			},
 			{
-				"Spanien":
+				"value":"Spanien",
+				"rates":
 					{
 						"positive": 25,
 						"neutral": 350,
@@ -858,7 +971,8 @@
 					}
 			},
 			{
-				"England":
+				"value":"England",
+				"rates":
 					{
 						"positive": 60,
 						"neutral": 375,
@@ -866,7 +980,8 @@
 					}
 			},
 			{
-				"UK":
+				"value":"UK",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 240,
@@ -874,7 +989,8 @@
 					}
 			},
 			{
-				"Russland":
+				"value":"Russland",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 325,
@@ -882,7 +998,8 @@
 					}
 			},
 			{
-				"Ukraine":
+				"value":"Ukraine",
+				"rates":
 					{
 						"positive": 40,
 						"neutral": 325,
@@ -890,7 +1007,8 @@
 					}
 			},
 			{
-				"Holland":
+				"value":"Holland",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 50,
@@ -898,7 +1016,8 @@
 					}
 			},
 			{
-				"Schweden":
+				"value":"Schweden",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 90,
@@ -906,7 +1025,8 @@
 					}
 			},
 			{
-				"Polen":
+				"value":"Polen",
+				"rates":
 					{
 						"positive": 30,
 						"neutral": 50,
@@ -914,19 +1034,22 @@
 					}
 			},
 			{
-				"Italien":
+				"value":"Italien",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 100,
 						"negative": 6
 					}
-			},
+			}
 		]
 	},
 	{
-		"Kultur":[
+		"value":"Kultur",
+		"content":[
 			{
-				"Frankreich":
+				"value":"Frankreich",
+				"rates":
 					{
 						"positive": 70,
 						"neutral": 400,
@@ -934,7 +1057,8 @@
 					}
 			},
 			{
-				"Spanien":
+				"value":"Spanien",
+				"rates":
 					{
 						"positive": 25,
 						"neutral": 350,
@@ -942,7 +1066,8 @@
 					}
 			},
 			{
-				"England":
+				"value":"England",
+				"rates":
 					{
 						"positive": 60,
 						"neutral": 375,
@@ -950,7 +1075,8 @@
 					}
 			},
 			{
-				"UK":
+				"value":"UK",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 240,
@@ -958,7 +1084,8 @@
 					}
 			},
 			{
-				"Russland":
+				"value":"Russland",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 325,
@@ -966,7 +1093,8 @@
 					}
 			},
 			{
-				"Ukraine":
+				"value":"Ukraine",
+				"rates":
 					{
 						"positive": 40,
 						"neutral": 325,
@@ -974,7 +1102,8 @@
 					}
 			},
 			{
-				"Holland":
+				"value":"Holland",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 50,
@@ -982,7 +1111,8 @@
 					}
 			},
 			{
-				"Schweden":
+				"value":"Schweden",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 90,
@@ -990,7 +1120,8 @@
 					}
 			},
 			{
-				"Polen":
+				"value":"Polen",
+				"rates":
 					{
 						"positive": 30,
 						"neutral": 50,
@@ -998,19 +1129,22 @@
 					}
 			},
 			{
-				"Italien":
+				"value":"Italien",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 100,
 						"negative": 6
 					}
-			},
+			}
 		]
 	},
 	{
-		"Musik":[
+		"value":"Musik",
+		"content":[
 			{
-				"Frankreich":
+				"value":"Frankreich",
+				"rates":
 					{
 						"positive": 70,
 						"neutral": 400,
@@ -1018,7 +1152,8 @@
 					}
 			},
 			{
-				"Spanien":
+				"value":"Spanien",
+				"rates":
 					{
 						"positive": 25,
 						"neutral": 350,
@@ -1026,7 +1161,8 @@
 					}
 			},
 			{
-				"England":
+				"value":"England",
+				"rates":
 					{
 						"positive": 60,
 						"neutral": 375,
@@ -1034,7 +1170,8 @@
 					}
 			},
 			{
-				"UK":
+				"value":"UK",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 240,
@@ -1042,7 +1179,8 @@
 					}
 			},
 			{
-				"Russland":
+				"value":"Russland",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 325,
@@ -1050,7 +1188,8 @@
 					}
 			},
 			{
-				"Ukraine":
+				"value":"Ukraine",
+				"rates":
 					{
 						"positive": 40,
 						"neutral": 325,
@@ -1058,7 +1197,8 @@
 					}
 			},
 			{
-				"Holland":
+				"value":"Holland",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 50,
@@ -1066,7 +1206,8 @@
 					}
 			},
 			{
-				"Schweden":
+				"value":"Schweden",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 90,
@@ -1074,7 +1215,8 @@
 					}
 			},
 			{
-				"Polen":
+				"value":"Polen",
+				"rates":
 					{
 						"positive": 30,
 						"neutral": 50,
@@ -1082,19 +1224,22 @@
 					}
 			},
 			{
-				"Italien":
+				"value":"Italien",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 100,
 						"negative": 6
 					}
-			},
+			}
 		]
 	},
 	{
-		"Netzpolitik/Datenschutz":[
+		"value":"Netzpolitik/Datenschutz",
+		"content":[
 			{
-				"Frankreich":
+				"value":"Frankreich",
+				"rates":
 					{
 						"positive": 70,
 						"neutral": 400,
@@ -1102,7 +1247,8 @@
 					}
 			},
 			{
-				"Spanien":
+				"value":"Spanien",
+				"rates":
 					{
 						"positive": 25,
 						"neutral": 350,
@@ -1110,7 +1256,8 @@
 					}
 			},
 			{
-				"England":
+				"value":"England",
+				"rates":
 					{
 						"positive": 60,
 						"neutral": 375,
@@ -1118,7 +1265,8 @@
 					}
 			},
 			{
-				"UK":
+				"value":"UK",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 240,
@@ -1126,7 +1274,8 @@
 					}
 			},
 			{
-				"Russland":
+				"value":"Russland",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 325,
@@ -1134,7 +1283,8 @@
 					}
 			},
 			{
-				"Ukraine":
+				"value":"Ukraine",
+				"rates":
 					{
 						"positive": 40,
 						"neutral": 325,
@@ -1142,7 +1292,8 @@
 					}
 			},
 			{
-				"Holland":
+				"value":"Holland",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 50,
@@ -1150,7 +1301,8 @@
 					}
 			},
 			{
-				"Schweden":
+				"value":"Schweden",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 90,
@@ -1158,7 +1310,8 @@
 					}
 			},
 			{
-				"Polen":
+				"value":"Polen",
+				"rates":
 					{
 						"positive": 30,
 						"neutral": 50,
@@ -1166,19 +1319,22 @@
 					}
 			},
 			{
-				"Italien":
+				"value":"Italien",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 100,
 						"negative": 6
 					}
-			},
+			}
 		]
 	},
 	{
-		"Sport":[
+		"value":"Sport",
+		"content":[
 			{
-				"Frankreich":
+				"value":"Frankreich",
+				"rates":
 					{
 						"positive": 70,
 						"neutral": 400,
@@ -1186,7 +1342,8 @@
 					}
 			},
 			{
-				"Spanien":
+				"value":"Spanien",
+				"rates":
 					{
 						"positive": 25,
 						"neutral": 350,
@@ -1194,7 +1351,8 @@
 					}
 			},
 			{
-				"England":
+				"value":"England",
+				"rates":
 					{
 						"positive": 60,
 						"neutral": 375,
@@ -1202,7 +1360,8 @@
 					}
 			},
 			{
-				"UK":
+				"value":"UK",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 240,
@@ -1210,7 +1369,8 @@
 					}
 			},
 			{
-				"Russland":
+				"value":"Russland",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 325,
@@ -1218,7 +1378,8 @@
 					}
 			},
 			{
-				"Ukraine":
+				"value":"Ukraine",
+				"rates":
 					{
 						"positive": 40,
 						"neutral": 325,
@@ -1226,7 +1387,8 @@
 					}
 			},
 			{
-				"Holland":
+				"value":"Holland",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 50,
@@ -1234,7 +1396,8 @@
 					}
 			},
 			{
-				"Schweden":
+				"value":"Schweden",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 90,
@@ -1242,7 +1405,8 @@
 					}
 			},
 			{
-				"Polen":
+				"value":"Polen",
+				"rates":
 					{
 						"positive": 30,
 						"neutral": 50,
@@ -1250,19 +1414,22 @@
 					}
 			},
 			{
-				"Italien":
+				"value":"Italien",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 100,
 						"negative": 6
 					}
-			},
+			}
 		]
 	},
 	{
-		"Religion":[
+		"value":"Religion",
+		"content":[
 			{
-				"Frankreich":
+				"value":"Frankreich",
+				"rates":
 					{
 						"positive": 70,
 						"neutral": 400,
@@ -1270,7 +1437,8 @@
 					}
 			},
 			{
-				"Spanien":
+				"value":"Spanien",
+				"rates":
 					{
 						"positive": 25,
 						"neutral": 350,
@@ -1278,7 +1446,8 @@
 					}
 			},
 			{
-				"England":
+				"value":"England",
+				"rates":
 					{
 						"positive": 60,
 						"neutral": 375,
@@ -1286,7 +1455,8 @@
 					}
 			},
 			{
-				"UK":
+				"value":"UK",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 240,
@@ -1294,7 +1464,8 @@
 					}
 			},
 			{
-				"Russland":
+				"value":"Russland",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 325,
@@ -1302,7 +1473,8 @@
 					}
 			},
 			{
-				"Ukraine":
+				"value":"Ukraine",
+				"rates":
 					{
 						"positive": 40,
 						"neutral": 325,
@@ -1310,7 +1482,8 @@
 					}
 			},
 			{
-				"Holland":
+				"value":"Holland",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 50,
@@ -1318,7 +1491,8 @@
 					}
 			},
 			{
-				"Schweden":
+				"value":"Schweden",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 90,
@@ -1326,7 +1500,8 @@
 					}
 			},
 			{
-				"Polen":
+				"value":"Polen",
+				"rates":
 					{
 						"positive": 30,
 						"neutral": 50,
@@ -1334,19 +1509,22 @@
 					}
 			},
 			{
-				"Italien":
+				"value":"Italien",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 100,
 						"negative": 6
 					}
-			},
+			}
 		]
 	},
 	{
-		"Kullinarisches":[
+		"value":"Kullinarisches",
+		"content":[
 			{
-				"Frankreich":
+				"value":"Frankreich",
+				"rates":
 					{
 						"positive": 70,
 						"neutral": 400,
@@ -1354,7 +1532,8 @@
 					}
 			},
 			{
-				"Spanien":
+				"value":"Spanien",
+				"rates":
 					{
 						"positive": 25,
 						"neutral": 350,
@@ -1362,7 +1541,8 @@
 					}
 			},
 			{
-				"England":
+				"value":"England",
+				"rates":
 					{
 						"positive": 60,
 						"neutral": 375,
@@ -1370,7 +1550,8 @@
 					}
 			},
 			{
-				"UK":
+				"value":"UK",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 240,
@@ -1378,7 +1559,8 @@
 					}
 			},
 			{
-				"Russland":
+				"value":"Russland",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 325,
@@ -1386,7 +1568,8 @@
 					}
 			},
 			{
-				"Ukraine":
+				"value":"Ukraine",
+				"rates":
 					{
 						"positive": 40,
 						"neutral": 325,
@@ -1394,7 +1577,8 @@
 					}
 			},
 			{
-				"Holland":
+				"value":"Holland",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 50,
@@ -1402,7 +1586,8 @@
 					}
 			},
 			{
-				"Schweden":
+				"value":"Schweden",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 90,
@@ -1410,7 +1595,8 @@
 					}
 			},
 			{
-				"Polen":
+				"value":"Polen",
+				"rates":
 					{
 						"positive": 30,
 						"neutral": 50,
@@ -1418,19 +1604,22 @@
 					}
 			},
 			{
-				"Italien":
+				"value":"Italien",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 100,
 						"negative": 6
 					}
-			},
+			}
 		]
 	},
 	{
-		"Technik":[
+		"value":"Technik",
+		"content":[
 			{
-				"Frankreich":
+				"value":"Frankreich",
+				"rates":
 					{
 						"positive": 70,
 						"neutral": 400,
@@ -1438,7 +1627,8 @@
 					}
 			},
 			{
-				"Spanien":
+				"value":"Spanien",
+				"rates":
 					{
 						"positive": 25,
 						"neutral": 350,
@@ -1446,7 +1636,8 @@
 					}
 			},
 			{
-				"England":
+				"value":"England",
+				"rates":
 					{
 						"positive": 60,
 						"neutral": 375,
@@ -1454,7 +1645,8 @@
 					}
 			},
 			{
-				"UK":
+				"value":"UK",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 240,
@@ -1462,7 +1654,8 @@
 					}
 			},
 			{
-				"Russland":
+				"value":"Russland",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 325,
@@ -1470,7 +1663,8 @@
 					}
 			},
 			{
-				"Ukraine":
+				"value":"Ukraine",
+				"rates":
 					{
 						"positive": 40,
 						"neutral": 325,
@@ -1478,7 +1672,8 @@
 					}
 			},
 			{
-				"Holland":
+				"value":"Holland",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 50,
@@ -1486,7 +1681,8 @@
 					}
 			},
 			{
-				"Schweden":
+				"value":"Schweden",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 90,
@@ -1494,7 +1690,8 @@
 					}
 			},
 			{
-				"Polen":
+				"value":"Polen",
+				"rates":
 					{
 						"positive": 30,
 						"neutral": 50,
@@ -1502,19 +1699,22 @@
 					}
 			},
 			{
-				"Italien":
+				"value":"Italien",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 100,
 						"negative": 6
 					}
-			},
+			}
 		]
 	},
 	{
-		"Medien":[
+		"value":"Medien",
+		"content":[
 			{
-				"Frankreich":
+				"value":"Frankreich",
+				"rates":
 					{
 						"positive": 70,
 						"neutral": 400,
@@ -1522,7 +1722,8 @@
 					}
 			},
 			{
-				"Spanien":
+				"value":"Spanien",
+				"rates":
 					{
 						"positive": 25,
 						"neutral": 350,
@@ -1530,7 +1731,8 @@
 					}
 			},
 			{
-				"England":
+				"value":"England",
+				"rates":
 					{
 						"positive": 60,
 						"neutral": 375,
@@ -1538,7 +1740,8 @@
 					}
 			},
 			{
-				"UK":
+				"value":"UK",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 240,
@@ -1546,7 +1749,8 @@
 					}
 			},
 			{
-				"Russland":
+				"value":"Russland",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 325,
@@ -1554,7 +1758,8 @@
 					}
 			},
 			{
-				"Ukraine":
+				"value":"Ukraine",
+				"rates":
 					{
 						"positive": 40,
 						"neutral": 325,
@@ -1562,7 +1767,8 @@
 					}
 			},
 			{
-				"Holland":
+				"value":"Holland",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 50,
@@ -1570,7 +1776,8 @@
 					}
 			},
 			{
-				"Schweden":
+				"value":"Schweden",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 90,
@@ -1578,7 +1785,8 @@
 					}
 			},
 			{
-				"Polen":
+				"value":"Polen",
+				"rates":
 					{
 						"positive": 30,
 						"neutral": 50,
@@ -1586,19 +1794,22 @@
 					}
 			},
 			{
-				"Italien":
+				"value":"Italien",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 100,
 						"negative": 6
 					}
-			},
+			}
 		]
 	},
 	{
-		"Mode":[
+		"value":"Mode",
+		"content":[
 			{
-				"Frankreich":
+				"value":"Frankreich",
+				"rates":
 					{
 						"positive": 70,
 						"neutral": 400,
@@ -1606,7 +1817,8 @@
 					}
 			},
 			{
-				"Spanien":
+				"value":"Spanien",
+				"rates":
 					{
 						"positive": 25,
 						"neutral": 350,
@@ -1614,7 +1826,8 @@
 					}
 			},
 			{
-				"England":
+				"value":"England",
+				"rates":
 					{
 						"positive": 60,
 						"neutral": 375,
@@ -1622,7 +1835,8 @@
 					}
 			},
 			{
-				"UK":
+				"value":"UK",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 240,
@@ -1630,7 +1844,8 @@
 					}
 			},
 			{
-				"Russland":
+				"value":"Russland",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 325,
@@ -1638,7 +1853,8 @@
 					}
 			},
 			{
-				"Ukraine":
+				"value":"Ukraine",
+				"rates":
 					{
 						"positive": 40,
 						"neutral": 325,
@@ -1646,7 +1862,8 @@
 					}
 			},
 			{
-				"Holland":
+				"value":"Holland",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 50,
@@ -1654,7 +1871,8 @@
 					}
 			},
 			{
-				"Schweden":
+				"value":"Schweden",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 90,
@@ -1662,7 +1880,8 @@
 					}
 			},
 			{
-				"Polen":
+				"value":"Polen",
+				"rates":
 					{
 						"positive": 30,
 						"neutral": 50,
@@ -1670,19 +1889,22 @@
 					}
 			},
 			{
-				"Italien":
+				"value":"Italien",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 100,
 						"negative": 6
 					}
-			},
+			}
 		]
 	},
 	{
-		"Familie":[
+		"value":"Familie",
+		"content":[
 			{
-				"Frankreich":
+				"value":"Frankreich",
+				"rates":
 					{
 						"positive": 70,
 						"neutral": 400,
@@ -1690,7 +1912,8 @@
 					}
 			},
 			{
-				"Spanien":
+				"value":"Spanien",
+				"rates":
 					{
 						"positive": 25,
 						"neutral": 350,
@@ -1698,7 +1921,8 @@
 					}
 			},
 			{
-				"England":
+				"value":"England",
+				"rates":
 					{
 						"positive": 60,
 						"neutral": 375,
@@ -1706,7 +1930,8 @@
 					}
 			},
 			{
-				"UK":
+				"value":"UK",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 240,
@@ -1714,7 +1939,8 @@
 					}
 			},
 			{
-				"Russland":
+				"value":"Russland",
+				"rates":
 					{
 						"positive": 35,
 						"neutral": 325,
@@ -1722,7 +1948,8 @@
 					}
 			},
 			{
-				"Ukraine":
+				"value":"Ukraine",
+				"rates":
 					{
 						"positive": 40,
 						"neutral": 325,
@@ -1730,7 +1957,8 @@
 					}
 			},
 			{
-				"Holland":
+				"value":"Holland",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 50,
@@ -1738,7 +1966,8 @@
 					}
 			},
 			{
-				"Schweden":
+				"value":"Schweden",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 90,
@@ -1746,7 +1975,8 @@
 					}
 			},
 			{
-				"Polen":
+				"value":"Polen",
+				"rates":
 					{
 						"positive": 30,
 						"neutral": 50,
@@ -1754,7 +1984,8 @@
 					}
 			},
 			{
-				"Italien":
+				"value":"Italien",
+				"rates":
 					{
 						"positive": 10,
 						"neutral": 100,
