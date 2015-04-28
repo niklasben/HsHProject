@@ -6,21 +6,21 @@ Created on Mon Apr 13 17:19:53 2015
 """
 
 ### Operations for neutral opinion
-read_neutral = open("GermanPolarityClues-Neutral-21042012.tsv", "r")            # Open file with neutral words
+read_neutral = open("GermanPolarityClues-Neutral-umlaute.tsv", "r")             # Open file with neutral words
 neu = {}                                                                        # Building neutral dictionary
 for n in read_neutral:                                                          # Adding words to neutral dictionary
     n = n.strip().split('\t')
     neu[n[0]] = n[len(n)-1]
 
 ### Operations for positive opinions
-read_positive = open("GermanPolarityClues-Positive-21042012.tsv", "r")          # Open file with positive words
+read_positive = open("GermanPolarityClues-Positive-umlaute.tsv", "r")           # Open file with positive words
 pos = {}                                                                        # Building positive dictionary
 for p in read_positive:                                                         # Adding words to positive dictionary
     p = p.strip().split('\t')
     pos[p[0]] = p[len(p)-1]
 
 ### Operations for negative opinions
-read_negative = open("GermanPolarityClues-Negative-21042012.tsv", "r")          # Open file with negative words
+read_negative = open("GermanPolarityClues-Negative-umlaute.tsv", "r")           # Open file with negative words
 neg = {}                                                                        # Building negative dictionary
 for ne in read_negative:                                                        # Adding words to negative dictionary
     ne = ne.strip().split('\t')
