@@ -67,25 +67,25 @@ x = range(1,len(topics)+1)
 
 
 index = 0
-#fig = plt.figure()
-#ax1 = fig.add_subplot(211)
-#
-#for i in dict_pos.keys():
-#    ax1.plot(x, list(dict_pos[i]),color[2],linestyle = '-', marker = 'o',\
-#             markersize = 7.0)
-#    index += 1
-#    plt.legend(['Positive Opinion'])
-#    ax2 = fig.add_subplot(212)
-#    index = 0
+fig = plt.figure()
+ax1 = fig.add_subplot(211)
 
-#for i in dict_neg.keys():
-#    ax2.plot(x, list(dict_neg[i]),color[7],linestyle = '-', marker = 'o',\
-#             markersize = 7.0)
-#    index += 1
-#    my_xticks = topics
-#    plt.xticks(x, my_xticks, rotation=90)
-#    plt.legend(['Negative Opinion'])
-    #plt.show()
+for i in dict_pos.keys():
+    ax1.plot(x, list(dict_pos[i]),color[2],linestyle = '-', marker = 'o',\
+             markersize = 7.0)
+    index += 1
+    plt.legend(['Positive Opinion'])
+    ax2 = fig.add_subplot(212)
+    index = 0
+
+for i in dict_neg.keys():
+    ax2.plot(x, list(dict_neg[i]),color[7],linestyle = '-', marker = 'o',\
+             markersize = 7.0)
+    index += 1
+    my_xticks = topics
+    plt.xticks(x, my_xticks, rotation=90)
+    plt.legend(['Negative Opinion'])
+    plt.show()
 
 
 
