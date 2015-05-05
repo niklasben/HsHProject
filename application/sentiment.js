@@ -52,11 +52,9 @@ twitter.controller('myController', function($rootScope, $scope){
 		}
 	};
 	$scope.colorArray = ['#FF0000', '#0000FF', '#FFFF00', '#00FFFF'];
-	$scope.colorSelect = function() {
-		var colors = $scope.colorArray;
+	$scope.colorFunction = function() {
 		return function(d, i) {
-			console.log(colors[i] + "color");
-			return colors[i];
+			return color($scope.colorArray[i]);
 		};
 	}
 	$scope.$watch('graphData', function(){
@@ -90,6 +88,7 @@ twitter.controller('myController', function($rootScope, $scope){
 				var rneg = $scope.selectedData.values.negative / ($scope.selectedData.values.positive + $scope.selectedData.values.negative);
 				var data = 	{
 						key: $scope.selectedData.topic.value,
+						color: '#1f77b4',
 						values: [[ "positive", rpos ],[ "negative", rneg ]]
 					}
 				console.log(data);
@@ -111,6 +110,12 @@ twitter.controller('myController', function($rootScope, $scope){
 			});
 		}
 	};
+	$scope.xAxisTickFormatFunction = function () {
+		return function (d) {
+			return d;
+		}
+    };
+	
 	$scope.selectCountry = function(index){
 		$scope.selectedData.country = {
 			value: $scope.data[0].content[index].value,
@@ -131,10 +136,12 @@ twitter.controller('myController', function($rootScope, $scope){
 				var tindex = $scope.selectedData.topic.index;
 				$scope.selectedCountries[$scope.selectedData.country.value] = true;
 				$scope.selectedData.values = $scope.data[tindex].content[index].rates;
+				var rpos = $scope.selectedData.values.positive / ($scope.selectedData.values.positive + $scope.selectedData.values.negative);
+				var rneg = $scope.selectedData.values.negative / ($scope.selectedData.values.positive + $scope.selectedData.values.negative);
 				var data = 	{
 						key: $scope.selectedData.country.value,
-						color:'#FF0000',
-						values: [[ "positive", $scope.selectedData.values.positive ],[ "negative", $scope.selectedData.values.negative ]]
+						color: '#1f77b4',
+						values: [[ "positive",  rpos ],[  "negative",  rneg ]]
 					}
 				console.log(data);
 				$scope.selectedGraphs.push(data);

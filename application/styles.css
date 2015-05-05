@@ -11,3 +11,22 @@
 .simple-list-selected{
 	background-color: #eee !important;
 }
+.graph-header{
+	text-align:center;
+	margin:10px;
+}
+.graph-header span{
+	font-size:2em;
+}
+.navi-menu{
+	margin:20px;
+}
+.navi-menu a{
+	margin: 0px 10px;
+	border:1px solid #ddd;
+	padding:4px;
+	font-size:1.2em;
+	border-radius: 3px;
+	background-color:#eee;
+}
+	

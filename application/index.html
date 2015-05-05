@@ -24,11 +24,10 @@
 				</div>
 				<div class="col-md-6">
 					<div style="margin:0px auto;width:100%;overflow:hidden;border:1px solid #bbb;border-radius:5px;clear:both;">
-						<div style="margin:20px;">
+						<div class="navi-menu">
 							<a href="" ng-if="view != ''" ng-click="selectView('')">Home</a>
 							<a href="" ng-if="selectedData.values && view == 'countries'" ng-click="selectView('topics')">Themenauswahl</a>
 							<a href="" ng-if="selectedData.values && view == 'topics'" ng-click="selectView('countries')">Länderauswahl</a>
-							<span style="float:right;"><big>{{selectedData.country.value}}</big></span>
 						</div>
 						<div style="clear:both;">
 							<div ng-if="view == ''" style="float:left;width:50%;padding:80px 0px;">
@@ -41,29 +40,35 @@
 									<a href="">Länder</a>
 								</span>
 							</div>
-							<div ng-if="view == 'topics'" style="float:left;width:50%;padding:80px 0px;">
+							<div ng-if="view == 'topics'" style="float:left;width:35%;padding:80px 0px;">
 								<ul class="simple-list">
 									<li ng-repeat="d in data" ng-class="{'simple-list-selected': selectedTopics[d.value]}"><a href="" ng-click="selectTopic($index)"><span style="margin:0px 5px;">{{d.value}}</span></a></li>
 								</ul>
 							</div>
-							<div ng-if="view == 'countries'" style="float:left;width:50%;padding:80px 0px;">
+							<div ng-if="view == 'countries'" style="float:left;width:35%;padding:80px 0px;">
 								<ul class="simple-list">
 									<li ng-repeat="c in countries" ng-class="{ 'simple-list-selected': selectedCountries[c]}"><a href="" ng-click="selectCountry($index)"><span style="margin:0px 5px;">{{c}}</span></a></li>
 								</ul>
 							</div>
-							<div ng-if="graphData.length" style="float:left;width:50%;padding:80px 0px;">
+							<div ng-if="graphData.length" style="float:left;width:65%;padding:80px 0px;">
+								<div class="graph-header" style="">
+									<span ng-if="view == 'topics' && selectedData.country">{{selectedData.country.value}}</span>
+									<span ng-if="view == 'countries' && selectedData.topic">{{selectedData.topic.value}}</span>
+								</div>
 								<nvd3-multi-bar-horizontal-chart
 									data="graphData"
 									id="graphID"
 									width="500"
 									height="350"
-									xAxis = "true"
-									xAxisTickFormat="xAxisTickFormatFunction()"
+									showyAxis = "true"
+									color="colorFunction()"
+									yaxislabel="percentage of non-neutral tweets"
 									yAxisTickFormat="yAxisTickFormatFunction()"
 									showLegend="true"
-									showValues="true"
+									showValues="false"
 									showControls="true"
-									grouped="true">
+									grouped="true"
+									forcey="[0,1]">
 										<svg></svg>
 								</nvd3-multi-bar-horizontal-chart>
 							</div>
