@@ -2,8 +2,12 @@
 	list-style-type:none;
 }
 .simple-list li{
-	background-color: #eee;
+	background-color: #fff;
 	border-radius:3px;
+	border: 1px solid #ddd;
 	margin: 4px 0px;
 	padding: 4px;
+}
+.simple-list-selected{
+	background-color: #eee !important;
 }
