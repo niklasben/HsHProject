@@ -3,12 +3,12 @@
 	<head>
 		<meta charset="utf8">
 		<title>Sympathie-Tool</title>
-		<link href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css" rel="stylesheet" />
+		<link href="lib/bootstrap.min.css" rel="stylesheet" />
 		<script src="lib/angular.min.js"></script>
 		<script src="lib/ui-bootstrap-tpls-0.12.1.min.js"></script>
 		<script src="lib/d3.min.js"></script>
-		<script src="lib/nv.d3.min.js"></script>
-		<script src="lib/angularjs-nvd3-directives.min.js"></script>
+		<script src="lib/nv.d3.js"></script>
+		<script src="lib/angularjs-nvd3-directives.js"></script>
 		<link href="styles.css" rel="stylesheet" />
 		<link href="lib/nv.d3.min.css" rel="stylesheet" />
 		<script src="sentiment.js"></script>
@@ -16,61 +16,108 @@
 	<body ng-controller="myController">
 		<header>
 		</header>
-		<div class="main" style="width:100%">
+		<div class="main" style="width:100%;margin-top:50px;">
 			<div class="row">
-				<div style="height:200px;">
-				</div>
 				<div class="col-md-3">
 				</div>
 				<div class="col-md-6">
-					<div style="margin:0px auto;width:100%;overflow:hidden;border:1px solid #bbb;border-radius:5px;clear:both;">
-						<div class="navi-menu">
+					<div class="header-logo" ng-click="selectView('')">
+						<img style="width:300px;margin-bottom:15px;" src="img/logo.png" />
+					</div>
+					<div class="content">
+						<div ng-if="view != ''" class="navi-menu">
 							<a href="" ng-if="view != ''" ng-click="selectView('')">Home</a>
-							<a href="" ng-if="selectedData.values && view == 'countries'" ng-click="selectView('topics')">Themenauswahl</a>
-							<a href="" ng-if="selectedData.values && view == 'topics'" ng-click="selectView('countries')">Länderauswahl</a>
+							<a href="" ng-if="selectedData.topic && view == 'countries'" ng-click="selectView('topics')">Themenauswahl</a>
+							<a href="" ng-if="selectedData.country && view == 'topics'" ng-click="selectView('countries')">Länderauswahl</a>
+
+						</div>
+						<div ng-if="view == ''" style="padding:40px;font-size:1.3em;clear:both;">
+							<p>
+								<b>Willkommen bei GeTwitter!</b><br>
+							</p>
+							<p>
+							<b>Was sagt Deutschland über seine europäischen Nachbarn? Wir haben die Antwort!</b><br>
+							</p>
+							<span>Wir haben tausende von Tweets gesammelt und analysiert. Wählen Sie unten Länder  oder Themen, welche Sie interessieren und erfahren Sie die Meinung der Deutschen Twitter-User.</span>
+
 						</div>
 						<div style="clear:both;">
-							<div ng-if="view == ''" style="float:left;width:50%;padding:80px 0px;">
-								<span style="width:250px;font-size:4em;margin:0px 100px;border:1px solid #ddd;border-radius:4px;padding:10px;clear:both;" ng-click="selectView('topics')">
-									<a href="">Themen</a>
+							<div ng-if="view == ''" class="main-buttons">
+								<span class="view-select-button" ng-click="selectView('topics')">
+									<img  style="height:200px;" src="img/topics.png" />
+									<div style="text-align:center;margin:0px 10px;">
+										Themen
+									</div>
 								</span>
 							</div>
-							<div ng-if="view == ''" style="float:left;width:50%;padding:80px 0px;">
-								<span style="width:250px;font-size:4em;margin:0px 100px;border:1px solid #ddd;border-radius:4px;padding:10px;clear:both;" ng-click="selectView('countries')">
-									<a href="">Länder</a>
+							<div ng-if="view == ''" class="main-buttons">
+								<span class="view-select-button" ng-click="selectView('countries')">
+									<img  style="height:200px;" src="img/countries.png" />
+									<div style="text-align:center;">
+										Länder
+									</div>
 								</span>
 							</div>
-							<div ng-if="view == 'topics'" style="float:left;width:35%;padding:80px 0px;">
+							<div ng-if="view == 'topics'" class="list-container">
+								<p style="padding-left:40px;font-size:1.2em;">
+									<span ng-if="!selectedData.country">Wählen Sie ein Thema:</span>
+									<span ng-if="selectedData.country">Vorhandene Themen für <span style="font-weight:bold;">{{selectedData.country.value}}</span>:</span>
+								</p>
 								<ul class="simple-list">
-									<li ng-repeat="d in data" ng-class="{'simple-list-selected': selectedTopics[d.value]}"><a href="" ng-click="selectTopic($index)"><span style="margin:0px 5px;">{{d.value}}</span></a></li>
+									<li ng-repeat="d in data" ng-class="{'simple-list-selected': selectedTopics[d.value]}" style="clear:both;overflow:hidden;" ng-click="selectTopic($index)">
+										<span style="float:left;">
+											<a href="" style="clear:both;">
+												<span style="margin:0px 5px;">{{d.value}}</span>
+											</a>
+										</span>
+										<span ng-if="selectedTopics[d.value]" class="list-checked"><span class="glyphicon glyphicon-ok"></span>
+									</li>
 								</ul>
 							</div>
-							<div ng-if="view == 'countries'" style="float:left;width:35%;padding:80px 0px;">
+							<div ng-if="view == 'countries'" class="list-container">
+								<p style="padding-left:40px;font-size:1.2em;">
+									<span ng-if="!selectedData.topic">Wählen Sie ein Land:</span>
+									<span ng-if="selectedData.topic">Vorhandene Länder-Statistiken zum Thema <span style="font-weight:bold;">{{selectedData.topic.value}}</span>:</span>
+								</p>
 								<ul class="simple-list">
-									<li ng-repeat="c in countries" ng-class="{ 'simple-list-selected': selectedCountries[c]}"><a href="" ng-click="selectCountry($index)"><span style="margin:0px 5px;">{{c}}</span></a></li>
+									<li ng-repeat="c in countries" ng-class="{ 'simple-list-selected': selectedCountries[c]}" style="clear:both;overflow:hidden;" ng-click="selectCountry($index)">
+										<span style="float:left;">
+											<a href="" style="clear:both;">
+												<span style="margin:0px 5px;">{{c}}</span>
+											</a>
+										</span>
+										<span ng-if="selectedCountries[c]" class="list-checked"><span class="glyphicon glyphicon-ok"></span>
+									</li>
 								</ul>
 							</div>
-							<div ng-if="graphData.length" style="float:left;width:65%;padding:80px 0px;">
-								<div class="graph-header" style="">
-									<span ng-if="view == 'topics' && selectedData.country">{{selectedData.country.value}}</span>
-									<span ng-if="view == 'countries' && selectedData.topic">{{selectedData.topic.value}}</span>
+							<div class="graph-container">
+								<div class="graph-header">
+									<div ng-if="view == 'topics' && selectedData.country" style="margin-bottom:6px;">
+										<span><img class="icon-small" src="img/countries.png" />{{selectedData.country.value}}</span>
+									</div>
+									<div ng-if="view == 'countries' && selectedData.topic" style="margin-bottom:6px;"> 
+										<span><img class="icon-small" src="img/topics.png" />{{selectedData.topic.value}}</span>
+									</div>
 								</div>
-								<nvd3-multi-bar-horizontal-chart
-									data="graphData"
-									id="graphID"
-									width="500"
-									height="350"
-									showyAxis = "true"
-									color="colorFunction()"
-									yaxislabel="percentage of non-neutral tweets"
-									yAxisTickFormat="yAxisTickFormatFunction()"
-									showLegend="true"
-									showValues="false"
-									showControls="true"
-									grouped="true"
-									forcey="[0,1]">
-										<svg></svg>
-								</nvd3-multi-bar-horizontal-chart>
+								<div class="icon">
+									<img ng-if="view == 'countries' && !selectedData.topic" src="img/countries.png" />
+									<img ng-if="view == 'topics' && !selectedData.country" src="img/topics.png" />
+								</div>
+								<div ng-if="graphData.length" style="overflow:hidden;">
+									<nvd3-multi-bar-horizontal-chart
+										data="graphData"
+										id="graphID"
+										width="500"
+										height="350"
+										showValues="true"
+										showYAxis = "true"
+										showXAxis = "true"
+										yaxislabel = "Anteil an nicht-neutralen Tweets (in %)"
+										showLegend="true"
+										forceY="[0,100]">
+											<svg></svg>
+									</nvd3-multi-bar-horizontal-chart>
+								</div>
 							</div>
 						</div>
 					</div>

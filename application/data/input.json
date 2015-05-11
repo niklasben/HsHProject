@@ -98,15 +98,6 @@
 		"value":"Beruf/Karriere",
 		"content":[
 			{
-				"value":"Frankreich",
-				"rates":
-					{
-						"positive": 70,
-						"neutral": 400,
-						"negative": 24
-					}
-			},
-			{
 				"value":"Spanien",
 				"rates":
 					{

@@ -1,25 +1,53 @@
+
+.header-logo{
+	cursor:pointer;
+	margin-left:30px;
+}
+.content{
+	overflow:hidden;
+	border-radius:5px;
+	clear:both;
+	border:2px solid #ddd;
+}
 .simple-list{
 	list-style-type:none;
 }
 .simple-list li{
+	cursor:pointer;
 	background-color: #fff;
 	border-radius:3px;
 	border: 1px solid #ddd;
 	margin: 4px 0px;
 	padding: 4px;
 }
+.simple-list li:hover{
+	border:1px solid #428bca;
+	box-shadow: 3px 3px 4px #428bca;
+	
+}
+.simple-list li span a:hover{
+	text-decoration:none;
+}
 .simple-list-selected{
 	background-color: #eee !important;
 }
+.list-checked{
+	color:#00CC00;
+	margin-right:5px;
+	float:right;
+}
 .graph-header{
+
+	width:100%;
 	text-align:center;
-	margin:10px;
 }
 .graph-header span{
 	font-size:2em;
 }
 .navi-menu{
-	margin:20px;
+	margin:30px;
+	display:inline-block;
+	float:left;
 }
 .navi-menu a{
 	margin: 0px 10px;
@@ -29,4 +57,55 @@
 	border-radius: 3px;
 	background-color:#eee;
 }
-	
+.navi-menu a:hover{
+	text-decoration:none;
+	border:1px solid #428bca;
+	box-shadow: 3px 3px 4px #428bca;
+}
+.icon{
+	width:100%;
+	text-align:center;
+}
+.icon-small{
+	width:30px;
+	vertical-align:text-top;
+	margin-right:5px;
+}
+.view-select-button{
+	overflow:hidden;
+	width:300px;
+	font-size:4em;
+	border-radius:5px;
+	padding:10px;
+	display:inline-block;
+	text-align:center;
+	cursor:pointer;
+	background-color:#fff;
+	border:2px solid #ccc;
+	box-shadow: 2px 2px 4px;
+}
+.view-select-button:hover{
+	border:2px solid #428bca;
+	box-shadow: 3px 3px 4px #428bca;
+}
+.list-container{
+	float:left;
+	width:35%;
+	padding:0px;
+	margin-bottom:20px;
+}
+.graph-container{
+	float:left;
+	width:65%;
+	padding:0px 20px;
+}
+.main-buttons{
+	float:left;
+	width:50%;
+	padding:0px;
+	text-align:center;
+	margin-bottom:40px;
+}
+.tick line{
+	opacity: 0 !important;
+}

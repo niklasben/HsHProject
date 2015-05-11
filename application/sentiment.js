@@ -2,6 +2,7 @@ var twitter = angular.module('myApp', ['ui.bootstrap','nvd3ChartDirectives']);
 
 twitter.controller('myController', function($rootScope, $scope){
 	$scope.view = "";
+	$scope.graphID = "active";
 	$scope.selectView = function(view){
 		$scope.view = view;
 		$scope.graphData = [];
@@ -51,12 +52,7 @@ twitter.controller('myController', function($rootScope, $scope){
 			});
 		}
 	};
-	$scope.colorArray = ['#FF0000', '#0000FF', '#FFFF00', '#00FFFF'];
-	$scope.colorFunction = function() {
-		return function(d, i) {
-			return color($scope.colorArray[i]);
-		};
-	}
+
 	$scope.$watch('graphData', function(){
 	},true);
 	$scope.graphData = [];
@@ -84,14 +80,12 @@ twitter.controller('myController', function($rootScope, $scope){
 				var cindex = $scope.selectedData.country.index;
 				$scope.selectedTopics[$scope.selectedData.topic.value] = true;
 				$scope.selectedData.values = $scope.data[index].content[cindex].rates;
-				var rpos = $scope.selectedData.values.positive / ($scope.selectedData.values.positive + $scope.selectedData.values.negative);
-				var rneg = $scope.selectedData.values.negative / ($scope.selectedData.values.positive + $scope.selectedData.values.negative);
+				var rpos = $scope.selectedData.values.positive / ($scope.selectedData.values.positive + $scope.selectedData.values.negative) * 100;
+				var rneg = $scope.selectedData.values.negative / ($scope.selectedData.values.positive + $scope.selectedData.values.negative) * 100;
 				var data = 	{
 						key: $scope.selectedData.topic.value,
-						color: '#1f77b4',
-						values: [[ "positive", rpos ],[ "negative", rneg ]]
+						values: [[ "positiv", rpos ],[ "negativ", rneg ]]
 					}
-				console.log(data);
 				$scope.selectedGraphs.push(data);
 				$scope.graphData = angular.copy($scope.selectedGraphs);
 			}else{
@@ -105,20 +99,36 @@ twitter.controller('myController', function($rootScope, $scope){
 	}
 	$scope.showCountries = function(){
 		if(!$scope.countries.length){
-			angular.forEach($scope.data[0].content, function(c){
-				$scope.countries.push(c.value);
+			var dupe = 0;
+			angular.forEach($scope.data, function(data){
+
+				angular.forEach(data.content, function(c) {
+					angular.forEach($scope.countries, function(v){
+						if(v == c.value){
+							dupe = 1;
+						}
+					});
+					if(dupe == 0){
+						$scope.countries.push(c.value);
+					}
+				});
+			});
+		}
+		if($scope.countries.length && $scope.selectedData.topic){
+			$scope.countries = [];
+			angular.forEach($scope.data, function(d){
+				if(d.value == $scope.selectedData.topic.value){
+					angular.forEach(d.content, function(c){
+						$scope.countries.push(c.value);
+					})
+				}
 			});
 		}
 	};
-	$scope.xAxisTickFormatFunction = function () {
-		return function (d) {
-			return d;
-		}
-    };
 	
 	$scope.selectCountry = function(index){
 		$scope.selectedData.country = {
-			value: $scope.data[0].content[index].value,
+			value: $scope.countries[index],
 			index: index
 		}
 		var duplicate = false;
@@ -136,14 +146,12 @@ twitter.controller('myController', function($rootScope, $scope){
 				var tindex = $scope.selectedData.topic.index;
 				$scope.selectedCountries[$scope.selectedData.country.value] = true;
 				$scope.selectedData.values = $scope.data[tindex].content[index].rates;
-				var rpos = $scope.selectedData.values.positive / ($scope.selectedData.values.positive + $scope.selectedData.values.negative);
-				var rneg = $scope.selectedData.values.negative / ($scope.selectedData.values.positive + $scope.selectedData.values.negative);
+				var rpos = $scope.selectedData.values.positive / ($scope.selectedData.values.positive + $scope.selectedData.values.negative) * 100;
+				var rneg = $scope.selectedData.values.negative / ($scope.selectedData.values.positive + $scope.selectedData.values.negative) * 100;
 				var data = 	{
 						key: $scope.selectedData.country.value,
-						color: '#1f77b4',
-						values: [[ "positive",  rpos ],[  "negative",  rneg ]]
+						values: [[ "positiv",  rpos ],[  "negativ",  rneg ]]
 					}
-				console.log(data);
 				$scope.selectedGraphs.push(data);
 				$scope.graphData = angular.copy($scope.selectedGraphs);
 			}else{
