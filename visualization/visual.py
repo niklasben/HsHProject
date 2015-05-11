@@ -6,18 +6,12 @@ Created on Tue Apr 28 09:53:01 2015
 """
 
 import matplotlib.pyplot as plt
-import numpy as np
-
+from scipy.stats import uniform
 
 readfile = open("../SentimentAnalysis/sentiment_analysed_tweets.txt", "r")
-#writefile = open("data_visual.txt", "w")
+ranking_file = open("data_ranking.txt", "w")
 
 ### Arrays
-color = ['red','blue','orange','black','gray','green','lightblue','brown',
-'pink', 'beige', 'buff', 'chartreuse', 'citrine', 'cream', 'darkgoldenrod',
-'applegreen', 'artichoke','amber', 'apricot','arylideyellow', 'aureolin', 
-'asparagus', 'avocado', 'brightgreen', 'cal', 'polygreen']
-
 countries = []
 topics = []
 
@@ -54,99 +48,54 @@ for line in readfile:
         vector = dict_neg[line[2]]
         vector[topics.index(line[1])] += 1
         dict_neg[line[2]] = vector
-    elif int(line[0]) == 5 or int(line[0]) != 0:
+    if int(line[0]) == 5 or int(line[0]) == 10:
         vector = dict_all[line[2]]
         vector[topics.index(line[1])] += 1
         dict_all[line[2]] = vector
 
-### Plotting        
+#print dict_pos
+#print dict_neg
+#print dict_all
+
+### Table
+#ranking_file.write('{0}\t{1}\n'.format('Countries','\t'.join(\
+#[str(j) for j in topics])))
+#for i in dict_all.keys():
+#    ranking_file.write('{0}\t{1}\n'.format(i,'\t'.join(\
+#    [str(j) for j in dict_all[i]])))
+
+#### Plotting        
 x = range(1,len(topics)+1)
-#y = range(1,len(countries)+1)
-#print y
 
-
+color = ['red','blue','orange','black','gray','green','lightblue','brown',
+'pink', 'beige', 'red','blue','orange','black','gray','green','lightblue','brown',
+'pink', 'beige', 'red','blue','orange','black','gray','green','lightblue','brown',
+'pink', 'beige']
 
 index = 0
 fig = plt.figure()
 ax1 = fig.add_subplot(211)
 
 for i in dict_pos.keys():
-    ax1.plot(x, list(dict_pos[i]),color[2],linestyle = '-', marker = 'o',\
-             markersize = 7.0)
+    ax1.plot(x, uniform.cdf(list(dict_pos[i]), loc = 0, scale = \
+    max(list(dict_pos[i]))), color[index], linestyle = '-', marker = 'o',\
+             markersize = 6.0)
     index += 1
-    plt.legend(['Positive Opinion'])
-    ax2 = fig.add_subplot(212)
-    index = 0
+plt.legend(title = 'Positive Opinion')
+ax2 = fig.add_subplot(212)
+index = 0
 
 for i in dict_neg.keys():
-    ax2.plot(x, list(dict_neg[i]),color[7],linestyle = '-', marker = 'o',\
-             markersize = 7.0)
+    ax2.plot(x, uniform.cdf(list(dict_neg[i]), loc = 0, scale = \
+    max(list(dict_neg[i]))), color[index], linestyle = '-', marker = 'o',\
+             markersize = 6.0)
     index += 1
-    my_xticks = topics
-    plt.xticks(x, my_xticks, rotation=90)
-    plt.legend(['Negative Opinion'])
-    plt.show()
+my_xticks = topics
+plt.xticks(x, my_xticks, rotation=90)
+plt.legend(['Negative Opinion'])
+ax1.legend(dict_pos.keys(), loc = 'center left', bbox_to_anchor = (1.1, -0.7), fancybox = True, shadow = True)
+plt.show()
 
-
-
-
-
-
-
-
-
-
-
-
-
-#####################################################################
-
-
-#readfile = open("../SentimentAnalysis/sentiment_analysed_tweets.txt", "r")
-#
-#for line in readfile:
-#    line = line.strip().split('\t')
-#    countries[line[2]].set
-#    topics.index(line[2])
-
-
-
-
-
-
-
-
-
-
-
-#for i in countries:
-#    for u in topics:
-#        both.append((i, u))
-#        print both
-
-
-
-#print d
-
-
-
-#countries = set(countries)
-#topics = set(topics)
-
-
-#vector = []
-#
-#readfile = open("../SentimentAnalysis/sentiment_analysed_tweets.txt", "r")
-#
-#
-#
-#for line in readfile:
-#    line = line.strip().replace("+", "10").replace("-", "5").split('\t')
-#    if line[1] in topics and line[2] in countries[len(countries)-1]:
-#        if int(line[0]) != 0:
-#            vector.append(line[0])
-
-#print vector
 
 readfile.close()
-#writefile.close()
+ranking_file.close()
