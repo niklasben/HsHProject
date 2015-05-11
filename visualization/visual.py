@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 from scipy.stats import uniform
 
 readfile = open("../SentimentAnalysis/sentiment_analysed_tweets.txt", "r")
-ranking_file = open("data_ranking.txt", "w")
+#ranking_file = open("data_ranking.txt", "w")
 
 ### Arrays
 countries = []
@@ -67,10 +67,10 @@ for line in readfile:
 #### Plotting        
 x = range(1,len(topics)+1)
 
-color = ['red','blue','orange','black','gray','green','lightblue','brown',
-'pink', 'beige', 'red','blue','orange','black','gray','green','lightblue','brown',
-'pink', 'beige', 'red','blue','orange','black','gray','green','lightblue','brown',
-'pink', 'beige']
+color = ['#FF0000','#0000FF','#FFA500','#000000','#BEBEBE','#00FF00','#8470FF',
+'#A52A2A', '#FFC0CB', '#F5F5DC', '#EEDFCC', '#e6e6fa', '#00bfff', '#00ff7f',
+'#ffd700', '#cd5c5c', '#ff6347', '#d8bfd8', '#556b2f', '#ffe4e1', '#e0eee0',
+'#2f4f4f', '#00ffff', '#da70d6']
 
 index = 0
 fig = plt.figure()
@@ -98,4 +98,4 @@ plt.show()
 
 
 readfile.close()
-ranking_file.close()
+#ranking_file.close()
