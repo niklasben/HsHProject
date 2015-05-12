@@ -68,9 +68,9 @@ for line in readfile:
 x = range(1,len(topics)+1)
 
 color = ['#FF0000','#0000FF','#FFA500','#000000','#BEBEBE','#00FF00','#8470FF',
-'#A52A2A', '#FFC0CB', '#F5F5DC', '#EEDFCC', '#e6e6fa', '#00bfff', '#00ff7f',
-'#ffd700', '#cd5c5c', '#ff6347', '#d8bfd8', '#556b2f', '#ffe4e1', '#e0eee0',
-'#2f4f4f', '#00ffff', '#da70d6']
+'#A52A2A', '#FFC0CB', '#F5F5DC', '#EEDFCC', '#E6E6FA', '#00BFFF', '#00FF7F',
+'#FFD700', '#CD5C5C', '#FF6347', '#D8BFD8', '#556B2F', '#FFE4E1', '#E0EEE0',
+'#2F4F4F', '#CAFF70', '#DA70D6', '#8B4513']
 
 index = 0
 fig = plt.figure()
@@ -81,7 +81,7 @@ for i in dict_pos.keys():
     max(list(dict_pos[i]))), color[index], linestyle = '-', marker = 'o',\
              markersize = 6.0)
     index += 1
-plt.legend(title = 'Positive Opinion')
+plt.legend('Positive Opinion')
 ax2 = fig.add_subplot(212)
 index = 0
 
@@ -91,9 +91,10 @@ for i in dict_neg.keys():
              markersize = 6.0)
     index += 1
 my_xticks = topics
-plt.xticks(x, my_xticks, rotation=90)
+plt.xticks(x, my_xticks, rotation = 90)
 plt.legend(['Negative Opinion'])
-ax1.legend(dict_pos.keys(), loc = 'center left', bbox_to_anchor = (1.1, -0.7), fancybox = True, shadow = True)
+ax1.legend(dict_pos.keys(), loc = 'center left', bbox_to_anchor = (1.1, -0.7),\
+fancybox = True, shadow = True)
 plt.show()
 
 
