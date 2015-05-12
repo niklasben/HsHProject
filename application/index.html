@@ -38,7 +38,7 @@
 							<p>
 							<b>Was sagt Deutschland über seine europäischen Nachbarn? Wir haben die Antwort!</b><br>
 							</p>
-							<span>Wir haben tausende von Tweets gesammelt und analysiert. Wählen Sie unten Länder  oder Themen, welche Sie interessieren und erfahren Sie die Meinung der Deutschen Twitter-User.</span>
+							<span>Wir haben tausende von <a href="" popover-trigger="mouseenter" popover="Die auf 140 Zeichen beschränkten Nachrichten werden auch 'Tweets' genannt.">Tweets</a> gesammelt und analysiert. Wählen Sie unten Länder  oder Themen, welche Sie interessieren und erfahren Sie die Meinung der Deutschen Twitter-User.</span>
 
 						</div>
 						<div style="clear:both;">
@@ -64,13 +64,14 @@
 									<span ng-if="selectedData.country">Vorhandene Themen für <span style="font-weight:bold;">{{selectedData.country.value}}</span>:</span>
 								</p>
 								<ul class="simple-list">
-									<li ng-repeat="d in data" ng-class="{'simple-list-selected': selectedTopics[d.value]}" style="clear:both;overflow:hidden;" ng-click="selectTopic($index)">
+									<li ng-repeat="t in topics" ng-class="{'simple-list-selected': selectedTopics[t.name]}" style="clear:both;overflow:hidden;" ng-click="selectTopic($index)">
 										<span style="float:left;">
 											<a href="" style="clear:both;">
-												<span style="margin:0px 5px;">{{d.value}}</span>
+												<span style="margin:0px 5px;">{{t.name}}</span>
+												<span>({{t.tweets}} Tweets)</span>
 											</a>
 										</span>
-										<span ng-if="selectedTopics[d.value]" class="list-checked"><span class="glyphicon glyphicon-ok"></span>
+										<span ng-if="selectedTopics[t.name]" class="list-checked"><span class="glyphicon glyphicon-ok"></span>
 									</li>
 								</ul>
 							</div>
@@ -80,13 +81,14 @@
 									<span ng-if="selectedData.topic">Vorhandene Länder-Statistiken zum Thema <span style="font-weight:bold;">{{selectedData.topic.value}}</span>:</span>
 								</p>
 								<ul class="simple-list">
-									<li ng-repeat="c in countries" ng-class="{ 'simple-list-selected': selectedCountries[c]}" style="clear:both;overflow:hidden;" ng-click="selectCountry($index)">
+									<li ng-repeat="c in countries" ng-class="{ 'simple-list-selected': selectedCountries[c.name]}" style="clear:both;overflow:hidden;" ng-click="selectCountry($index)">
 										<span style="float:left;">
 											<a href="" style="clear:both;">
-												<span style="margin:0px 5px;">{{c}}</span>
+												<span style="margin:0px 5px;">{{c.name}}</span>
+												<span>({{c.tweets}} Tweets)</span> 
 											</a>
 										</span>
-										<span ng-if="selectedCountries[c]" class="list-checked"><span class="glyphicon glyphicon-ok"></span>
+										<span ng-if="selectedCountries[c.name]" class="list-checked"><span class="glyphicon glyphicon-ok"></span>
 									</li>
 								</ul>
 							</div>

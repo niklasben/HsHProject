@@ -28,6 +28,9 @@
 .simple-list li span a:hover{
 	text-decoration:none;
 }
+.simple-list li span a:focus{
+	text-decoration:none;
+}
 .simple-list-selected{
 	background-color: #eee !important;
 }
