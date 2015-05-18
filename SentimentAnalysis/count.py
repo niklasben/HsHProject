@@ -27,7 +27,8 @@ for ne in read_negative:                                                        
     neg[ne[0]] = ne[len(ne)-1]
 
 ### Tweetfile
-readfile = open("../labeling/dataset_labeled/currentfinallist.txt", "r")        # File with the labeled data
+readfile = open\
+("../labeling/dataset_labeled/theultimatefinalhyperdatasorted.txt", "r")        # File with the labeled data
 writefile = open("sentiment_analysed_tweets.txt", "w")                          # File for the ouput
 
 for line in readfile:                                                           # Looping through every line of readfile
