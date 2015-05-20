@@ -45,5 +45,5 @@ plt.hist(vec,bins = len(topic.keys()))
 plt.xlabel('Topics')            
 plt.ylabel('Frequency') 
 plt.show()
-plt.savefig('C:\StudentsProject\Topics.png')
+plt.savefig('Topics.png')
 '''

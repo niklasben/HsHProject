@@ -68,7 +68,7 @@ for i in dict_all.keys():
 color = ['#FF0000','#0000FF','#FFA500','#000000','#BEBEBE','#00FF00','#8470FF',
 '#A52A2A', '#FFC0CB', '#F5F5DC', '#EEDFCC', '#E6E6FA', '#00BFFF', '#00FF7F',
 '#FFD700', '#CD5C5C', '#FF6347', '#D8BFD8', '#556B2F', '#FFE4E1', '#E0EEE0',
-'#2F4F4F', '#CAFF70', '#DA70D6', '#8B4513']
+'#2F4F4F', '#CAFF70', '#DA70D6']
 #
 #index = 0
 #fig = plt.figure()
@@ -96,8 +96,7 @@ color = ['#FF0000','#0000FF','#FFA500','#000000','#BEBEBE','#00FF00','#8470FF',
 #plt.show()
 
 ### Histogram
-file_hist = open("data_ranking.txt", "w")
-
+file_hist = open("data_ranking.txt", "r")
 
 
 hist = []
@@ -152,5 +151,5 @@ P.legend()
 
 
 readfile.close()
-#ranking_file.close()
-#file_hist.close()
+ranking_file.close()
+file_hist.close()
