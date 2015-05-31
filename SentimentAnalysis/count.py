@@ -28,7 +28,7 @@ for ne in read_negative:                                                        
 
 ### Tweetfile
 readfile = open\
-("../labeling/dataset_labeled/theultimatefinalhyperdatasorted.txt", "r")        # File with the labeled data
+("../labeling/dataset_labeled/final.txt", "r")                                  # File with the labeled data
 writefile = open("sentiment_analysed_tweets.txt", "w")                          # File for the ouput
 
 for line in readfile:                                                           # Looping through every line of readfile
@@ -61,6 +61,7 @@ for line in readfile:                                                           
         writefile.write('0\t' + line)                                           # Label the line as neutral
     elif count_negative == 0 and count_positive == 0:                           # If the number of negative and positive tokens is zero in total
         writefile.write('undef\t' + line)                                       # Label the line as neutral
+
 readfile.close()                                                                # Closes opened file readfile
 read_neutral.close()                                                            # Closes opened file read_neutral
 read_positive.close()                                                           # Closes opened file read_positive
