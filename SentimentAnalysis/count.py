@@ -27,8 +27,7 @@ for ne in read_negative:                                                        
     neg[ne[0]] = ne[len(ne)-1]
 
 ### Tweetfile
-readfile = open\
-("../labeling/dataset_labeled/final.txt", "r")                                  # File with the labeled data
+readfile = open("../labeling/dataset_labeled/finalOMEGAsorted.txt", "r")        # File with the labeled data
 writefile = open("sentiment_analysed_tweets.txt", "w")                          # File for the ouput
 
 for line in readfile:                                                           # Looping through every line of readfile
@@ -44,7 +43,7 @@ for line in readfile:                                                           
         if token_tweet[i] in neu.keys():
             opinion_neu = neu[token_tweet[i]]                                   # This way you can get the opinion of token 'i' if neutral
             count_neutral = count_neutral + 1
-            #print "neutral " + str(count_neutral)                              # For TestingPurposes Only
+            #print "neutral " + str(count_neutral)                              # For Testing Purposes Only
         elif token_tweet[i] in pos.keys():
             opinion_pos = pos[token_tweet[i]]                                   # This way you can get the opinion of token 'i' if positive
             count_positive = count_positive + 1
