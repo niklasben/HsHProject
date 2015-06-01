@@ -75,7 +75,7 @@ ranking_file_neg.write('{0}\t{1}\n'.format('Countries','\t'.join(\
 [str(j) for j in topics])))
 for i in dict_neg.keys():
     ranking_file_neg.write('{0}\t{1}\n'.format(i,'\t'.join(\
-    [str(j) for j in dict_pos[i]])))
+    [str(j) for j in dict_neg[i]])))
 
 ### Plotting        
 #x = range(1,len(topics)+1)
