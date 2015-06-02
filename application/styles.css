@@ -46,6 +46,10 @@
 }
 .graph-header span{
 	font-size:2em;
+	background-color: #eee;
+	padding: 5px 5px;
+	border:1px solid #ddd;
+	border-radius:4px;
 }
 .navi-menu{
 	margin:30px;
@@ -69,6 +73,9 @@
 	width:100%;
 	text-align:center;
 }
+.icon-big{
+	width:100px;
+}
 .icon-small{
 	width:30px;
 	vertical-align:text-top;
@@ -76,7 +83,6 @@
 }
 .view-select-button{
 	overflow:hidden;
-	width:300px;
 	font-size:4em;
 	border-radius:5px;
 	padding:10px;
@@ -91,6 +97,23 @@
 	border:2px solid #428bca;
 	box-shadow: 3px 3px 4px #428bca;
 }
+.view-select-img{
+	height:200px;
+	text-align:center;
+}
+.img-helper{
+	display:inline-block;
+	height:100%;
+	vertical-align:middle;
+}
+.view-select-img img{
+	width:200px;
+	vertical-align:middle;
+	margin-right:15px;
+}
+.view-select-label{
+	padding:7px;
+}
 .list-container{
 	float:left;
 	width:35%;
@@ -101,6 +124,10 @@
 	float:left;
 	width:65%;
 	padding:0px 20px;
+}
+.select-container{
+	float:left;
+	width:65%;
 }
 .main-buttons{
 	float:left;

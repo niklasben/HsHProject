@@ -43,20 +43,26 @@
 						</div>
 						<div style="clear:both;">
 							<div ng-if="view == ''" class="main-buttons">
-								<span class="view-select-button" ng-click="selectView('topics')">
-									<img  style="height:200px;" src="img/topics.png" />
-									<div style="text-align:center;margin:0px 10px;">
-										Themen
+								<div class="view-select-button" ng-click="selectView('topics')">
+									<div class="view-select-img">
+										<span class="img-helper"></span>
+										<img src="img/topics.png" />
 									</div>
-								</span>
+									<div class="view-select-label">
+										<span>Themen</span>
+									</div>
+								</div>
 							</div>
 							<div ng-if="view == ''" class="main-buttons">
-								<span class="view-select-button" ng-click="selectView('countries')">
-									<img  style="height:200px;" src="img/countries.png" />
-									<div style="text-align:center;">
-										Länder
+								<div class="view-select-button" ng-click="selectView('countries')">
+									<div class="view-select-img">
+										<span class="img-helper"></span>
+										<img src="img/countries.png" />
 									</div>
-								</span>
+									<div class="view-select-label">
+										<span>Länder</span>
+									</div>
+								</div>
 							</div>
 							<div ng-if="view == 'topics'" class="list-container">
 								<p style="padding-left:40px;font-size:1.2em;">
@@ -64,7 +70,7 @@
 									<span ng-if="selectedData.country">Vorhandene Themen für <span style="font-weight:bold;">{{selectedData.country.value}}</span>:</span>
 								</p>
 								<ul class="simple-list">
-									<li ng-repeat="t in topics" ng-class="{'simple-list-selected': selectedTopics[t.name]}" style="clear:both;overflow:hidden;" ng-click="selectTopic($index)">
+									<li ng-repeat="t in topics | orderBy : '-tweets' " ng-class="{'simple-list-selected': selectedTopics[t.name]}" style="clear:both;overflow:hidden;" ng-click="selectTopic(t.index)">
 										<span style="float:left;">
 											<a href="" style="clear:both;">
 												<span style="margin:0px 5px;">{{t.name}}</span>
@@ -75,13 +81,39 @@
 									</li>
 								</ul>
 							</div>
+							<div ng-if="view == 'topics' && !selectedData.country" class="select-container">
+								<nvd3-multi-bar-horizontal-chart
+									data="listData"
+									id="tlistID"
+									width="400"
+									height="500"
+									showValues="true"
+									showYAxis = "true"
+									showXAxis = "true"
+									showLegend="false">
+										<svg></svg>
+								</nvd3-multi-bar-horizontal-chart>
+							</div>
+							<div ng-if="view == 'countries' && !selectedData.topic" class="select-container">
+								<nvd3-multi-bar-horizontal-chart
+									data="listData"
+									id="clistID"
+									width="400"
+									height="500"
+									showValues="true"
+									showYAxis = "true"
+									showXAxis = "true"
+									showLegend="false">
+										<svg></svg>
+								</nvd3-multi-bar-horizontal-chart>
+							</div>
 							<div ng-if="view == 'countries'" class="list-container">
 								<p style="padding-left:40px;font-size:1.2em;">
 									<span ng-if="!selectedData.topic">Wählen Sie ein Land:</span>
 									<span ng-if="selectedData.topic">Vorhandene Länder-Statistiken zum Thema <span style="font-weight:bold;">{{selectedData.topic.value}}</span>:</span>
 								</p>
 								<ul class="simple-list">
-									<li ng-repeat="c in countries" ng-class="{ 'simple-list-selected': selectedCountries[c.name]}" style="clear:both;overflow:hidden;" ng-click="selectCountry($index)">
+									<li ng-repeat="c in countries | orderBy : '-tweets' " ng-class="{ 'simple-list-selected': selectedCountries[c.name]}" style="clear:both;overflow:hidden;" ng-click="selectCountry(c.index)">
 										<span style="float:left;">
 											<a href="" style="clear:both;">
 												<span style="margin:0px 5px;">{{c.name}}</span>
@@ -95,14 +127,14 @@
 							<div class="graph-container">
 								<div class="graph-header">
 									<div ng-if="view == 'topics' && selectedData.country" style="margin-bottom:6px;">
-										<span><img class="icon-small" src="img/countries.png" />{{selectedData.country.value}}</span>
+										<span ng-if="selectedData.country.value"><img class="icon-small" src="img/flags/{{selectedData.country.value}}.png" />{{selectedData.country.value}}</span>
 									</div>
 									<div ng-if="view == 'countries' && selectedData.topic" style="margin-bottom:6px;"> 
 										<span><img class="icon-small" src="img/topics.png" />{{selectedData.topic.value}}</span>
 									</div>
 								</div>
 								<div class="icon">
-									<img ng-if="view == 'countries' && !selectedData.topic" src="img/countries.png" />
+									<img class="icon-big" ng-if="view == 'countries' && !selectedData.topic" src="img/countries.png" />
 									<img ng-if="view == 'topics' && !selectedData.country" src="img/topics.png" />
 								</div>
 								<div ng-if="graphData.length" style="overflow:hidden;">
@@ -110,7 +142,7 @@
 										data="graphData"
 										id="graphID"
 										width="500"
-										height="350"
+										height="500"
 										showValues="true"
 										showYAxis = "true"
 										showXAxis = "true"

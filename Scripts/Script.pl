@@ -14,7 +14,7 @@ my @countries = (
 	'Frankreich',
 	'Spanien',
 	'England',
-	'Grossbrittanien',
+	'Grossbritannien',
 	'Nordirland',
 	'Schottland',
 	'UK',

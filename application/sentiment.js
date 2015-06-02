@@ -3,12 +3,15 @@ var twitter = angular.module('myApp', ['ui.bootstrap','nvd3ChartDirectives']);
 twitter.controller('myController', function($rootScope, $scope){
 	$scope.view = "";
 	$scope.graphID = "active";
+	$scope.tlistID = "topics";
+	$scope.clistID = "countries";
 	$scope.selectView = function(view){
 		$scope.view = view;
 		$scope.graphData = [];
 		$scope.selectedGraphs = [];
 		$scope.selectedCountries = [];
 		$scope.selectedTopics = [];
+		$scope.listData = [];
 		if(view == ''){
 			$scope.selectedData = {
 				topic: "",
@@ -49,23 +52,39 @@ twitter.controller('myController', function($rootScope, $scope){
 	};
 	$scope.showTopics = function(){
 		if(!$scope.topics.length){
+			var ind = 0;
 			angular.forEach($scope.data, function(d){
 				var sum = 0;
 				angular.forEach(d.content, function(c){
 					sum += c.rates.positive + c.rates.neutral + c.rates.negative;
 				})
-				$scope.topics.push({name: d.value, tweets: sum});
+				$scope.topics.push({name: d.value, tweets: sum, index: ind});
+				ind++;
 			});
+			if(!$scope.selectedData.country){
+				$scope.topics = $scope.topics.sort(function(a,b){
+					return b.tweets-a.tweets;
+				})
+				angular.forEach($scope.topics, function(t){
+					var data = {
+						key: t.name,
+						values:[[t.name, t.tweets]]
+					}
+					$scope.listData.push(data);
+				});
+			}
 		}
 		if($scope.topics.length && $scope.selectedData.country){
 			$scope.topics = [];
+			var ind = 0;
 			angular.forEach($scope.data, function(d){
 				angular.forEach(d.content, function(c){
 					if(c.value == $scope.selectedData.country.value){
 							var sum = c.rates.positive + c.rates.neutral + c.rates.negative;
-							$scope.topics.push({ name: d.value, tweets: sum });
+							$scope.topics.push({ name: d.value, tweets: sum, index: ind });
 					}
 				});
+				ind++;
 			});
 		}
 	};
@@ -76,10 +95,10 @@ twitter.controller('myController', function($rootScope, $scope){
 	$scope.selectedGraphs = [];
 	$scope.selectedCountries = [];
 	$scope.selectedTopics = [];
-	
+	$scope.listData = [];
 	$scope.selectTopic = function(index){
 		$scope.selectedData.topic = {
-			value: $scope.topics[index].name,
+			value: $scope.data[index].value,
 			index: index
 		}
 		var duplicate = false;
@@ -95,8 +114,10 @@ twitter.controller('myController', function($rootScope, $scope){
 			})
 			if(duplicate == false){
 				var cindex = $scope.selectedData.country.index;
+				console.log(cindex);
 				$scope.selectedTopics[$scope.selectedData.topic.value] = true;
-				$scope.selectedData.values = $scope.data[index].content[cindex].rates;
+				$scope.selectedData.values = angular.copy($scope.data[index].content[cindex].rates);
+				console.log($scope.data[index].value + " " + $scope.selectedData.values.positive + " " + $scope.selectedData.values.negative);
 				var rpos = $scope.selectedData.values.positive / ($scope.selectedData.values.positive + $scope.selectedData.values.negative) * 100;
 				var rneg = $scope.selectedData.values.negative / ($scope.selectedData.values.positive + $scope.selectedData.values.negative) * 100;
 				var data = 	{
@@ -117,6 +138,7 @@ twitter.controller('myController', function($rootScope, $scope){
 	$scope.showCountries = function(){
 		if(!$scope.countries.length){
 			var dupe = 0;
+			var ind = 0;
 			angular.forEach($scope.data, function(data){
 
 				angular.forEach(data.content, function(c) {
@@ -134,19 +156,34 @@ twitter.controller('myController', function($rootScope, $scope){
 								}
 							})
 						})
-						$scope.countries.push({name: c.value, tweets: sum});
+						$scope.countries.push({name: c.value, tweets: sum, index: ind });
+						ind++;
 					}
 				});
 			});
+			if(!$scope.selectedData.topic){
+				$scope.countries = $scope.countries.sort(function(a,b){
+					return b.tweets-a.tweets;
+				})
+				angular.forEach($scope.countries, function(c){
+					var data = {
+						key: c.name,
+						values:[[c.name, c.tweets]]
+					}
+					$scope.listData.push(data);
+				});
+			}
 		}
 		if($scope.countries.length && $scope.selectedData.topic){
 			$scope.countries = [];
 			var sum = 0;
+			var ind = 0;
 			angular.forEach($scope.data, function(d){
 				if(d.value == $scope.selectedData.topic.value){
 					angular.forEach(d.content, function(c){
 						sum = c.rates.positive + c.rates.neutral + c.rates.negative;
-						$scope.countries.push({ name: c.value, tweets: sum});
+						$scope.countries.push({ name: c.value, tweets: sum, index: ind });
+						ind++;
 					})
 				}
 			});
@@ -172,7 +209,7 @@ twitter.controller('myController', function($rootScope, $scope){
 			if(duplicate == false){	
 				var tindex = $scope.selectedData.topic.index;
 				$scope.selectedCountries[$scope.selectedData.country.value] = true;
-				$scope.selectedData.values = $scope.data[tindex].content[index].rates;
+				$scope.selectedData.values = angular.copy($scope.data[tindex].content[index].rates);
 				var rpos = $scope.selectedData.values.positive / ($scope.selectedData.values.positive + $scope.selectedData.values.negative) * 100;
 				var rneg = $scope.selectedData.values.negative / ($scope.selectedData.values.positive + $scope.selectedData.values.negative) * 100;
 				var data = 	{
