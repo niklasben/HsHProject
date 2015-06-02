@@ -30,6 +30,6 @@ x_names = [i.capitalize() for i in topic.keys()]
 plt.xticks(xrange(0,len(topic.keys())),x_names,rotation = 90)  
 plt.hist(vec,bins = len(topic.keys()))  
 plt.xlabel('Topics')            
-plt.ylabel('Frequency') 
+plt.ylabel('# of Tweets') 
 plt.show()
 #plt.savefig('topics.png')

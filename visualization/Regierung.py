@@ -51,13 +51,13 @@ for line in f:
 #print total_countries
 #print total_countries.values()
 
-total_countries = (np.array(pos_countries.values()))+(np.array(neg_countries.values()))+(np.array(neu_countries.values()))
-#Normalized Data
-pos = total_countries*np.array(pos_countries.values())/100
+#total_countries = (np.array(pos_countries.values()))+(np.array(neg_countries.values()))+(np.array(neu_countries.values()))
+###Normalized Data
+#pos = total_countries*np.array(pos_countries.values())/100
 #neg = ((np.array(total_countries.values())*np.array(neg_countries.values()))/100)
 #neu = ((np.array(total_countries.values())*np.array(neu_countries.values()))/100)
 #print total_countries
-print pos
+#print pos
 
 
 #nr = total_countries.values()/pos_countries.values()*100
@@ -111,7 +111,7 @@ for i in xrange(0, len(neg_countries.keys())):
 #plt.ylabel('# of Tweets')
 
 ##########################
-N = 26
+N = 21
 
 ind = np.arange(N)  # the x locations for the groups
 width = 0.35       # the width of the bars
@@ -145,10 +145,6 @@ def autolabel(rects):
 autolabel(rects1)
 autolabel(rects2)
 autolabel(rects3)
-############################
-
-
-
 
 
 plt.show()
