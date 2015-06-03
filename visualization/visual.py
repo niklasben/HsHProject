@@ -117,7 +117,7 @@ fancybox = True, shadow = True)
 plt.show()
 
 ### Histogram
-file_hist = open("data_ranking.txt", "r")
+file_hist = open("data_ranking_all.txt", "r")
 
 
 hist = []
