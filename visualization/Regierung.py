@@ -8,7 +8,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pylab
 from scipy.stats import uniform
-from sklearn import preprocessing
+#from sklearn import preprocessing
 
 f = open('../SentimentAnalysis/sentiment_analysed_tweets.txt')
 
@@ -135,16 +135,16 @@ ax.set_xticklabels(x_names,rotation = 60)
 
 ax.legend( (rects1[0], rects2[0], rects3[0]), ('Positive', 'Negative', 'Neutral') )
 
-def autolabel(rects):
-    # attach some text labels
-    for rect in rects:
-        height = rect.get_height()
-        ax.text(rect.get_x()+rect.get_width()/2., 1.05*height, '%d'%int(height),
-                ha='center', va='bottom')
-
-autolabel(rects1)
-autolabel(rects2)
-autolabel(rects3)
+#def autolabel(rects):
+#    # attach some text labels
+#    for rect in rects:
+#        height = rect.get_height()
+#        ax.text(rect.get_x()+rect.get_width()/2., 1.05*height, '%d'%int(height),
+#                ha='center', va='bottom')
+#
+#autolabel(rects1)
+#autolabel(rects2)
+#autolabel(rects3)
 
 
 plt.show()

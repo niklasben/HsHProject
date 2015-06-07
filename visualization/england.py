@@ -8,8 +8,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pylab
 from scipy.stats import uniform
-from sklearn.preprocessing import normalize
-from sklearn import preprocessing
+#from sklearn.preprocessing import normalize
+#from sklearn import preprocessing
 from decimal import Decimal
 import math
 

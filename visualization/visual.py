@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 #from matplotlib import figure
 import pylab
 from scipy.stats import uniform
-from sklearn import preprocessing
+#from sklearn import preprocessing
 import sys
 
 readfile = open("../SentimentAnalysis/sentiment_analysed_tweets.txt", "r")
@@ -112,56 +112,56 @@ for i in dict_neg.keys():
 my_xticks = topics
 plt.xticks(x, my_xticks, rotation = 90)
 #ax2.legend(['Negative Opinion'])
-ax1.legend(dict_pos.keys(), loc = 'center left', bbox_to_anchor = (1.1, -0.7),\
+ax1.legend(dict_pos.keys(), loc = 'center left', bbox_to_anchor = (1.0, -0.7),\
 fancybox = True, shadow = True)
 plt.show()
 
 ### Histogram
-file_hist = open("data_ranking_all.txt", "r")
-
-
-hist = []
-
-for line in file_hist:
-    if line[0] not in countries:
-        countries.append(line[2])
-    if line[1] not in topics:
-        topics.append(line[1])
-
-
-dict_hist = {}
-
-for i in countries:
-    dict_hist[i] = [0]*len(topics)
-
-
-
-for line in file_hist:
-    line = line.strip().replace('-','5').replace('+','10')\
-        .replace("\xfc", "ue").replace("\xe4", "ae").split('\t')
-
-#first create a single histogram
-
-mu, sigma = 200, 25
-x = mu + sigma*P.randn(10000)
-
-#the histogram of the data with histtype='step'
-n, bins, patches = P.hist(x, 50, normed=1, histtype='stepfilled')
-P.setp(patches, 'facecolor', 'g', 'alpha', 0.75)
-
-#add a line showing the expected distribution
-y = P.normpdf( bins, mu, sigma)
-l = P.plot(bins, y, 'k--', linewidth=1.5)
-
-P.figure()
-
-#create a new data-set
-x = mu + sigma*P.randn(1000,3)
-
-n, bins, patches = P.hist(x, 10, normed=1, histtype='bar',
-                            color=['crimson', 'burlywood', 'chartreuse'],
-                            label=['Crimson', 'Burlywood', 'Chartreuse'])
-P.legend()
+#file_hist = open("data_ranking_all.txt", "r")
+#
+#
+#hist = []
+#
+#for line in file_hist:
+#    if line[0] not in countries:
+#        countries.append(line[2])
+#    if line[1] not in topics:
+#        topics.append(line[1])
+#
+#
+#dict_hist = {}
+#
+#for i in countries:
+#    dict_hist[i] = [0]*len(topics)
+#
+#
+#
+#for line in file_hist:
+#    line = line.strip().replace('-','5').replace('+','10')\
+#        .replace("\xfc", "ue").replace("\xe4", "ae").split('\t')
+#
+##first create a single histogram
+#
+#mu, sigma = 200, 25
+#x = mu + sigma*P.randn(10000)
+#
+##the histogram of the data with histtype='step'
+#n, bins, patches = P.hist(x, 50, normed=1, histtype='stepfilled')
+#P.setp(patches, 'facecolor', 'g', 'alpha', 0.75)
+#
+##add a line showing the expected distribution
+#y = P.normpdf( bins, mu, sigma)
+#l = P.plot(bins, y, 'k--', linewidth=1.5)
+#
+#P.figure()
+#
+##create a new data-set
+#x = mu + sigma*P.randn(1000,3)
+#
+#n, bins, patches = P.hist(x, 10, normed=1, histtype='bar',
+#                            color=['crimson', 'burlywood', 'chartreuse'],
+#                            label=['Crimson', 'Burlywood', 'Chartreuse'])
+#P.legend()
 
 
 
@@ -175,4 +175,4 @@ readfile.close()
 ranking_file_all.close()
 ranking_file_pos.close()
 ranking_file_neg.close()
-file_hist.close()
+#file_hist.close()
