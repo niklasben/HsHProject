@@ -192,7 +192,7 @@ twitter.controller('myController', function($rootScope, $scope){
 	
 	$scope.selectCountry = function(index){
 		$scope.selectedData.country = {
-			value: $scope.countries[index].name,
+			value: $scope.data[0].content[index].value,
 			index: index
 		}
 		var duplicate = false;

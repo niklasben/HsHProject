@@ -38,7 +38,9 @@
 							<p>
 							<b>Was sagt Deutschland über seine europäischen Nachbarn? Wir haben die Antwort!</b><br>
 							</p>
-							<span>Wir haben tausende von <a href="" popover-trigger="mouseenter" popover="Die auf 140 Zeichen beschränkten Nachrichten werden auch 'Tweets' genannt.">Tweets</a> gesammelt und analysiert. Wählen Sie unten Länder  oder Themen, welche Sie interessieren und erfahren Sie die Meinung der Deutschen Twitter-User.</span>
+							<span>Wir haben tausende von <a href="" popover-trigger="mouseenter" popover="Die auf 140 Zeichen beschränkten Nachrichten werden auch 'Tweets' genannt.">
+							Tweets</a> gesammelt und analysiert. Wählen Sie unten einen Sucheinstieg, und erfahren Sie die Meinung der deutschen Twitter-User.
+							</span>
 
 						</div>
 						<div style="clear:both;">
@@ -49,7 +51,7 @@
 										<img src="img/topics.png" />
 									</div>
 									<div class="view-select-label">
-										<span>Themen</span>
+										<span>Thema</span>
 									</div>
 								</div>
 							</div>
@@ -57,10 +59,10 @@
 								<div class="view-select-button" ng-click="selectView('countries')">
 									<div class="view-select-img">
 										<span class="img-helper"></span>
-										<img src="img/countries.png" />
+										<img src="img/map.png" />
 									</div>
 									<div class="view-select-label">
-										<span>Länder</span>
+										<span>Land</span>
 									</div>
 								</div>
 							</div>
@@ -70,17 +72,17 @@
 									<span ng-if="selectedData.country">Vorhandene Themen für <span style="font-weight:bold;">{{selectedData.country.value}}</span>:</span>
 								</p>
 								<ul class="simple-list">
-									<li ng-repeat="t in topics | orderBy : '-tweets' " ng-class="{'simple-list-selected': selectedTopics[t.name]}" style="clear:both;overflow:hidden;" ng-click="selectTopic(t.index)">
-										<span style="float:left;">
-											<a href="" style="clear:both;">
-												<span style="margin:0px 5px;">{{t.name}}</span>
-												<span>({{t.tweets}} Tweets)</span>
-											</a>
+									<li ng-repeat="t in topics" ng-class="{'simple-list-selected': selectedTopics[t.name]}" style="clear:both;overflow:hidden;" ng-hide="t.tweets <= 2" ng-click="selectTopic(t.index)">
+										<span class="simple-list-label">{{t.name}}</span>
+										<span class="simple-list-count" title="Gesamtanzahl von Tweets">
+											<span>{{t.tweets}}</span>
+											<span><img style="height:1em;vertical-align:middle;" src="img/tlogo.png"></img></span>
 										</span>
-										<span ng-if="selectedTopics[t.name]" class="list-checked"><span class="glyphicon glyphicon-ok"></span>
+										<!-- <span ng-if="selectedTopics[t.name]" class="list-checked"><span class="glyphicon glyphicon-ok"></span> -->
 									</li>
 								</ul>
 							</div>
+							<!--
 							<div ng-if="view == 'topics' && !selectedData.country" class="select-container">
 								<nvd3-multi-bar-horizontal-chart
 									data="listData"
@@ -107,20 +109,20 @@
 										<svg></svg>
 								</nvd3-multi-bar-horizontal-chart>
 							</div>
+							-->
 							<div ng-if="view == 'countries'" class="list-container">
 								<p style="padding-left:40px;font-size:1.2em;">
 									<span ng-if="!selectedData.topic">Wählen Sie ein Land:</span>
 									<span ng-if="selectedData.topic">Vorhandene Länder-Statistiken zum Thema <span style="font-weight:bold;">{{selectedData.topic.value}}</span>:</span>
 								</p>
 								<ul class="simple-list">
-									<li ng-repeat="c in countries | orderBy : '-tweets' " ng-class="{ 'simple-list-selected': selectedCountries[c.name]}" style="clear:both;overflow:hidden;" ng-click="selectCountry(c.index)">
-										<span style="float:left;">
-											<a href="" style="clear:both;">
-												<span style="margin:0px 5px;">{{c.name}}</span>
-												<span>({{c.tweets}} Tweets)</span> 
-											</a>
+									<li ng-repeat="c in countries" ng-class="{ 'simple-list-selected': selectedCountries[c.name]}" ng-hide="c.tweets <= 2" style="clear:both;overflow:hidden;" ng-click="selectCountry(c.index)">
+										<span class="simple-list-label">{{c.name}}</span>
+										<span class="simple-list-count" title="Gesamtanzahl von Tweets">
+											<span>{{c.tweets}}</span>
+											<span><img style="height:1em;vertical-align:middle;" src="img/tlogo.png"></img></span>
 										</span>
-										<span ng-if="selectedCountries[c.name]" class="list-checked"><span class="glyphicon glyphicon-ok"></span>
+										<!-- <span ng-if="selectedCountries[c.name]" class="list-checked"><span class="glyphicon glyphicon-ok"></span> -->
 									</li>
 								</ul>
 							</div>
@@ -134,8 +136,18 @@
 									</div>
 								</div>
 								<div class="icon">
-									<img class="icon-big" ng-if="view == 'countries' && !selectedData.topic" src="img/countries.png" />
-									<img ng-if="view == 'topics' && !selectedData.country" src="img/topics.png" />
+									<span ng-if="view == 'countries' && !selectedData.topic">
+										<img class="icon-big" src="img/map.png" />
+										<div style="font-size:3em;">
+											Länder
+										</div>
+									</span>
+									<span ng-if="view == 'topics' && !selectedData.country">
+										<img src="img/topics.png" />
+										<div style="font-size:3em;">
+											Themen
+										</div>
+									</span>
 								</div>
 								<div ng-if="graphData.length" style="overflow:hidden;">
 									<nvd3-multi-bar-horizontal-chart

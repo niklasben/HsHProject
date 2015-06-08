@@ -1,4 +1,6 @@
-
+body{
+	background-color:#f5f8fa;
+}
 .header-logo{
 	cursor:pointer;
 	margin-left:30px;
@@ -6,8 +8,10 @@
 .content{
 	overflow:hidden;
 	border-radius:5px;
+	background-color:#fff;
 	clear:both;
-	border:2px solid #ddd;
+	border:1px solid #ddd;
+	margin-bottom:25px;
 }
 .simple-list{
 	list-style-type:none;
@@ -33,6 +37,17 @@
 }
 .simple-list-selected{
 	background-color: #eee !important;
+	border: 1px solid black;
+}
+.simple-list-label{
+	font-weight:bold;
+	margin:0px 5px;
+	float:left;
+}
+.simple-list-count{
+	padding:0px 4px;
+	white-space:nowrap;
+	float:right;
 }
 .list-checked{
 	color:#00CC00;
@@ -58,23 +73,21 @@
 }
 .navi-menu a{
 	margin: 0px 10px;
-	border:1px solid #ddd;
-	padding:4px;
+	padding:7px;
 	font-size:1.2em;
 	border-radius: 3px;
-	background-color:#eee;
+	color:#fff;
+	background-color:#55acee;
 }
 .navi-menu a:hover{
 	text-decoration:none;
-	border:1px solid #428bca;
-	box-shadow: 3px 3px 4px #428bca;
 }
 .icon{
 	width:100%;
 	text-align:center;
 }
 .icon-big{
-	width:100px;
+	width:200px;
 }
 .icon-small{
 	width:30px;
