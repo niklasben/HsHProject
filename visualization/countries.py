@@ -30,6 +30,8 @@ x_names = [i.capitalize() for i in countries.keys()]
 plt.xticks(range(0,len(countries.keys())),x_names,rotation = 90)  
 plt.hist(countries_array,bins = len(countries.keys()))
 plt.xlabel('Countries')            
-plt.ylabel('# of Tweets') 
+plt.ylabel('# of Tweets')
+plt.title('# of Tweets for all countries', fontsize=20)
+
 plt.show()
-plt.savefig('countries.png')
+#plt.savefig('countries.png')
