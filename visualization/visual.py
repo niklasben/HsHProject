@@ -31,7 +31,7 @@ for line in readfile:
 
 #print countries
 #print topics
-            
+
 ### Dictionaries
 dict_all = {}
 dict_pos = {}
@@ -103,6 +103,9 @@ for i in dict_pos.keys():
     max(list(dict_pos[i]))), color[index], linestyle = '-', marker = 'o',\
              markersize = 6.0)
     index += 1
+    ax1.annotate('Positive Tweets', xy=(1, 0.8),  xycoords='data',
+                xytext=(1, 1), textcoords='offset points',
+                )
 #plt.legend(['Positive Opinion'])
 ax2 = fig.add_subplot(212)
 index = 0
@@ -112,6 +115,9 @@ for i in dict_neg.keys():
     max(list(dict_neg[i]))), color[index], linestyle = '-', marker = 'o',\
              markersize = 6.0)
     index += 1
+    ax2.annotate('Negative Tweets', xy=(1, 0.8),  xycoords='data',
+                xytext=(1, 1), textcoords='offset points',
+                )
 my_xticks = topics
 plt.xticks(x, my_xticks, rotation = 90)
 #ax2.legend(['Negative Opinion'])
