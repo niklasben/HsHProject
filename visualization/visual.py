@@ -4,13 +4,14 @@ Created on Tue Apr 28 09:53:01 2015
 
 @author: Niklas Bendixen
 """
-import pylab as P
+#import pylab as P
+#import numpy as np
 import matplotlib.pyplot as plt
 #from matplotlib import figure
-import pylab
+#import pylab
 from scipy.stats import uniform
 #from sklearn import preprocessing
-import sys
+#import sys
 
 readfile = open("../SentimentAnalysis/sentiment_analysed_tweets.txt", "r")
 ranking_file_all = open("data_ranking_all.txt", "w")
@@ -30,7 +31,7 @@ for line in readfile:
 
 #print countries
 #print topics
-            
+
 ### Dictionaries
 dict_all = {}
 dict_pos = {}
@@ -95,11 +96,16 @@ index = 0
 fig = plt.figure()
 ax1 = fig.add_subplot(211)
 
+plt.title('Anzahl Tweets aller Laender (normalisiert)', fontsize=20)
+
 for i in dict_pos.keys():
     ax1.plot(x, uniform.cdf(list(dict_pos[i]), loc = 0, scale = \
     max(list(dict_pos[i]))), color[index], linestyle = '-', marker = 'o',\
              markersize = 6.0)
     index += 1
+    ax1.annotate('Positive Tweets', xy=(1, 0.8),  xycoords='data',
+                xytext=(1, 1), textcoords='offset points',
+                )
 #plt.legend(['Positive Opinion'])
 ax2 = fig.add_subplot(212)
 index = 0
@@ -109,12 +115,52 @@ for i in dict_neg.keys():
     max(list(dict_neg[i]))), color[index], linestyle = '-', marker = 'o',\
              markersize = 6.0)
     index += 1
+    ax2.annotate('Negative Tweets', xy=(1, 0.8),  xycoords='data',
+                xytext=(1, 1), textcoords='offset points',
+                )
 my_xticks = topics
 plt.xticks(x, my_xticks, rotation = 90)
 #ax2.legend(['Negative Opinion'])
-ax1.legend(dict_pos.keys(), loc = 'center left', bbox_to_anchor = (1.0, -0.7),\
+ax1.legend(dict_pos.keys(), loc = 'center left', bbox_to_anchor = (1.0, 0.0),\
 fancybox = True, shadow = True)
+
+
+
+
+#plt.ylabel('Test')
+
+
+
+#N = 21
+#
+#ind = np.arange(N)  # the x locations for the groups
+#width = 0.35       # the width of the bars
+#
+#
+#fig, ax = plt.subplots()
+#
+#
+#
+#for i in dict_pos.keys():
+#    ax1.bar(ind, uniform.cdf(list(dict_pos[i])), color[index])
+#    index += 1
+#plt.legend(['Positive Opinion'])
+#ax2 = fig.add_subplot(212)
+#index = 0
+#
+#for i in dict_neg.keys():
+#    ax2.bar(ind, uniform.cdf(list(dict_neg[i])), color[index])
+#    index += 1
+#my_xticks = topics
+#plt.xticks(x, my_xticks, rotation = 90)
+#ax2.legend(['Negative Opinion'])
+#ax1.legend(dict_pos.keys(), loc = 'center left', bbox_to_anchor = (1.0, -0.7),\
+#fancybox = True, shadow = True)
+
+
+plt.tight_layout
 plt.show()
+#plt.savefig('visual.png')
 
 ### Histogram
 #file_hist = open("data_ranking_all.txt", "r")

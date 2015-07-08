@@ -31,5 +31,7 @@ plt.xticks(xrange(0,len(topic.keys())),x_names,rotation = 90)
 plt.hist(vec,bins = len(topic.keys()))  
 plt.xlabel('Topics')            
 plt.ylabel('# of Tweets') 
+plt.title('Anzahl Tweets fuer die Topics', fontsize=20)
+
 plt.show()
 #plt.savefig('topics.png')
