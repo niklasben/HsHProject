@@ -1,21 +1,67 @@
-# HsHProject
-Files for a Students Project at the University of Applied Sciences and Arts Hannover
+# GeTwitter-Anwendung des Pojekts
 
-## Lemmatizer
+## Nutzung
 
-In this folder are all Perl files for the German Lemmatizer
+Die Anwendung muss in einer Server-Umgebung ausgeführt werden, beispielsweise im Verzeichnis eines laufenden Apache-Servers. Im Ordner '/data' wird eine Datei input.json erwartet, welche die zu verarbeitenden Daten enthält. Die Anwendung besteht aus mehreren Anzeigearten, die durch die Navigation angesteuert werden:
 
-## Scripts
+Hauptbildschirm - Wird beim Start der Anwendung angezeigt, bietet die Möglichkeit der Auswahl des Sucheinstiegs (Thema/Land)
 
-The perl scripts are divided by country and will retrieve the tweets using their keywords for the last week or so. The Twitter API is restricting calls made by a user in 15 minute windows. Due to this restriction, a waiting period is inserted after 175 calls.
-Each script is expecting an (int) input, which represents the calls made by the script running prior to it after the last waiting period. This is needed so as to not waste possible calls.
+Zwischenselektion - Abhängig von der Auswahl auf dem Hauptbildschirm wird anschließend eine Liste an Themen oder Ländern angezeigt (bei Auswahl der Suche nach Thema also eine Liste von Themen). 
 
-## Output files
+Endselektion mit Graphen - Abhängig von der Auswahl in der Zwischenselektion wird eine neue Liste mit Daten für das gewählte Land/Thema angezeigt. Bei der Auswahl eines Listenitems wird dieses dem Graphen auf der rechten Seite hinzugefügt, nochmaliges klicken auf den gleichen Term entfernt den Term wieder aus dem Graphen.
 
-The Output files are formatted as such:
 
-  'Running # of tweet' \t 'tweet_id' \t 'timestamp' \t 'message' \n
-  
-File names are formatted as
+### input.json
 
-  "TweetFile_$country_".$date.".txt"
+Die Datenstruktur der JSON-Datei lässt sich wie folgt darstellen.
+
+	[
+		{
+			'value':'Topic1',
+			'content':[
+				{
+					'value':'Land1',
+					'rates':{
+						'positive':10,
+						'neutral':30,
+						'negative':10
+					}
+				},
+				{
+					...
+				}
+			]
+		},
+		{
+			...
+		}
+	]
+	
+Hierbei muss jedes Thema die gesammte Auswahl von Ländern umschließen.
+
+## Abhängigkeiten
+
+Alle benötigten Abhängigkeiten sind im Ordner '/lib' hinterlegt. Dies sind AngularJS, Bootstrap-UI, d3.js, nvd3.js und angularjs-nvd3-directives.js
+
+## sentiment.js
+
+Die Datei sentiment.js ist die zentrale Steuerungsdatei für die Anzeige und die Funktionen der Anwendung.
+Sie lädt in einem 'run'-Block die bereitgestellte 'input.json' vor dem Start der Anwendung.
+In ihrer Controller-Einheit gibt es fünf Funktionen, welche die Darstellung beeinflussen:
+
+### selectView
+
+Diese Funktion steuert die Darstellung einer der drei Anzeigearten, dem Hauptbildschirm mit der Auswahl des Sucheinstiegs, sowie je eine Auswahl ('countries' und 'topics') für die jeweiligen Auswahllisten.
+	
+### showTopics & showCountries
+
+Diese Funktionen dienen der Darstellung der Listen, aus denen die anzuzeigenden Themen bzw Länder selektiert werden können.
+
+### selectTopic & selectCountry
+
+Diese Funktionen verarbeiten die Auswahl aus einer der Listen und übergibt die selektierten Daten an die eingebundenen Graphen-Templates.
+
+## index.html
+
+Die Datei dient der Browser-Darstellung, deren Anzeige im JavaScript gesteuert wird.
+	
